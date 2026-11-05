@@ -1,0 +1,113 @@
+{
+  "version": 1,
+  "fetchedAt": 1793919417290,
+  "items": [
+    {
+      "id": "n1i7besidyrt",
+      "title": "Rockstar Dumps Nearly 40 Spectacular New GTA 6 Screenshots Ahead Of Launch",
+      "summary": "Rockstar released a launch gallery of nearly 40 new screenshots two weeks before the November 19 release.",
+      "source": "Kotaku",
+      "category": "Update",
+      "url": "https://kotaku.com/rockstar-dumps-nearly-40-spectacular-new-gta-6-screenshots-ahead-of-launch-2000754266",
+      "publishedAt": 1793896977913,
+      "firstSeen": 1793918577913
+    },
+    {
+      "id": "n0oruh2d7zmy",
+      "title": "Take-Two boss Strauss Zelnick isn't too concerned about piracy ahead of GTA 6 even if he is 'worried about everything all the time'",
+      "summary": "In a WSJ interview, Zelnick called piracy a fact of life, said server-connected games and large file sizes limit it, and said Take-Two will respond with legal and technical measures if it becomes a problem.",
+      "source": "PC Gamer",
+      "category": "Update",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/take-two-boss-strauss-zelnick-isnt-too-concerned-about-piracy-ahead-of-gta-6-even-if-he-is-worried-about-everything-all-the-time/",
+      "publishedAt": 1793889797662,
+      "firstSeen": 1793918597662
+    },
+    {
+      "id": "n168js05z6dz",
+      "title": "GTA 6 Boss Talks The Game's Budget And Calls Out A \"High-Profile\" Game For Releasing In A Rough State",
+      "summary": "Take-Two CEO Strauss Zelnick told the WSJ the game was expensive and took a long time, and that he won't claim success before launch.",
+      "source": "GameSpot",
+      "category": "Update",
+      "url": "https://www.gamespot.com/articles/gta-6-boss-talks-the-games-budget-and-calls-out-a-high-profile-game-for-releasing-in-a-rough-state/",
+      "publishedAt": 1793889777913,
+      "firstSeen": 1793918577913
+    },
+    {
+      "id": "n0wr35m6mgc3",
+      "title": "PlayStation Leaks GTA 6 PS5 Pro Enhancements",
+      "summary": "A PlayStation France listing, since removed, named only PSSR upscaling and advanced ray tracing as PS5 Pro features, though it may contain copy-paste errors.",
+      "source": "ComicBook.com",
+      "category": "Leak",
+      "url": "https://comicbook.com/gaming/news/gta-6-grand-theft-auto-vi-ps5-pro-enhancements/",
+      "publishedAt": 1793886177913,
+      "firstSeen": 1793918577913
+    },
+    {
+      "id": "n23uokc3axz1",
+      "title": "Has GTA 6 Been Delayed Again Before Release?",
+      "summary": "Insider Gaming says there is no new delay, noting review copies are with outlets and the November 19 date stands.",
+      "source": "Insider Gaming",
+      "category": "Update",
+      "url": "https://insider-gaming.com/gta-6-delayed-again-release/",
+      "publishedAt": 1793882577913,
+      "firstSeen": 1793918577913
+    },
+    {
+      "id": "n124nrg4ymvz",
+      "title": "GTA 6 Has Already Sold Nearly 8 Million Copies, One Data Firm Claims",
+      "summary": "Sensor Tower estimates 7.71 million pre-order sales and about $751 million in revenue, with roughly 74% of copies on PS5 and 26% on Xbox Series X|S.",
+      "source": "Kotaku",
+      "category": "Update",
+      "url": "https://kotaku.com/gta-6-has-already-sold-nearly-8-million-copies-one-data-firm-claims-2000753423",
+      "publishedAt": 1793833017290,
+      "firstSeen": 1793919417290
+    },
+    {
+      "id": "n048vxqytsxe",
+      "title": "GTA 6 Will Not Actually Come To Stores Sooner",
+      "summary": "Rockstar briefly said boxed code-in-a-box copies would hit stores on November 10, then reverted that to November 12, while pre-loading was moved up to November 10 and the game still can't be played until November 19.",
+      "source": "GameSpot",
+      "category": "Update",
+      "url": "https://www.gamespot.com/articles/gta-6-will-now-come-to-stores-sooner-but-its-not-playable-right-away/",
+      "publishedAt": 1793832197662,
+      "firstSeen": 1793918597662
+    },
+    {
+      "id": "n1t3yq27a809",
+      "title": "GTA 6 Pre-Load Date and Time Announced by Rockstar Games",
+      "summary": "Rockstar confirmed pre-loading starts at 12am local time on November 10 for PS5, with Xbox pre-loading starting on the same date at 12am GMT.",
+      "source": "ComicBook.com",
+      "category": "Update",
+      "url": "https://comicbook.com/gaming/news/gta-6-pre-load-ps5-xbox-date-release/",
+      "publishedAt": 1793745797662,
+      "firstSeen": 1793918597662
+    },
+    {
+      "id": "n21h9cmvviut",
+      "title": "Walmart GTA 6 Pre-Orders Will Include A 'Surprise'",
+      "summary": "Walmart is adding an unspecified bonus to physical GTA 6 pre-orders, though the box contains only a download code and Walmart has had trouble fulfilling pre-orders recently.",
+      "source": "Kotaku",
+      "category": "Update",
+      "url": "https://kotaku.com/grand-theft-auto-6-pre-order-walmart-surprise-release-date-2000752341",
+      "publishedAt": 1793660217290,
+      "firstSeen": 1793919417290
+    },
+    {
+      "id": "n2bhooapmtc4",
+      "title": "Today is Finally the End of an Era for GTA 6",
+      "summary": "The game hit the one-month mark before its November 19 release, with the launch trailer reinforcing the date.",
+      "source": "Game Rant",
+      "category": "Community",
+      "url": "https://gamerant.com/gta-6-release-date-countdown-month/",
+      "publishedAt": 1792449777913,
+      "firstSeen": 1793918577913
+    }
+  ],
+  "model": "claude-sonnet-5-5",
+  "usage": {
+    "inputTokens": 54079,
+    "outputTokens": 849,
+    "searches": 2
+  },
+  "added": 2
+}
