@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "fetchedAt": 1793919417290,
+  "fetchedAt": 1793920448191,
   "items": [
     {
       "id": "n1i7besidyrt",
@@ -11,6 +11,36 @@
       "url": "https://kotaku.com/rockstar-dumps-nearly-40-spectacular-new-gta-6-screenshots-ahead-of-launch-2000754266",
       "publishedAt": 1793896977913,
       "firstSeen": 1793918577913
+    },
+    {
+      "id": "n1ho2vwaiw43",
+      "title": "Massive GTA 6 Mural Tagged By Graffiti Artist Overnight And People Aren't Happy",
+      "summary": "A graffiti artist named Jelous tagged the large Rockstar-commissioned GTA 6 mural in Brooklyn and posted it on Instagram, and many fans reacted angrily.",
+      "source": "Kotaku",
+      "category": "Community",
+      "url": "https://kotaku.com/massive-gta-6-mural-tagged-by-graffiti-artist-overnight-and-people-arent-happy-as-a-graffiti-artist-myself-i-honestly-think-this-is-pretty-disrespectful-2000754181",
+      "publishedAt": 1793895248191,
+      "firstSeen": 1793920448191
+    },
+    {
+      "id": "n1nrlv6le57z",
+      "title": "Grand Theft Auto 6's New Launch Screen Shots Have Strippers, Raves, Guns, and More",
+      "summary": "Alongside the new launch gallery, a YouTuber's preview points to a \"photo studio mode\", which could make GTA 6 the first GTA with an official photo mode.",
+      "source": "ComicBook.com",
+      "category": "Leak",
+      "url": "https://comicbook.com/gaming/news/new-grand-theft-auto-6-screen-shots-just-before-launch/",
+      "publishedAt": 1793891648191,
+      "firstSeen": 1793920448191
+    },
+    {
+      "id": "n2cpnj2d820y",
+      "title": "GTA 6 Looks Pretty Realistic, Until It Comes To Gym Etiquette",
+      "summary": "A GameSpot writer jokes about the poor gym hygiene of the shirtless, sweaty Jason in one of the newly released launch screenshots.",
+      "source": "GameSpot",
+      "category": "Community",
+      "url": "https://www.gamespot.com/articles/gta-6-looks-pretty-realistic-until-it-comes-to-gym-etiquette/",
+      "publishedAt": 1793891648191,
+      "firstSeen": 1793920448191
     },
     {
       "id": "n0oruh2d7zmy",
@@ -71,43 +101,13 @@
       "url": "https://www.gamespot.com/articles/gta-6-will-now-come-to-stores-sooner-but-its-not-playable-right-away/",
       "publishedAt": 1793832197662,
       "firstSeen": 1793918597662
-    },
-    {
-      "id": "n1t3yq27a809",
-      "title": "GTA 6 Pre-Load Date and Time Announced by Rockstar Games",
-      "summary": "Rockstar confirmed pre-loading starts at 12am local time on November 10 for PS5, with Xbox pre-loading starting on the same date at 12am GMT.",
-      "source": "ComicBook.com",
-      "category": "Update",
-      "url": "https://comicbook.com/gaming/news/gta-6-pre-load-ps5-xbox-date-release/",
-      "publishedAt": 1793745797662,
-      "firstSeen": 1793918597662
-    },
-    {
-      "id": "n21h9cmvviut",
-      "title": "Walmart GTA 6 Pre-Orders Will Include A 'Surprise'",
-      "summary": "Walmart is adding an unspecified bonus to physical GTA 6 pre-orders, though the box contains only a download code and Walmart has had trouble fulfilling pre-orders recently.",
-      "source": "Kotaku",
-      "category": "Update",
-      "url": "https://kotaku.com/grand-theft-auto-6-pre-order-walmart-surprise-release-date-2000752341",
-      "publishedAt": 1793660217290,
-      "firstSeen": 1793919417290
-    },
-    {
-      "id": "n2bhooapmtc4",
-      "title": "Today is Finally the End of an Era for GTA 6",
-      "summary": "The game hit the one-month mark before its November 19 release, with the launch trailer reinforcing the date.",
-      "source": "Game Rant",
-      "category": "Community",
-      "url": "https://gamerant.com/gta-6-release-date-countdown-month/",
-      "publishedAt": 1792449777913,
-      "firstSeen": 1793918577913
     }
   ],
   "model": "claude-sonnet-5-5",
   "usage": {
-    "inputTokens": 54079,
-    "outputTokens": 849,
-    "searches": 2
+    "inputTokens": 60947,
+    "outputTokens": 1079,
+    "searches": 3
   },
-  "added": 2
+  "added": 3
 }
