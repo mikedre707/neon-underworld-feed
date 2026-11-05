@@ -1,0 +1,95 @@
+name: Refresh news feed
+
+# Asks the Neon Underworld server for the next feed and commits it as news.json.
+# The server runs the search; this job only carries the file back and forth.
+# Docs: docs/news-feed.md in the app repository.
+
+on:
+  schedule:
+    # Every two hours, at 17 past, to stay clear of the top-of-hour rush.
+    - cron: '17 */2 * * *'
+  workflow_dispatch:
+    inputs:
+      first_run:
+        description: 'Start a new feed if news.json is missing'
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Ask the server for the next feed
+        env:
+          NEWS_REFRESH_TOKEN: ${{ secrets.NEWS_REFRESH_TOKEN }}
+          FIRST_RUN: ${{ inputs.first_run }}
+        run: |
+          set -euo pipefail
+          if [ -z "${NEWS_REFRESH_TOKEN:-}" ]; then
+            echo "The NEWS_REFRESH_TOKEN secret is not set." >&2
+            exit 1
+          fi
+          # A missing feed file is an error, not a first run. Starting over
+          # gives every story a new first-seen time, and devices with alerts on
+          # would treat old stories as new. Only a manual run that asks for it
+          # may start a feed from nothing.
+          if [ ! -f news.json ]; then
+            if [ "${FIRST_RUN:-}" = "true" ]; then
+              echo '{}' > news.json
+            else
+              echo "news.json is missing. Restore it from history, or run this workflow by hand with first_run ticked." >&2
+              exit 1
+            fi
+          fi
+          code=$(curl -sS --max-time 480 -o next.json -w '%{http_code}' \
+            -X POST https://gta6-companion.expo.app/api/news-refresh \
+            -H "authorization: Bearer ${NEWS_REFRESH_TOKEN}" \
+            -H 'content-type: application/json' \
+            --data-binary @news.json)
+          if [ "$code" != "200" ]; then
+            echo "The server answered HTTP $code." >&2
+            exit 1
+          fi
+          # A failure after the request is accepted comes back as {"error": "..."}.
+          if jq -e 'has("error")' next.json > /dev/null; then
+            echo "The server reported: $(jq -r '.error' next.json)" >&2
+            exit 1
+          fi
+          # Publish only a file of the expected shape.
+          jq -e '
+            .version == 1
+            and (.fetchedAt | type == "number")
+            and (.items | type == "array")
+            and (.items | length >= 3)
+            and all(.items[];
+              (.id | type == "string")
+              and (.title | type == "string")
+              and (.url | test("^https?://"))
+              and (.publishedAt | type == "number"))
+          ' next.json > /dev/null
+          jq '.' next.json > news.json
+          rm -f next.json
+          echo "Stories: $(jq '.items | length' news.json), added this run: $(jq '.added' news.json), model: $(jq -r '.model' news.json)"
+
+      - name: Publish
+        run: |
+          set -euo pipefail
+          git config user.name "neon-underworld-feed"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add news.json
+          if git diff --cached --quiet; then
+            echo "No change."
+          else
+            git commit -m "Refresh feed"
+            git push
+          fi
