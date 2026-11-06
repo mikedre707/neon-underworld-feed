@@ -1,7 +1,17 @@
 {
   "version": 1,
-  "fetchedAt": 1793980576997,
+  "fetchedAt": 1794000621217,
   "items": [
+    {
+      "id": "n0xcv0m934h5",
+      "title": "Rockstar could release GTA 6 on PC sooner to head off AI ports, former Grand Theft Auto lead suggests",
+      "summary": "Former Rockstar technical director Obbe Vermeij speculates that fear of AI-made PC ports could push Rockstar to narrow the gap between the console and PC releases, though he has no inside knowledge and left the studio in 2009.",
+      "source": "GamesRadar+",
+      "category": "Leak",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/rockstar-could-release-gta-6-on-pc-sooner-to-head-off-ai-ports-former-grand-theft-auto-lead-suggests-i-think-i-would-be-concerned/",
+      "publishedAt": 1793986221217,
+      "firstSeen": 1794000621217
+    },
     {
       "id": "n1i7besidyrt",
       "title": "Rockstar Dumps Nearly 40 Spectacular New GTA 6 Screenshots Ahead Of Launch",
@@ -91,23 +101,13 @@
       "url": "https://gamesradar.com/games/grand-theft-auto/its-not-just-gta-6-take-two-boss-argues-we-have-the-best-collection-of-ip-in-the-business-thanks-to-red-dead-redemption-borderlands-and-more",
       "publishedAt": 1793861411942,
       "firstSeen": 1793947811942
-    },
-    {
-      "id": "n124nrg4ymvz",
-      "title": "GTA 6 Has Already Sold Nearly 8 Million Copies, One Data Firm Claims",
-      "summary": "Sensor Tower estimates 7.71 million pre-order sales and about $751 million in revenue, with roughly 74% of copies on PS5 and 26% on Xbox Series X|S.",
-      "source": "Kotaku",
-      "category": "Update",
-      "url": "https://kotaku.com/gta-6-has-already-sold-nearly-8-million-copies-one-data-firm-claims-2000753423",
-      "publishedAt": 1793833017290,
-      "firstSeen": 1793919417290
     }
   ],
   "model": "claude-sonnet-5-5",
   "usage": {
-    "inputTokens": 98078,
-    "outputTokens": 844,
+    "inputTokens": 97340,
+    "outputTokens": 1278,
     "searches": 4
   },
-  "added": 0
+  "added": 1
 }
