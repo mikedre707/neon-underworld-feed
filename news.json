@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "fetchedAt": 1793920448191,
+  "fetchedAt": 1793947811942,
   "items": [
     {
       "id": "n1i7besidyrt",
@@ -83,6 +83,16 @@
       "firstSeen": 1793918577913
     },
     {
+      "id": "n0oa5s5yxojt",
+      "title": "It's not just GTA 6 – Take-Two boss argues \"we have the best collection\" of IP in the business",
+      "summary": "In a Wall Street Journal interview, Take-Two CEO Strauss Zelnick says the publisher's catalogue (Red Dead Redemption, Borderlands and others) doesn't depend on GTA 6 alone.",
+      "source": "GamesRadar+",
+      "category": "Update",
+      "url": "https://gamesradar.com/games/grand-theft-auto/its-not-just-gta-6-take-two-boss-argues-we-have-the-best-collection-of-ip-in-the-business-thanks-to-red-dead-redemption-borderlands-and-more",
+      "publishedAt": 1793861411942,
+      "firstSeen": 1793947811942
+    },
+    {
       "id": "n124nrg4ymvz",
       "title": "GTA 6 Has Already Sold Nearly 8 Million Copies, One Data Firm Claims",
       "summary": "Sensor Tower estimates 7.71 million pre-order sales and about $751 million in revenue, with roughly 74% of copies on PS5 and 26% on Xbox Series X|S.",
@@ -91,23 +101,13 @@
       "url": "https://kotaku.com/gta-6-has-already-sold-nearly-8-million-copies-one-data-firm-claims-2000753423",
       "publishedAt": 1793833017290,
       "firstSeen": 1793919417290
-    },
-    {
-      "id": "n048vxqytsxe",
-      "title": "GTA 6 Will Not Actually Come To Stores Sooner",
-      "summary": "Rockstar briefly said boxed code-in-a-box copies would hit stores on November 10, then reverted that to November 12, while pre-loading was moved up to November 10 and the game still can't be played until November 19.",
-      "source": "GameSpot",
-      "category": "Update",
-      "url": "https://www.gamespot.com/articles/gta-6-will-now-come-to-stores-sooner-but-its-not-playable-right-away/",
-      "publishedAt": 1793832197662,
-      "firstSeen": 1793918597662
     }
   ],
   "model": "claude-sonnet-5-5",
   "usage": {
-    "inputTokens": 60947,
-    "outputTokens": 1079,
-    "searches": 3
+    "inputTokens": 52107,
+    "outputTokens": 1100,
+    "searches": 2
   },
-  "added": 3
+  "added": 1
 }
