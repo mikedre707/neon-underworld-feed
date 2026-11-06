@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "fetchedAt": 1793947811942,
+  "fetchedAt": 1793980576997,
   "items": [
     {
       "id": "n1i7besidyrt",
@@ -105,9 +105,9 @@
   ],
   "model": "claude-sonnet-5-5",
   "usage": {
-    "inputTokens": 52107,
-    "outputTokens": 1100,
-    "searches": 2
+    "inputTokens": 98078,
+    "outputTokens": 844,
+    "searches": 4
   },
-  "added": 1
+  "added": 0
 }
