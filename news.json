@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "fetchedAt": 1794068849211,
+  "fetchedAt": 1794088366122,
   "items": [
+    {
+      "id": "n0x9l248y0zz",
+      "title": "Rockstar Issues New Official Statement on GTA 6 Physical Edition",
+      "summary": "Rockstar says physical code-in-box copies ship from November 12 with no disc, and Standard Edition owners can buy the Ultimate Edition upgrade for $20 after redeeming their code.",
+      "source": "Game Rant",
+      "category": "Update",
+      "url": "https://gamerant.com/gta-6-physical-edition-rockstar-comment-ultimate-upgrade",
+      "publishedAt": 1794077566122,
+      "firstSeen": 1794088366122
+    },
+    {
+      "id": "n1nbkxt9ooge",
+      "title": "GTA 6 PS5 Physical Boxes Have Hit The Wild, A Harbinger Of Our Disc-Less Future",
+      "summary": "Photos of a shrink-wrapped German PS5 copy of GTA 6 with no disc inside surfaced on Reddit ahead of the November 12 retail date.",
+      "source": "Kotaku",
+      "category": "Leak",
+      "url": "https://kotaku.com/gta-6-ps5-physical-boxes-have-hit-the-wild-a-harbinger-of-our-disc-less-future-2000754816",
+      "publishedAt": 1794066766122,
+      "firstSeen": 1794088366122
+    },
     {
       "id": "n10yxaz6a7qk",
       "title": "GTA 6 Physical Copies Leak Reveals Collector's Poster",
@@ -43,6 +63,16 @@
       "firstSeen": 1794041353253
     },
     {
+      "id": "n168js05z6dz",
+      "title": "GTA 6 Boss Talks The Game's Budget And Calls Out A \"High-Profile\" Game For Releasing In A Rough State",
+      "summary": "Take-Two CEO Strauss Zelnick told the WSJ that GTA 6 was expensive and took a long time, and he appeared to take a swipe at a rival game that had to be pulled after a rough launch.",
+      "source": "GameSpot",
+      "category": "Update",
+      "url": "https://www.gamespot.com/articles/gta-6-boss-talks-the-games-budget-and-calls-out-a-high-profile-game-for-releasing-in-a-rough-state/",
+      "publishedAt": 1794001966122,
+      "firstSeen": 1794088366122
+    },
+    {
       "id": "n0clusuo6a6w",
       "title": "GTA 6 Gets Its First Official Black Friday Discount",
       "summary": "Best Buy has announced two Black Friday promotions for GTA 6, a $50 certificate when you bundle it with a console and 10% back in rewards for paid members.",
@@ -71,43 +101,13 @@
       "url": "https://insider-gaming.com/travis-scott-gta-6-sneakers-can-you-buy-them/",
       "publishedAt": 1793930197824,
       "firstSeen": 1794016597824
-    },
-    {
-      "id": "n2ghhesljnur",
-      "title": "How to Play GTA 6 Early on XBOX With New Zealand Trick—All Time Zones, Explained",
-      "summary": "A guide to switching an Xbox's region to New Zealand so GTA 6 unlocks at New Zealand's midnight, which is 06:00 EST on November 18.",
-      "source": "Insider Gaming",
-      "category": "Community",
-      "url": "https://insider-gaming.com/how-to-play-gta-6-early-xbox-new-zealand-trick/",
-      "publishedAt": 1793930197824,
-      "firstSeen": 1794016597824
-    },
-    {
-      "id": "n1i7besidyrt",
-      "title": "Rockstar Dumps Nearly 40 Spectacular New GTA 6 Screenshots Ahead Of Launch",
-      "summary": "Rockstar released a launch gallery of nearly 40 new screenshots two weeks before the November 19 release.",
-      "source": "Kotaku",
-      "category": "Update",
-      "url": "https://kotaku.com/rockstar-dumps-nearly-40-spectacular-new-gta-6-screenshots-ahead-of-launch-2000754266",
-      "publishedAt": 1793896977913,
-      "firstSeen": 1793918577913
-    },
-    {
-      "id": "n124nrg4ymvz",
-      "title": "GTA 6 Has Already Sold Nearly 8 Million Copies, One Data Firm Claims",
-      "summary": "Sensor Tower estimates 7.71 million pre-order sales worth about $751 million, with roughly 74% on PS5 and 26% on Xbox.",
-      "source": "Kotaku",
-      "category": "Update",
-      "url": "https://kotaku.com/gta-6-has-already-sold-nearly-8-million-copies-one-data-firm-claims-2000753423",
-      "publishedAt": 1793896049211,
-      "firstSeen": 1794068849211
     }
   ],
   "model": "claude-sonnet-5-5",
   "usage": {
-    "inputTokens": 81945,
-    "outputTokens": 891,
+    "inputTokens": 60769,
+    "outputTokens": 1357,
     "searches": 3
   },
-  "added": 2
+  "added": 3
 }
