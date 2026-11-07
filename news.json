@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "fetchedAt": 1794000621217,
+  "fetchedAt": 1794016597824,
   "items": [
     {
       "id": "n0xcv0m934h5",
@@ -11,6 +11,26 @@
       "url": "https://www.gamesradar.com/games/grand-theft-auto/rockstar-could-release-gta-6-on-pc-sooner-to-head-off-ai-ports-former-grand-theft-auto-lead-suggests-i-think-i-would-be-concerned/",
       "publishedAt": 1793986221217,
       "firstSeen": 1794000621217
+    },
+    {
+      "id": "n2cb6agyqs98",
+      "title": "Travis Scott GTA 6 Nike Sneakers—Can You Buy The Air Force 1s?",
+      "summary": "Travis Scott showed off custom GTA 6-themed Nike Air Force 1s that he says were made in only a few pairs, so they won't get a normal release.",
+      "source": "Insider Gaming",
+      "category": "Community",
+      "url": "https://insider-gaming.com/travis-scott-gta-6-sneakers-can-you-buy-them/",
+      "publishedAt": 1793930197824,
+      "firstSeen": 1794016597824
+    },
+    {
+      "id": "n2ghhesljnur",
+      "title": "How to Play GTA 6 Early on XBOX With New Zealand Trick—All Time Zones, Explained",
+      "summary": "A guide to switching an Xbox's region to New Zealand so GTA 6 unlocks at New Zealand's midnight, which is 06:00 EST on November 18.",
+      "source": "Insider Gaming",
+      "category": "Community",
+      "url": "https://insider-gaming.com/how-to-play-gta-6-early-xbox-new-zealand-trick/",
+      "publishedAt": 1793930197824,
+      "firstSeen": 1794016597824
     },
     {
       "id": "n1i7besidyrt",
@@ -81,33 +101,13 @@
       "url": "https://comicbook.com/gaming/news/gta-6-grand-theft-auto-vi-ps5-pro-enhancements/",
       "publishedAt": 1793886177913,
       "firstSeen": 1793918577913
-    },
-    {
-      "id": "n23uokc3axz1",
-      "title": "Has GTA 6 Been Delayed Again Before Release?",
-      "summary": "Insider Gaming says there is no new delay, noting review copies are with outlets and the November 19 date stands.",
-      "source": "Insider Gaming",
-      "category": "Update",
-      "url": "https://insider-gaming.com/gta-6-delayed-again-release/",
-      "publishedAt": 1793882577913,
-      "firstSeen": 1793918577913
-    },
-    {
-      "id": "n0oa5s5yxojt",
-      "title": "It's not just GTA 6 – Take-Two boss argues \"we have the best collection\" of IP in the business",
-      "summary": "In a Wall Street Journal interview, Take-Two CEO Strauss Zelnick says the publisher's catalogue (Red Dead Redemption, Borderlands and others) doesn't depend on GTA 6 alone.",
-      "source": "GamesRadar+",
-      "category": "Update",
-      "url": "https://gamesradar.com/games/grand-theft-auto/its-not-just-gta-6-take-two-boss-argues-we-have-the-best-collection-of-ip-in-the-business-thanks-to-red-dead-redemption-borderlands-and-more",
-      "publishedAt": 1793861411942,
-      "firstSeen": 1793947811942
     }
   ],
   "model": "claude-sonnet-5-5",
   "usage": {
-    "inputTokens": 97340,
-    "outputTokens": 1278,
-    "searches": 4
+    "inputTokens": 67140,
+    "outputTokens": 1013,
+    "searches": 3
   },
-  "added": 1
+  "added": 2
 }
