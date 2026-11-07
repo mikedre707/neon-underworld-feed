@@ -1,7 +1,47 @@
 {
   "version": 1,
-  "fetchedAt": 1794016597824,
+  "fetchedAt": 1794041353253,
   "items": [
+    {
+      "id": "n0bech9kq1co",
+      "title": "GTA 6 Is Going All Out On Details You Might Never Even Notice",
+      "summary": "GameSpot's Jake Dekker goes through the official screenshots again and finds hidden details such as iguanas, references to abandoned bridge projects and realistic scuba gear.",
+      "source": "GameSpot",
+      "category": "Community",
+      "url": "https://www.gamespot.com/articles/gta-6-is-going-all-out-on-details-you-might-never-even-notice/",
+      "publishedAt": 1794023353253,
+      "firstSeen": 1794041353253
+    },
+    {
+      "id": "n0ovf9f5a0pe",
+      "title": "Rockstar Officially Comments on GTA 6's Open World",
+      "summary": "Rockstar North's Rob Nelson told IGN that many open-world discoveries are emergent and won't be marked by map icons or objectives.",
+      "source": "Game Rant",
+      "category": "Update",
+      "url": "https://gamerant.com/gta-6-open-world-rockstar-statement-emergently",
+      "publishedAt": 1794012553253,
+      "firstSeen": 1794041353253
+    },
+    {
+      "id": "n0cpwu4jwqtb",
+      "title": "Is Kodak Black in GTA 6? Rapper's Grand Theft Auto Cameo, Explained",
+      "summary": "Fans spotted rapper Kodak Black, tattoos included, in the new launch gallery screenshots, which suggests he is playing himself in the game.",
+      "source": "Insider Gaming",
+      "category": "Community",
+      "url": "https://insider-gaming.com/is-kodak-black-in-gta-6/",
+      "publishedAt": 1794005353253,
+      "firstSeen": 1794041353253
+    },
+    {
+      "id": "n0clusuo6a6w",
+      "title": "GTA 6 Gets Its First Official Black Friday Discount",
+      "summary": "Best Buy has announced two Black Friday promotions for GTA 6, a $50 certificate when you bundle it with a console and 10% back in rewards for paid members.",
+      "source": "Game Rant",
+      "category": "Update",
+      "url": "https://gamerant.com/gta-6-black-friday-sale-deal-november-2026",
+      "publishedAt": 1793987353253,
+      "firstSeen": 1794041353253
+    },
     {
       "id": "n0xcv0m934h5",
       "title": "Rockstar could release GTA 6 on PC sooner to head off AI ports, former Grand Theft Auto lead suggests",
@@ -61,53 +101,13 @@
       "url": "https://comicbook.com/gaming/news/new-grand-theft-auto-6-screen-shots-just-before-launch/",
       "publishedAt": 1793891648191,
       "firstSeen": 1793920448191
-    },
-    {
-      "id": "n2cpnj2d820y",
-      "title": "GTA 6 Looks Pretty Realistic, Until It Comes To Gym Etiquette",
-      "summary": "A GameSpot writer jokes about the poor gym hygiene of the shirtless, sweaty Jason in one of the newly released launch screenshots.",
-      "source": "GameSpot",
-      "category": "Community",
-      "url": "https://www.gamespot.com/articles/gta-6-looks-pretty-realistic-until-it-comes-to-gym-etiquette/",
-      "publishedAt": 1793891648191,
-      "firstSeen": 1793920448191
-    },
-    {
-      "id": "n0oruh2d7zmy",
-      "title": "Take-Two boss Strauss Zelnick isn't too concerned about piracy ahead of GTA 6 even if he is 'worried about everything all the time'",
-      "summary": "In a WSJ interview, Zelnick called piracy a fact of life, said server-connected games and large file sizes limit it, and said Take-Two will respond with legal and technical measures if it becomes a problem.",
-      "source": "PC Gamer",
-      "category": "Update",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/take-two-boss-strauss-zelnick-isnt-too-concerned-about-piracy-ahead-of-gta-6-even-if-he-is-worried-about-everything-all-the-time/",
-      "publishedAt": 1793889797662,
-      "firstSeen": 1793918597662
-    },
-    {
-      "id": "n168js05z6dz",
-      "title": "GTA 6 Boss Talks The Game's Budget And Calls Out A \"High-Profile\" Game For Releasing In A Rough State",
-      "summary": "Take-Two CEO Strauss Zelnick told the WSJ the game was expensive and took a long time, and that he won't claim success before launch.",
-      "source": "GameSpot",
-      "category": "Update",
-      "url": "https://www.gamespot.com/articles/gta-6-boss-talks-the-games-budget-and-calls-out-a-high-profile-game-for-releasing-in-a-rough-state/",
-      "publishedAt": 1793889777913,
-      "firstSeen": 1793918577913
-    },
-    {
-      "id": "n0wr35m6mgc3",
-      "title": "PlayStation Leaks GTA 6 PS5 Pro Enhancements",
-      "summary": "A PlayStation France listing, since removed, named only PSSR upscaling and advanced ray tracing as PS5 Pro features, though it may contain copy-paste errors.",
-      "source": "ComicBook.com",
-      "category": "Leak",
-      "url": "https://comicbook.com/gaming/news/gta-6-grand-theft-auto-vi-ps5-pro-enhancements/",
-      "publishedAt": 1793886177913,
-      "firstSeen": 1793918577913
     }
   ],
   "model": "claude-sonnet-5-5",
   "usage": {
-    "inputTokens": 67140,
-    "outputTokens": 1013,
+    "inputTokens": 67639,
+    "outputTokens": 961,
     "searches": 3
   },
-  "added": 2
+  "added": 4
 }
