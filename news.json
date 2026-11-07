@@ -1,7 +1,17 @@
 {
   "version": 1,
-  "fetchedAt": 1794041353253,
+  "fetchedAt": 1794068849211,
   "items": [
+    {
+      "id": "n10yxaz6a7qk",
+      "title": "GTA 6 Physical Copies Leak Reveals Collector's Poster",
+      "summary": "Physical code-in-box copies reportedly surfaced early via a MediaMarkt listing and a German Reddit post, showing a double-sided poster with cover art and no map, plus two new back-of-box screenshots.",
+      "source": "ComicBook.com",
+      "category": "Leak",
+      "url": "https://comicbook.com/gaming/news/gta-6-grand-theft-auto-vi-rockstar-games-physical-copies-map-leak/",
+      "publishedAt": 1794050849211,
+      "firstSeen": 1794068849211
+    },
     {
       "id": "n0bech9kq1co",
       "title": "GTA 6 Is Going All Out On Details You Might Never Even Notice",
@@ -83,31 +93,21 @@
       "firstSeen": 1793918577913
     },
     {
-      "id": "n1ho2vwaiw43",
-      "title": "Massive GTA 6 Mural Tagged By Graffiti Artist Overnight And People Aren't Happy",
-      "summary": "A graffiti artist named Jelous tagged the large Rockstar-commissioned GTA 6 mural in Brooklyn and posted it on Instagram, and many fans reacted angrily.",
+      "id": "n124nrg4ymvz",
+      "title": "GTA 6 Has Already Sold Nearly 8 Million Copies, One Data Firm Claims",
+      "summary": "Sensor Tower estimates 7.71 million pre-order sales worth about $751 million, with roughly 74% on PS5 and 26% on Xbox.",
       "source": "Kotaku",
-      "category": "Community",
-      "url": "https://kotaku.com/massive-gta-6-mural-tagged-by-graffiti-artist-overnight-and-people-arent-happy-as-a-graffiti-artist-myself-i-honestly-think-this-is-pretty-disrespectful-2000754181",
-      "publishedAt": 1793895248191,
-      "firstSeen": 1793920448191
-    },
-    {
-      "id": "n1nrlv6le57z",
-      "title": "Grand Theft Auto 6's New Launch Screen Shots Have Strippers, Raves, Guns, and More",
-      "summary": "Alongside the new launch gallery, a YouTuber's preview points to a \"photo studio mode\", which could make GTA 6 the first GTA with an official photo mode.",
-      "source": "ComicBook.com",
-      "category": "Leak",
-      "url": "https://comicbook.com/gaming/news/new-grand-theft-auto-6-screen-shots-just-before-launch/",
-      "publishedAt": 1793891648191,
-      "firstSeen": 1793920448191
+      "category": "Update",
+      "url": "https://kotaku.com/gta-6-has-already-sold-nearly-8-million-copies-one-data-firm-claims-2000753423",
+      "publishedAt": 1793896049211,
+      "firstSeen": 1794068849211
     }
   ],
   "model": "claude-sonnet-5-5",
   "usage": {
-    "inputTokens": 67639,
-    "outputTokens": 961,
+    "inputTokens": 81945,
+    "outputTokens": 891,
     "searches": 3
   },
-  "added": 4
+  "added": 2
 }
