@@ -1,7 +1,17 @@
 {
   "version": 1,
-  "fetchedAt": 1794101238262,
+  "fetchedAt": 1794128433825,
   "items": [
+    {
+      "id": "n134p2b1qeyz",
+      "title": "GTA 6 Physical Copy First Look Leaked By German Retail Worker",
+      "summary": "Photos of a German retailer's GTA 6 box show a new Lucia screenshot and a label saying the game has \"online functionality\" and \"in-game purchases\", which has fans speculating about what that means for a single-player game.",
+      "source": "TheGamer",
+      "category": "Leak",
+      "url": "https://thegamer.com/gta-6-physical-copy-leak",
+      "publishedAt": 1794117633825,
+      "firstSeen": 1794128433825
+    },
     {
       "id": "n0x9l248y0zz",
       "title": "Rockstar Issues New Official Statement on GTA 6 Physical Edition",
@@ -91,23 +101,13 @@
       "url": "https://www.gamesradar.com/games/grand-theft-auto/rockstar-could-release-gta-6-on-pc-sooner-to-head-off-ai-ports-former-grand-theft-auto-lead-suggests-i-think-i-would-be-concerned/",
       "publishedAt": 1793986221217,
       "firstSeen": 1794000621217
-    },
-    {
-      "id": "n2cb6agyqs98",
-      "title": "Travis Scott GTA 6 Nike Sneakers—Can You Buy The Air Force 1s?",
-      "summary": "Travis Scott showed off custom GTA 6-themed Nike Air Force 1s that he says were made in only a few pairs, so they won't get a normal release.",
-      "source": "Insider Gaming",
-      "category": "Community",
-      "url": "https://insider-gaming.com/travis-scott-gta-6-sneakers-can-you-buy-them/",
-      "publishedAt": 1793930197824,
-      "firstSeen": 1794016597824
     }
   ],
   "model": "claude-sonnet-5-5",
   "usage": {
-    "inputTokens": 55663,
-    "outputTokens": 1169,
+    "inputTokens": 55982,
+    "outputTokens": 842,
     "searches": 2
   },
-  "added": 0
+  "added": 1
 }
