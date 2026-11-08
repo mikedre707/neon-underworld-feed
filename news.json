@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "fetchedAt": 1794128433825,
+  "fetchedAt": 1794156058426,
   "items": [
     {
       "id": "n134p2b1qeyz",
@@ -21,6 +21,16 @@
       "url": "https://gamerant.com/gta-6-physical-edition-rockstar-comment-ultimate-upgrade",
       "publishedAt": 1794077566122,
       "firstSeen": 1794088366122
+    },
+    {
+      "id": "n25o0o314iqu",
+      "title": "Grand Theft Auto 6 Will Have 55 Trophies/Achievements",
+      "summary": "A post on social media says GTA 6 is configured with 55 PlayStation Trophies and Xbox Achievements, more than GTA 5 or RDR2 had at launch, with hints of a Platinum Trophy and an Xbox Mythic achievement.",
+      "source": "Insider Gaming",
+      "category": "Leak",
+      "url": "https://insider-gaming.com/gta-6-55-trophies-achievements-mythic-platinum",
+      "publishedAt": 1794069658426,
+      "firstSeen": 1794156058426
     },
     {
       "id": "n1nbkxt9ooge",
@@ -91,22 +101,12 @@
       "url": "https://gamerant.com/gta-6-black-friday-sale-deal-november-2026",
       "publishedAt": 1793987353253,
       "firstSeen": 1794041353253
-    },
-    {
-      "id": "n0xcv0m934h5",
-      "title": "Rockstar could release GTA 6 on PC sooner to head off AI ports, former Grand Theft Auto lead suggests",
-      "summary": "Former Rockstar technical director Obbe Vermeij speculates that fear of AI-made PC ports could push Rockstar to narrow the gap between the console and PC releases, though he has no inside knowledge and left the studio in 2009.",
-      "source": "GamesRadar+",
-      "category": "Leak",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/rockstar-could-release-gta-6-on-pc-sooner-to-head-off-ai-ports-former-grand-theft-auto-lead-suggests-i-think-i-would-be-concerned/",
-      "publishedAt": 1793986221217,
-      "firstSeen": 1794000621217
     }
   ],
   "model": "claude-sonnet-5-5",
   "usage": {
-    "inputTokens": 55982,
-    "outputTokens": 842,
+    "inputTokens": 53982,
+    "outputTokens": 1005,
     "searches": 2
   },
   "added": 1
