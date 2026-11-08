@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "fetchedAt": 1794156058426,
+  "fetchedAt": 1794175675390,
   "items": [
     {
       "id": "n134p2b1qeyz",
@@ -11,6 +11,16 @@
       "url": "https://thegamer.com/gta-6-physical-copy-leak",
       "publishedAt": 1794117633825,
       "firstSeen": 1794128433825
+    },
+    {
+      "id": "n1ln1jmqa2ts",
+      "title": "An Update On A Possible 'GTA 6' PC Release Date Plans, Due To AI",
+      "summary": "Former Rockstar North technical director Obbe Vermeij says AI tools could get GTA 6 running on PC unofficially, which may push Rockstar to release the PC version sooner than the 19 months GTA 5 took, and GamesBeat has reported Q1 2027.",
+      "source": "Forbes",
+      "category": "Update",
+      "url": "https://www.forbes.com/sites/paultassi/2026/11/07/an-update-on-a-possible-gta-6-pc-release-date-plans-due-to-ai/",
+      "publishedAt": 1794089275390,
+      "firstSeen": 1794175675390
     },
     {
       "id": "n0x9l248y0zz",
@@ -91,22 +101,12 @@
       "url": "https://www.gamespot.com/articles/gta-6-boss-talks-the-games-budget-and-calls-out-a-high-profile-game-for-releasing-in-a-rough-state/",
       "publishedAt": 1794001966122,
       "firstSeen": 1794088366122
-    },
-    {
-      "id": "n0clusuo6a6w",
-      "title": "GTA 6 Gets Its First Official Black Friday Discount",
-      "summary": "Best Buy has announced two Black Friday promotions for GTA 6, a $50 certificate when you bundle it with a console and 10% back in rewards for paid members.",
-      "source": "Game Rant",
-      "category": "Update",
-      "url": "https://gamerant.com/gta-6-black-friday-sale-deal-november-2026",
-      "publishedAt": 1793987353253,
-      "firstSeen": 1794041353253
     }
   ],
   "model": "claude-sonnet-5-5",
   "usage": {
-    "inputTokens": 53982,
-    "outputTokens": 1005,
+    "inputTokens": 62065,
+    "outputTokens": 576,
     "searches": 2
   },
   "added": 1
