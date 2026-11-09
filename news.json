@@ -1,7 +1,47 @@
 {
   "version": 1,
-  "fetchedAt": 1794217824826,
+  "fetchedAt": 1794257173411,
   "items": [
+    {
+      "id": "n29lcdbflj9f",
+      "title": "Rockstar spins the GTA 6 wheel again and lands on comically large music festival featuring Travis Scott, Cardi B, and composer Justice",
+      "summary": "Rockstar and PlayStation announced Grand Theft Auto 6: The Festival, a two-stage Miami event on November 21 with Travis Scott, Cardi B, Metro Boomin and a DJ set by Justice.",
+      "source": "GamesRadar",
+      "category": "Update",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/rockstar-spins-the-gta-6-wheel-again-and-lands-on-comically-large-music-festival-featuring-travis-scott-cardi-b-and-composer-justice/",
+      "publishedAt": 1794246373411,
+      "firstSeen": 1794257173411
+    },
+    {
+      "id": "n027cja79x8b",
+      "title": "GTA 6 Preloading Is Officially Live, Files Mention Multiplayer And PS5 Pro Features",
+      "summary": "Preloading opened first in Australia and New Zealand, and datamined files reference multiplayer activities, a separate Story download, and PS5 Pro 120Hz support.",
+      "source": "GameSpot",
+      "category": "Leak",
+      "url": "https://www.gamespot.com/articles/gta-6-preloading-is-officially-live-files-mention-multiplayer-and-ps5-pro-features/",
+      "publishedAt": 1794231973411,
+      "firstSeen": 1794257173411
+    },
+    {
+      "id": "n1bcttvg8u3s",
+      "title": "Selfridges London has launched a huge Grand Theft Auto 6 store with 60+ items for sale",
+      "summary": "Selfridges opened a GTA 6 pop-up in London and Manchester with 60+ merch items including a £2,500 varsity jacket, and its online queue passed 100,000 people.",
+      "source": "VGC",
+      "category": "Update",
+      "url": "https://videogameschronicle.com/news/selfridges-london-gta6",
+      "publishedAt": 1794221173411,
+      "firstSeen": 1794257173411
+    },
+    {
+      "id": "n1hnq829zjls",
+      "title": "GTA 6 Online files discovered and show major changes from GTA 5",
+      "summary": "Datamined settings suggest GTA Online support is already in the files, and the Story and Online modes can reportedly be installed and removed separately.",
+      "source": "Dexerto",
+      "category": "Leak",
+      "url": "https://www.dexerto.com/gta/gta-6-online-files-discovered-and-show-major-changes-from-gta-5-3425922/",
+      "publishedAt": 1794217573411,
+      "firstSeen": 1794257173411
+    },
     {
       "id": "n134p2b1qeyz",
       "title": "GTA 6 Physical Copy First Look Leaked By German Retail Worker",
@@ -61,53 +101,13 @@
       "url": "https://comicbook.com/gaming/news/gta-6-grand-theft-auto-vi-rockstar-games-physical-copies-map-leak/",
       "publishedAt": 1794050849211,
       "firstSeen": 1794068849211
-    },
-    {
-      "id": "n0bech9kq1co",
-      "title": "GTA 6 Is Going All Out On Details You Might Never Even Notice",
-      "summary": "GameSpot's Jake Dekker goes through the official screenshots again and finds hidden details such as iguanas, references to abandoned bridge projects and realistic scuba gear.",
-      "source": "GameSpot",
-      "category": "Community",
-      "url": "https://www.gamespot.com/articles/gta-6-is-going-all-out-on-details-you-might-never-even-notice/",
-      "publishedAt": 1794023353253,
-      "firstSeen": 1794041353253
-    },
-    {
-      "id": "n0ovf9f5a0pe",
-      "title": "Rockstar Officially Comments on GTA 6's Open World",
-      "summary": "Rockstar North's Rob Nelson told IGN that many open-world discoveries are emergent and won't be marked by map icons or objectives.",
-      "source": "Game Rant",
-      "category": "Update",
-      "url": "https://gamerant.com/gta-6-open-world-rockstar-statement-emergently",
-      "publishedAt": 1794012553253,
-      "firstSeen": 1794041353253
-    },
-    {
-      "id": "n0cpwu4jwqtb",
-      "title": "Is Kodak Black in GTA 6? Rapper's Grand Theft Auto Cameo, Explained",
-      "summary": "Fans spotted rapper Kodak Black, tattoos included, in the new launch gallery screenshots, which suggests he is playing himself in the game.",
-      "source": "Insider Gaming",
-      "category": "Community",
-      "url": "https://insider-gaming.com/is-kodak-black-in-gta-6/",
-      "publishedAt": 1794005353253,
-      "firstSeen": 1794041353253
-    },
-    {
-      "id": "n168js05z6dz",
-      "title": "GTA 6 Boss Talks The Game's Budget And Calls Out A \"High-Profile\" Game For Releasing In A Rough State",
-      "summary": "Take-Two CEO Strauss Zelnick told the WSJ that GTA 6 was expensive and took a long time, and he appeared to take a swipe at a rival game that had to be pulled after a rough launch.",
-      "source": "GameSpot",
-      "category": "Update",
-      "url": "https://www.gamespot.com/articles/gta-6-boss-talks-the-games-budget-and-calls-out-a-high-profile-game-for-releasing-in-a-rough-state/",
-      "publishedAt": 1794001966122,
-      "firstSeen": 1794088366122
     }
   ],
   "model": "claude-sonnet-5-5",
   "usage": {
-    "inputTokens": 91893,
-    "outputTokens": 623,
-    "searches": 4
+    "inputTokens": 37903,
+    "outputTokens": 872,
+    "searches": 2
   },
-  "added": 0
+  "added": 4
 }
