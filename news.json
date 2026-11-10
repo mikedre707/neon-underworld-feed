@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "fetchedAt": 1794257173411,
+  "fetchedAt": 1794283690066,
   "items": [
+    {
+      "id": "n1t2tatb7h7i",
+      "title": "GTA 6 Disc Release and PC Version Update Would Come From Rockstar, Take-Two CEO Says",
+      "summary": "On the earnings call, Zelnick declined to give a timeline for a GTA 6 physical disc, PC version or Switch 2 version, and said any news would come from Rockstar.",
+      "source": "Insider Gaming",
+      "category": "Update",
+      "url": "https://insider-gaming.com/gta-6-disc-and-pc-version-update-come-rockstar-take-two",
+      "publishedAt": 1794251290066,
+      "firstSeen": 1794283690066
+    },
+    {
+      "id": "n12vzm0omimi",
+      "title": "'GTA 6' Presales 'Far in Excess' of Expectations Ahead of Next Week's Launch, Take-Two CEO Says",
+      "summary": "Take-Two CEO Strauss Zelnick told Variety that GTA 6 presales are running far above expectations, and said more performance details will come after launch.",
+      "source": "Variety",
+      "category": "Update",
+      "url": "https://variety.com/2026/gaming/news/gta-6-preorders-expectations-launch-1236943278/",
+      "publishedAt": 1794247690066,
+      "firstSeen": 1794283690066
+    },
     {
       "id": "n29lcdbflj9f",
       "title": "Rockstar spins the GTA 6 wheel again and lands on comically large music festival featuring Travis Scott, Cardi B, and composer Justice",
@@ -81,33 +101,13 @@
       "url": "https://insider-gaming.com/gta-6-55-trophies-achievements-mythic-platinum",
       "publishedAt": 1794069658426,
       "firstSeen": 1794156058426
-    },
-    {
-      "id": "n1nbkxt9ooge",
-      "title": "GTA 6 PS5 Physical Boxes Have Hit The Wild, A Harbinger Of Our Disc-Less Future",
-      "summary": "Photos of a shrink-wrapped German PS5 copy of GTA 6 with no disc inside surfaced on Reddit ahead of the November 12 retail date.",
-      "source": "Kotaku",
-      "category": "Leak",
-      "url": "https://kotaku.com/gta-6-ps5-physical-boxes-have-hit-the-wild-a-harbinger-of-our-disc-less-future-2000754816",
-      "publishedAt": 1794066766122,
-      "firstSeen": 1794088366122
-    },
-    {
-      "id": "n10yxaz6a7qk",
-      "title": "GTA 6 Physical Copies Leak Reveals Collector's Poster",
-      "summary": "Physical code-in-box copies reportedly surfaced early via a MediaMarkt listing and a German Reddit post, showing a double-sided poster with cover art and no map, plus two new back-of-box screenshots.",
-      "source": "ComicBook.com",
-      "category": "Leak",
-      "url": "https://comicbook.com/gaming/news/gta-6-grand-theft-auto-vi-rockstar-games-physical-copies-map-leak/",
-      "publishedAt": 1794050849211,
-      "firstSeen": 1794068849211
     }
   ],
   "model": "claude-sonnet-5-5",
   "usage": {
-    "inputTokens": 37903,
-    "outputTokens": 872,
+    "inputTokens": 47655,
+    "outputTokens": 807,
     "searches": 2
   },
-  "added": 4
+  "added": 2
 }
