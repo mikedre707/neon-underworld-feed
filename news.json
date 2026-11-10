@@ -1,7 +1,37 @@
 {
   "version": 1,
-  "fetchedAt": 1794314453516,
+  "fetchedAt": 1794343843058,
   "items": [
+    {
+      "id": "n1s2g1ui4iei",
+      "title": "Amid Higher Gas And Grocery Prices, GTA 6 Is A \"Bargain\" At $80, Take-Two CEO Says",
+      "summary": "Take-Two CEO Strauss Zelnick told CNBC that $80 is a bargain for GTA 6 given its hours of gameplay, even with inflation squeezing consumers.",
+      "source": "GameSpot",
+      "category": "Update",
+      "url": "https://www.gamespot.com/articles/amid-higher-gas-and-grocery-prices-gta-6-is-a-bargain-at-80-take-two-ceo-says/",
+      "publishedAt": 1794341743058,
+      "firstSeen": 1794343843058
+    },
+    {
+      "id": "n1u34htdmxa5",
+      "title": "GTA 6 Trailer 4 Officially Released",
+      "summary": "Rockstar released a short PS5-captured trailer with new Vice City scenes to mark the start of pre-loading.",
+      "source": "Game Rant",
+      "category": "Trailer",
+      "url": "https://gamerant.com/gta-6-trailer-4-pre-load/",
+      "publishedAt": 1794329443058,
+      "firstSeen": 1794343843058
+    },
+    {
+      "id": "n1ne3ltpkxf6",
+      "title": "GTA 6 won't run at 60fps even on PS5 Pro, but Sony's console does have an exclusive: ray-traced shadows and PSSR",
+      "summary": "A Rockstar blog post confirmed a 30fps target on PS5 and Xbox Series X|S, with PS5 Pro getting PSSR and ray-traced shadows and Xbox getting cloud play.",
+      "source": "GamesRadar",
+      "category": "Update",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-wont-run-at-60fps-even-on-ps5-pro-but-sonys-console-does-have-an-exclusive-ray-traced-shadows-and-pssr/",
+      "publishedAt": 1794325843058,
+      "firstSeen": 1794343843058
+    },
     {
       "id": "n068fezo4w7s",
       "title": "GTA 6 Won't Have Any Last Minute Delays, as It's Officially Gone Gold",
@@ -71,43 +101,13 @@
       "url": "https://www.gamespot.com/articles/gta-6-preloading-is-officially-live-files-mention-multiplayer-and-ps5-pro-features/",
       "publishedAt": 1794231973411,
       "firstSeen": 1794257173411
-    },
-    {
-      "id": "n1bcttvg8u3s",
-      "title": "Selfridges London has launched a huge Grand Theft Auto 6 store with 60+ items for sale",
-      "summary": "Selfridges opened a GTA 6 pop-up in London and Manchester with 60+ merch items including a £2,500 varsity jacket, and its online queue passed 100,000 people.",
-      "source": "VGC",
-      "category": "Update",
-      "url": "https://videogameschronicle.com/news/selfridges-london-gta6",
-      "publishedAt": 1794221173411,
-      "firstSeen": 1794257173411
-    },
-    {
-      "id": "n1hnq829zjls",
-      "title": "GTA 6 Online files discovered and show major changes from GTA 5",
-      "summary": "Datamined settings suggest GTA Online support is already in the files, and the Story and Online modes can reportedly be installed and removed separately.",
-      "source": "Dexerto",
-      "category": "Leak",
-      "url": "https://www.dexerto.com/gta/gta-6-online-files-discovered-and-show-major-changes-from-gta-5-3425922/",
-      "publishedAt": 1794217573411,
-      "firstSeen": 1794257173411
-    },
-    {
-      "id": "n134p2b1qeyz",
-      "title": "GTA 6 Physical Copy First Look Leaked By German Retail Worker",
-      "summary": "Photos of a German retailer's GTA 6 box show a new Lucia screenshot and a label saying the game has \"online functionality\" and \"in-game purchases\", which has fans speculating about what that means for a single-player game.",
-      "source": "TheGamer",
-      "category": "Leak",
-      "url": "https://thegamer.com/gta-6-physical-copy-leak",
-      "publishedAt": 1794117633825,
-      "firstSeen": 1794128433825
     }
   ],
   "model": "claude-sonnet-5-5",
   "usage": {
-    "inputTokens": 56149,
-    "outputTokens": 1012,
-    "searches": 3
+    "inputTokens": 59994,
+    "outputTokens": 1078,
+    "searches": 2
   },
   "added": 3
 }
