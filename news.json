@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "fetchedAt": 1794343843058,
+  "fetchedAt": 1794362213810,
   "items": [
     {
       "id": "n1s2g1ui4iei",
@@ -11,6 +11,16 @@
       "url": "https://www.gamespot.com/articles/amid-higher-gas-and-grocery-prices-gta-6-is-a-bargain-at-80-take-two-ceo-says/",
       "publishedAt": 1794341743058,
       "firstSeen": 1794343843058
+    },
+    {
+      "id": "n0l39vn3ktei",
+      "title": "New GTA 6 trailer showcases PS5-exclusive DualSense features",
+      "summary": "A new PlayStation-promoted trailer shows GTA 6's haptic feedback for recoil and weightlifting, plus police radio chatter through the controller speaker.",
+      "source": "VideoGamesChronicle",
+      "category": "Trailer",
+      "url": "https://www.videogameschronicle.com/news/new-gta-6-trailer-showcases-ps5-exclusive-dualsense-features/",
+      "publishedAt": 1794337013810,
+      "firstSeen": 1794362213810
     },
     {
       "id": "n1u34htdmxa5",
@@ -53,6 +63,26 @@
       "firstSeen": 1794314453516
     },
     {
+      "id": "n1lfjti8vlmy",
+      "title": "Grand Theft Auto 6 will be playable on Xbox Cloud Gaming — but there are a few catches",
+      "summary": "Rockstar confirmed day-one Xbox Cloud Gaming on Xbox Series X|S and Xbox One using Series S graphics settings, with no PC or mobile streaming.",
+      "source": "Windows Central",
+      "category": "Update",
+      "url": "https://windowscentral.com/gaming/xbox/grand-theft-auto-6-will-be-playable-on-xbox-cloud-gaming-but-there-are-a-few-catches",
+      "publishedAt": 1794275813810,
+      "firstSeen": 1794362213810
+    },
+    {
+      "id": "n1vxxzwokc1r",
+      "title": "A $3000 Varsity Jacket And Everything Else In The GTA 6 Selfridges Collection",
+      "summary": "The 62-item GTA 6 x Selfridges collection is available online, though the $3,025 varsity jacket appears to have already sold out.",
+      "source": "TheGamer",
+      "category": "Community",
+      "url": "https://www.thegamer.com/gta-6-selfridges-collection-buy-online/",
+      "publishedAt": 1794275813810,
+      "firstSeen": 1794362213810
+    },
+    {
       "id": "n1t2tatb7h7i",
       "title": "GTA 6 Disc Release and PC Version Update Would Come From Rockstar, Take-Two CEO Says",
       "summary": "On the earnings call, Zelnick declined to give a timeline for a GTA 6 physical disc, PC version or Switch 2 version, and said any news would come from Rockstar.",
@@ -71,43 +101,13 @@
       "url": "https://variety.com/2026/gaming/news/gta-6-preorders-expectations-launch-1236943278/",
       "publishedAt": 1794247690066,
       "firstSeen": 1794283690066
-    },
-    {
-      "id": "n29lcdbflj9f",
-      "title": "Rockstar spins the GTA 6 wheel again and lands on comically large music festival featuring Travis Scott, Cardi B, and composer Justice",
-      "summary": "Rockstar and PlayStation announced Grand Theft Auto 6: The Festival, a two-stage Miami event on November 21 with Travis Scott, Cardi B, Metro Boomin and a DJ set by Justice.",
-      "source": "GamesRadar",
-      "category": "Update",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/rockstar-spins-the-gta-6-wheel-again-and-lands-on-comically-large-music-festival-featuring-travis-scott-cardi-b-and-composer-justice/",
-      "publishedAt": 1794246373411,
-      "firstSeen": 1794257173411
-    },
-    {
-      "id": "n1qkwdlj8qu2",
-      "title": "Missing Data Has GTA 6 Fans Worried It Might Be Censored In Australia And New Zealand",
-      "summary": "Dataminers found that a small 704 KB \"core\" chunk is missing from the Australia and New Zealand preload metadata, which has led to speculation about regional censorship.",
-      "source": "TheGamer",
-      "category": "Leak",
-      "url": "https://www.thegamer.com/gta-6-preload-missing-data-censored-australia-new-zealand/",
-      "publishedAt": 1794242453516,
-      "firstSeen": 1794314453516
-    },
-    {
-      "id": "n027cja79x8b",
-      "title": "GTA 6 Preloading Is Officially Live, Files Mention Multiplayer And PS5 Pro Features",
-      "summary": "Preloading opened first in Australia and New Zealand, and datamined files reference multiplayer activities, a separate Story download, and PS5 Pro 120Hz support.",
-      "source": "GameSpot",
-      "category": "Leak",
-      "url": "https://www.gamespot.com/articles/gta-6-preloading-is-officially-live-files-mention-multiplayer-and-ps5-pro-features/",
-      "publishedAt": 1794231973411,
-      "firstSeen": 1794257173411
     }
   ],
   "model": "claude-sonnet-5-5",
   "usage": {
-    "inputTokens": 59994,
-    "outputTokens": 1078,
-    "searches": 2
+    "inputTokens": 83040,
+    "outputTokens": 947,
+    "searches": 4
   },
   "added": 3
 }
