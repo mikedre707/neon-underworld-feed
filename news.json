@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "fetchedAt": 1794362213810,
+  "fetchedAt": 1794389254729,
   "items": [
     {
       "id": "n1s2g1ui4iei",
@@ -43,6 +43,26 @@
       "firstSeen": 1794343843058
     },
     {
+      "id": "n0x6rppt4qfj",
+      "title": "GTA 6 Has Dethroned Cyberpunk 2077 To Set An Incredible New Pre-Order Record",
+      "summary": "Sensor Tower data estimates 9.69 million pre-orders, about 75% of them on PS5, which would beat Cyberpunk 2077's previous record of 8 million.",
+      "source": "TheGamer",
+      "category": "Leak",
+      "url": "https://www.thegamer.com/gta-6-most-pre-orders-ever/",
+      "publishedAt": 1794320854729,
+      "firstSeen": 1794389254729
+    },
+    {
+      "id": "n1qlt3kaqkx4",
+      "title": "GTA 6 is officially the \"most pre-ordered game\" in PlayStation and Xbox store history, Sony and Microsoft confirm",
+      "summary": "Sony and Microsoft both confirmed GTA 6 is the most pre-ordered title in their stores' histories, and Sensor Tower estimates about 9.69 million pre-orders.",
+      "source": "GamesRadar",
+      "category": "Update",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-is-officially-the-most-pre-ordered-game-in-playstation-and-xbox-store-history-sony-and-microsoft-confirm/",
+      "publishedAt": 1794320854729,
+      "firstSeen": 1794389254729
+    },
+    {
       "id": "n068fezo4w7s",
       "title": "GTA 6 Won't Have Any Last Minute Delays, as It's Officially Gone Gold",
       "summary": "Take-Two CEO Strauss Zelnick confirmed on the earnings call that GTA 6 has gone gold, and told IGN there will be no further delays before the November 19 launch.",
@@ -81,33 +101,13 @@
       "url": "https://www.thegamer.com/gta-6-selfridges-collection-buy-online/",
       "publishedAt": 1794275813810,
       "firstSeen": 1794362213810
-    },
-    {
-      "id": "n1t2tatb7h7i",
-      "title": "GTA 6 Disc Release and PC Version Update Would Come From Rockstar, Take-Two CEO Says",
-      "summary": "On the earnings call, Zelnick declined to give a timeline for a GTA 6 physical disc, PC version or Switch 2 version, and said any news would come from Rockstar.",
-      "source": "Insider Gaming",
-      "category": "Update",
-      "url": "https://insider-gaming.com/gta-6-disc-and-pc-version-update-come-rockstar-take-two",
-      "publishedAt": 1794251290066,
-      "firstSeen": 1794283690066
-    },
-    {
-      "id": "n12vzm0omimi",
-      "title": "'GTA 6' Presales 'Far in Excess' of Expectations Ahead of Next Week's Launch, Take-Two CEO Says",
-      "summary": "Take-Two CEO Strauss Zelnick told Variety that GTA 6 presales are running far above expectations, and said more performance details will come after launch.",
-      "source": "Variety",
-      "category": "Update",
-      "url": "https://variety.com/2026/gaming/news/gta-6-preorders-expectations-launch-1236943278/",
-      "publishedAt": 1794247690066,
-      "firstSeen": 1794283690066
     }
   ],
   "model": "claude-sonnet-5-5",
   "usage": {
-    "inputTokens": 83040,
-    "outputTokens": 947,
+    "inputTokens": 87917,
+    "outputTokens": 1270,
     "searches": 4
   },
-  "added": 3
+  "added": 2
 }
