@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "fetchedAt": 1794444345406,
+  "fetchedAt": 1794477096873,
   "items": [
+    {
+      "id": "n1h239om29dt",
+      "title": "GTA 6 Surpasses $1 Billion in Presales a Week Before Launch",
+      "summary": "Sensor Tower data reportedly shows GTA 6 has passed $1 billion in pre-launch revenue, with an estimated 10.31 million copies sold.",
+      "source": "Insider Gaming",
+      "category": "Update",
+      "url": "https://insider-gaming.com/golden-joystick-awards-2026-all-award-winners",
+      "publishedAt": 1794466296873,
+      "firstSeen": 1794477096873
+    },
+    {
+      "id": "n1m277b19bq0",
+      "title": "Dataminers found AMD FSR 4.1 files in the GTA 6 Xbox preload",
+      "summary": "Windows Central says the files turned up in the Xbox preload, but Rockstar hasn't commented and the outlet doesn't expect FSR 4.1 on day one.",
+      "source": "Windows Central",
+      "category": "Leak",
+      "url": "https://www.windowscentral.com/gaming/xbox/gta-6-datamine-xbox-amd-fsr-4",
+      "publishedAt": 1794459096873,
+      "firstSeen": 1794477096873
+    },
     {
       "id": "n25bcwaoz8zj",
       "title": "GTA 6 fans convinced iconic GTA 4 character's cameo has been revealed",
@@ -53,6 +73,26 @@
       "firstSeen": 1794419706679
     },
     {
+      "id": "n068fezo4w7s",
+      "title": "GTA 6 Won't Have Any Last Minute Delays, as It's Officially Gone Gold",
+      "summary": "Take-Two CEO Strauss Zelnick confirmed on the earnings call that GTA 6 has gone gold, and said in an IGN interview that there will be no further delays.",
+      "source": "Push Square",
+      "category": "Update",
+      "url": "https://www.pushsquare.com/news/2026/11/gta-6-wont-have-any-last-minute-delays-as-its-officially-gone-gold",
+      "publishedAt": 1794390696873,
+      "firstSeen": 1794477096873
+    },
+    {
+      "id": "n098d1lgzqsc",
+      "title": "You Can Play GTA 6 On A 13-Year-Old Xbox And It'll Run At The Same Framerate As PS5 Pro",
+      "summary": "Microsoft announced GTA 6 will be playable on day one through Xbox Cloud Gaming on Xbox One and Series X|S, using Series S graphics settings.",
+      "source": "Kotaku",
+      "category": "Update",
+      "url": "https://kotaku.com/you-can-play-gta-6-on-a-13-year-old-xbox-and-itll-run-at-the-same-framerate-as-ps5-pro-2000755587",
+      "publishedAt": 1794390696873,
+      "firstSeen": 1794477096873
+    },
+    {
       "id": "n18tn0f3kv65",
       "title": "How to Play GTA 6 Early on PS5 With New Zealand Trick—All Time Zones, Explained",
       "summary": "A guide to unlocking GTA 6 up to 12–13 hours early on PS5 using a New Zealand PSN account, with unlock times for each major time zone.",
@@ -61,53 +101,13 @@
       "url": "https://insider-gaming.com/how-to-gta-6-early-new-zealand-trick-playstation-5/",
       "publishedAt": 1794357945406,
       "firstSeen": 1794444345406
-    },
-    {
-      "id": "n1s2g1ui4iei",
-      "title": "Amid Higher Gas And Grocery Prices, GTA 6 Is A \"Bargain\" At $80, Take-Two CEO Says",
-      "summary": "Take-Two CEO Strauss Zelnick told CNBC that $80 is a bargain for GTA 6 given its hours of gameplay, even with inflation squeezing consumers.",
-      "source": "GameSpot",
-      "category": "Update",
-      "url": "https://www.gamespot.com/articles/amid-higher-gas-and-grocery-prices-gta-6-is-a-bargain-at-80-take-two-ceo-says/",
-      "publishedAt": 1794341743058,
-      "firstSeen": 1794343843058
-    },
-    {
-      "id": "n0l39vn3ktei",
-      "title": "New GTA 6 trailer showcases PS5-exclusive DualSense features",
-      "summary": "A new PlayStation-promoted trailer shows GTA 6's haptic feedback for recoil and weightlifting, plus police radio chatter through the controller speaker.",
-      "source": "VideoGamesChronicle",
-      "category": "Trailer",
-      "url": "https://www.videogameschronicle.com/news/new-gta-6-trailer-showcases-ps5-exclusive-dualsense-features/",
-      "publishedAt": 1794337013810,
-      "firstSeen": 1794362213810
-    },
-    {
-      "id": "n12vzm0omimi",
-      "title": "'GTA 6' Presales 'Far in Excess' of Expectations Ahead of Next Week's Launch, Take-Two CEO Says",
-      "summary": "Zelnick told Variety that presales are far above expectations, and that PC, Switch 2 and other platform news is up to Rockstar.",
-      "source": "Variety",
-      "category": "Update",
-      "url": "https://variety.com/2026/gaming/news/gta-6-preorders-expectations-launch-1236943278/",
-      "publishedAt": 1794333306679,
-      "firstSeen": 1794419706679
-    },
-    {
-      "id": "n1u34htdmxa5",
-      "title": "GTA 6 Trailer 4 Officially Released",
-      "summary": "Rockstar released a short PS5-captured trailer with new Vice City scenes to mark the start of pre-loading.",
-      "source": "Game Rant",
-      "category": "Trailer",
-      "url": "https://gamerant.com/gta-6-trailer-4-pre-load/",
-      "publishedAt": 1794329443058,
-      "firstSeen": 1794343843058
     }
   ],
   "model": "claude-sonnet-5-5",
   "usage": {
-    "inputTokens": 59001,
-    "outputTokens": 714,
+    "inputTokens": 33695,
+    "outputTokens": 1303,
     "searches": 2
   },
-  "added": 2
+  "added": 4
 }
