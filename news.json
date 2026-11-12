@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "fetchedAt": 1794419706679,
+  "fetchedAt": 1794444345406,
   "items": [
     {
       "id": "n25bcwaoz8zj",
@@ -23,6 +23,16 @@
       "firstSeen": 1794419706679
     },
     {
+      "id": "n0f3p9rxan4q",
+      "title": "Unreal GTA 6 First-Person Clip Posted by Rockstar Games on Instagram",
+      "summary": "Rockstar posted a short first-person in-game clip of the West Coast Customs car lineup on Instagram, and many viewers took it for an AI-generated or real-life video.",
+      "source": "Insider Gaming",
+      "category": "Trailer",
+      "url": "https://insider-gaming.com/rockstar-games-unreal-gta-6-clip-social-media-first-person",
+      "publishedAt": 1794401145406,
+      "firstSeen": 1794444345406
+    },
+    {
       "id": "n0ptm9ol1pvt",
       "title": "GTA 6 Lead Says Future Games Could Take Place Outside Of America, But Likely Won't",
       "summary": "Rockstar North co-studio head Rob Nelson told The Guardian \"never say never\" about a non-US setting, but said there is still much to do in America.",
@@ -41,6 +51,16 @@
       "url": "https://dexerto.com/gta/gta-6-is-causing-internet-issues-as-players-rush-to-preload-3427231",
       "publishedAt": 1794390906679,
       "firstSeen": 1794419706679
+    },
+    {
+      "id": "n18tn0f3kv65",
+      "title": "How to Play GTA 6 Early on PS5 With New Zealand Trick—All Time Zones, Explained",
+      "summary": "A guide to unlocking GTA 6 up to 12–13 hours early on PS5 using a New Zealand PSN account, with unlock times for each major time zone.",
+      "source": "Insider Gaming",
+      "category": "Community",
+      "url": "https://insider-gaming.com/how-to-gta-6-early-new-zealand-trick-playstation-5/",
+      "publishedAt": 1794357945406,
+      "firstSeen": 1794444345406
     },
     {
       "id": "n1s2g1ui4iei",
@@ -81,33 +101,13 @@
       "url": "https://gamerant.com/gta-6-trailer-4-pre-load/",
       "publishedAt": 1794329443058,
       "firstSeen": 1794343843058
-    },
-    {
-      "id": "n1ne3ltpkxf6",
-      "title": "GTA 6 won't run at 60fps even on PS5 Pro, but Sony's console does have an exclusive: ray-traced shadows and PSSR",
-      "summary": "A Rockstar blog post confirmed a 30fps target on PS5 and Xbox Series X|S, with PS5 Pro getting PSSR and ray-traced shadows and Xbox getting cloud play.",
-      "source": "GamesRadar",
-      "category": "Update",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-wont-run-at-60fps-even-on-ps5-pro-but-sonys-console-does-have-an-exclusive-ray-traced-shadows-and-pssr/",
-      "publishedAt": 1794325843058,
-      "firstSeen": 1794343843058
-    },
-    {
-      "id": "n0x6rppt4qfj",
-      "title": "GTA 6 Has Dethroned Cyberpunk 2077 To Set An Incredible New Pre-Order Record",
-      "summary": "Sensor Tower data estimates 9.69 million pre-orders, about 75% of them on PS5, which would beat Cyberpunk 2077's previous record of 8 million.",
-      "source": "TheGamer",
-      "category": "Leak",
-      "url": "https://www.thegamer.com/gta-6-most-pre-orders-ever/",
-      "publishedAt": 1794320854729,
-      "firstSeen": 1794389254729
     }
   ],
   "model": "claude-sonnet-5-5",
   "usage": {
-    "inputTokens": 22062,
-    "outputTokens": 1195,
-    "searches": 1
+    "inputTokens": 59001,
+    "outputTokens": 714,
+    "searches": 2
   },
-  "added": 5
+  "added": 2
 }
