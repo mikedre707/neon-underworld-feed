@@ -1,7 +1,47 @@
 {
   "version": 1,
-  "fetchedAt": 1794477096873,
+  "fetchedAt": 1794507650037,
   "items": [
+    {
+      "id": "n1t40ryqc8tl",
+      "title": "Full GTA 6 Map Leaked Online From Collector's Box",
+      "summary": "Images of the full printed Leonida map from the Collector's Box, claimed to come from a Selfridges employee, are circulating online and show previously unknown areas.",
+      "source": "Insider Gaming",
+      "category": "Leak",
+      "url": "https://insider-gaming.com/gta-6-full-map-leak-online-from-collectors-box",
+      "publishedAt": 1794496850037,
+      "firstSeen": 1794507650037
+    },
+    {
+      "id": "n290ktcrehjs",
+      "title": "Palworld Dev Gives All Employees a GTA 6 Holiday Lasting Five Days",
+      "summary": "Pocketpair has given every employee five days of special leave to play GTA 6 when it launches on November 19.",
+      "source": "Insider Gaming",
+      "category": "Community",
+      "url": "https://insider-gaming.com/palworld-dev-gives-pocketpair-employees-day-off-gta-6/",
+      "publishedAt": 1794493250037,
+      "firstSeen": 1794507650037
+    },
+    {
+      "id": "n261v6af1ol4",
+      "title": "GTA 6 Unlocks At Midnight On November 19, But Millions Of Americans Can Start Playing The Night Before",
+      "summary": "Forbes breaks down US unlock times by time zone, showing western regions can start playing on the evening of November 18.",
+      "source": "Forbes",
+      "category": "Update",
+      "url": "https://www.forbes.com/sites/brianmazique/2026/11/12/gta-6-unlocks-at-midnight-on-november-19-but-millions-of-americans-can-start-playing-the-night-before/",
+      "publishedAt": 1794489650037,
+      "firstSeen": 1794507650037
+    },
+    {
+      "id": "n1jdjd0k78z5",
+      "title": "Kick's GTA 6 Promotion is Giving Away 'Thousands of Free Copies'",
+      "summary": "Kick is giving away thousands of free GTA 6 codes to viewers who scan a QR code on its promo truck or watch streams for three hours.",
+      "source": "Insider Gaming",
+      "category": "Community",
+      "url": "https://insider-gaming.com/kicks-gta-6-promotion-is-giving-away-thousands-of-free-copies/",
+      "publishedAt": 1794486050037,
+      "firstSeen": 1794507650037
+    },
     {
       "id": "n1h239om29dt",
       "title": "GTA 6 Surpasses $1 Billion in Presales a Week Before Launch",
@@ -61,52 +101,12 @@
       "url": "https://www.thegamer.com/gta-6-rockstar-lead-thoughts-leaving-america-never-say-never/",
       "publishedAt": 1794398106679,
       "firstSeen": 1794419706679
-    },
-    {
-      "id": "n248dtzxqt22",
-      "title": "GTA 6 is causing internet issues as players rush to preload",
-      "summary": "UK ISP YouFibre said heavy GTA 6 preload demand slowed speeds in parts of Yorkshire before the problem was fixed.",
-      "source": "Dexerto",
-      "category": "Community",
-      "url": "https://dexerto.com/gta/gta-6-is-causing-internet-issues-as-players-rush-to-preload-3427231",
-      "publishedAt": 1794390906679,
-      "firstSeen": 1794419706679
-    },
-    {
-      "id": "n068fezo4w7s",
-      "title": "GTA 6 Won't Have Any Last Minute Delays, as It's Officially Gone Gold",
-      "summary": "Take-Two CEO Strauss Zelnick confirmed on the earnings call that GTA 6 has gone gold, and said in an IGN interview that there will be no further delays.",
-      "source": "Push Square",
-      "category": "Update",
-      "url": "https://www.pushsquare.com/news/2026/11/gta-6-wont-have-any-last-minute-delays-as-its-officially-gone-gold",
-      "publishedAt": 1794390696873,
-      "firstSeen": 1794477096873
-    },
-    {
-      "id": "n098d1lgzqsc",
-      "title": "You Can Play GTA 6 On A 13-Year-Old Xbox And It'll Run At The Same Framerate As PS5 Pro",
-      "summary": "Microsoft announced GTA 6 will be playable on day one through Xbox Cloud Gaming on Xbox One and Series X|S, using Series S graphics settings.",
-      "source": "Kotaku",
-      "category": "Update",
-      "url": "https://kotaku.com/you-can-play-gta-6-on-a-13-year-old-xbox-and-itll-run-at-the-same-framerate-as-ps5-pro-2000755587",
-      "publishedAt": 1794390696873,
-      "firstSeen": 1794477096873
-    },
-    {
-      "id": "n18tn0f3kv65",
-      "title": "How to Play GTA 6 Early on PS5 With New Zealand Trick—All Time Zones, Explained",
-      "summary": "A guide to unlocking GTA 6 up to 12–13 hours early on PS5 using a New Zealand PSN account, with unlock times for each major time zone.",
-      "source": "Insider Gaming",
-      "category": "Community",
-      "url": "https://insider-gaming.com/how-to-gta-6-early-new-zealand-trick-playstation-5/",
-      "publishedAt": 1794357945406,
-      "firstSeen": 1794444345406
     }
   ],
   "model": "claude-sonnet-5-5",
   "usage": {
-    "inputTokens": 33695,
-    "outputTokens": 1303,
+    "inputTokens": 33457,
+    "outputTokens": 912,
     "searches": 2
   },
   "added": 4
