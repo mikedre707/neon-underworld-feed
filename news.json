@@ -1,7 +1,17 @@
 {
   "version": 1,
-  "fetchedAt": 1794507650037,
+  "fetchedAt": 1794531948819,
   "items": [
+    {
+      "id": "n0n8z8ox1625",
+      "title": "The 'GTA 6' Physical Edition Is Missing More Than Just Its Disc",
+      "summary": "Forbes looks at the boxed GTA 6 release, which has no game on the disc, with the 210GB install and an expected day-one patch.",
+      "source": "Forbes",
+      "category": "Community",
+      "url": "https://www.forbes.com/sites/mattgardner1/2026/11/12/the-gta-6-physical-edition-is-missing-more-than-just-its-disc/",
+      "publishedAt": 1794528348819,
+      "firstSeen": 1794531948819
+    },
     {
       "id": "n1t40ryqc8tl",
       "title": "Full GTA 6 Map Leaked Online From Collector's Box",
@@ -63,6 +73,26 @@
       "firstSeen": 1794477096873
     },
     {
+      "id": "n057lrksxqnp",
+      "title": "Logitech gave its employees a day off to play GTA VI",
+      "summary": "Logitech is letting employees take any single day off over the next year to play games such as GTA VI.",
+      "source": "Windows Central",
+      "category": "Community",
+      "url": "https://www.windowscentral.com/gaming/xbox/logitech-gave-its-employees-a-day-off-to-play-gta-vi-my-company-should-take-notes",
+      "publishedAt": 1794445548819,
+      "firstSeen": 1794531948819
+    },
+    {
+      "id": "n12jqnyrc0dp",
+      "title": "GTA 6's File Size Is Smaller In Australia And Japan, Sparking Censorship Concerns",
+      "summary": "The preload is about 1.2GB smaller in Japan, and the Australia/New Zealand build is missing a small data chunk, which has led to censorship speculation.",
+      "source": "Kotaku",
+      "category": "Leak",
+      "url": "https://kotaku.com/gta-6-smaller-in-australia-japan-censorship-concerns-rockstar-2000755882",
+      "publishedAt": 1794445548819,
+      "firstSeen": 1794531948819
+    },
+    {
       "id": "n25bcwaoz8zj",
       "title": "GTA 6 fans convinced iconic GTA 4 character's cameo has been revealed",
       "summary": "Fans think GTA 4's Tony Prince appears in Rockstar's newest nightclub-themed clip, based on his look and voice.",
@@ -71,43 +101,13 @@
       "url": "https://dexerto.com/gta/gta-6-fans-convinced-iconic-gta-4-characters-cameo-has-been-revealed-3427340",
       "publishedAt": 1794405306679,
       "firstSeen": 1794419706679
-    },
-    {
-      "id": "n0ypugl9fdsp",
-      "title": "GTA 6 Gets Its First Unboxing Video As Shipping Begins For Xbox & PS5",
-      "summary": "The first physical-edition unboxing, for PS5, shows a download code, an Ultimate Edition code and a double-sided poster.",
-      "source": "Pure Xbox",
-      "category": "Leak",
-      "url": "https://www.purexbox.com/news/2026/11/gta-6-gets-its-first-unboxing-video-as-shipping-begins-for-xbox-and-ps5",
-      "publishedAt": 1794401706679,
-      "firstSeen": 1794419706679
-    },
-    {
-      "id": "n0f3p9rxan4q",
-      "title": "Unreal GTA 6 First-Person Clip Posted by Rockstar Games on Instagram",
-      "summary": "Rockstar posted a short first-person in-game clip of the West Coast Customs car lineup on Instagram, and many viewers took it for an AI-generated or real-life video.",
-      "source": "Insider Gaming",
-      "category": "Trailer",
-      "url": "https://insider-gaming.com/rockstar-games-unreal-gta-6-clip-social-media-first-person",
-      "publishedAt": 1794401145406,
-      "firstSeen": 1794444345406
-    },
-    {
-      "id": "n0ptm9ol1pvt",
-      "title": "GTA 6 Lead Says Future Games Could Take Place Outside Of America, But Likely Won't",
-      "summary": "Rockstar North co-studio head Rob Nelson told The Guardian \"never say never\" about a non-US setting, but said there is still much to do in America.",
-      "source": "TheGamer",
-      "category": "Update",
-      "url": "https://www.thegamer.com/gta-6-rockstar-lead-thoughts-leaving-america-never-say-never/",
-      "publishedAt": 1794398106679,
-      "firstSeen": 1794419706679
     }
   ],
   "model": "claude-sonnet-5-5",
   "usage": {
-    "inputTokens": 33457,
-    "outputTokens": 912,
-    "searches": 2
+    "inputTokens": 69405,
+    "outputTokens": 1354,
+    "searches": 3
   },
-  "added": 4
+  "added": 3
 }
