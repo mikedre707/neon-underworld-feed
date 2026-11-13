@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "fetchedAt": 1794591926974,
+  "fetchedAt": 1794612961099,
   "items": [
+    {
+      "id": "n0xirqsu17tu",
+      "title": "Kick and Twitch are giving away thousands of GTA 6 codes to viewers before launch",
+      "summary": "Twitch announced daily GTA 6 code drops from launch through November 30, plus themed emotes, badges and HEIST Hype Trains, at TwitchCon San Diego.",
+      "source": "Dexerto",
+      "category": "Community",
+      "url": "https://dexerto.com/gta/kick-and-twitch-are-giving-away-thousands-of-gta-6-codes-to-viewers-before-launch-3428151",
+      "publishedAt": 1794598561099,
+      "firstSeen": 1794612961099
+    },
+    {
+      "id": "n1nn79vb5lhd",
+      "title": "Another Update About The 'GTA 6 Online' Release Date",
+      "summary": "A Bloomberg video suggested GTA 6 Online arrives a year after launch, but Jason Schreier clarified it only relays the earlier 2027 timeframe.",
+      "source": "Forbes",
+      "category": "Update",
+      "url": "https://www.forbes.com/sites/paultassi/2026/11/13/the-gta-6-online-release-date-is-far-off-says-new-report/",
+      "publishedAt": 1794584161099,
+      "firstSeen": 1794612961099
+    },
     {
       "id": "n1o62heccw0c",
       "title": "New GTA 6 'MACCA & FRIENDS' In-Game Trailer Revealed",
@@ -11,6 +31,16 @@
       "url": "https://insider-gaming.com/new-gta-6-macca-friends-in-game-trailer-revealed",
       "publishedAt": 1794581126974,
       "firstSeen": 1794591926974
+    },
+    {
+      "id": "n08li7hrftrr",
+      "title": "GTA 6 Passes 12 Million Copies Sold And $1.2 Billion In Revenue, And The Game Isn't Even Out Yet",
+      "summary": "Sensor Tower's unofficial tracker shows 12.13 million pre-purchases (about $1.18B), with PS5 at 75% of sales, and projects up to 25 million by launch.",
+      "source": "GameSpot",
+      "category": "Update",
+      "url": "https://www.gamespot.com/articles/gta-6-has-sold-almost-8-million-copies-so-far-and-ps5-is-dominating-the-split-of-course/",
+      "publishedAt": 1794576961099,
+      "firstSeen": 1794612961099
     },
     {
       "id": "n24swjpy92jr",
@@ -71,43 +101,13 @@
       "url": "https://insider-gaming.com/gta-6-full-map-leak-online-from-collectors-box",
       "publishedAt": 1794496850037,
       "firstSeen": 1794507650037
-    },
-    {
-      "id": "n290ktcrehjs",
-      "title": "Palworld Dev Gives All Employees a GTA 6 Holiday Lasting Five Days",
-      "summary": "Pocketpair has given every employee five days of special leave to play GTA 6 when it launches on November 19.",
-      "source": "Insider Gaming",
-      "category": "Community",
-      "url": "https://insider-gaming.com/palworld-dev-gives-pocketpair-employees-day-off-gta-6/",
-      "publishedAt": 1794493250037,
-      "firstSeen": 1794507650037
-    },
-    {
-      "id": "n261v6af1ol4",
-      "title": "GTA 6 Unlocks At Midnight On November 19, But Millions Of Americans Can Start Playing The Night Before",
-      "summary": "Forbes breaks down US unlock times by time zone, showing western regions can start playing on the evening of November 18.",
-      "source": "Forbes",
-      "category": "Update",
-      "url": "https://www.forbes.com/sites/brianmazique/2026/11/12/gta-6-unlocks-at-midnight-on-november-19-but-millions-of-americans-can-start-playing-the-night-before/",
-      "publishedAt": 1794489650037,
-      "firstSeen": 1794507650037
-    },
-    {
-      "id": "n1jdjd0k78z5",
-      "title": "Kick's GTA 6 Promotion is Giving Away 'Thousands of Free Copies'",
-      "summary": "Kick is giving away thousands of free GTA 6 codes to viewers who scan a QR code on its promo truck or watch streams for three hours.",
-      "source": "Insider Gaming",
-      "category": "Community",
-      "url": "https://insider-gaming.com/kicks-gta-6-promotion-is-giving-away-thousands-of-free-copies/",
-      "publishedAt": 1794486050037,
-      "firstSeen": 1794507650037
     }
   ],
   "model": "claude-sonnet-5-5",
   "usage": {
-    "inputTokens": 34711,
-    "outputTokens": 1197,
-    "searches": 2
+    "inputTokens": 24245,
+    "outputTokens": 924,
+    "searches": 1
   },
-  "added": 4
+  "added": 3
 }
