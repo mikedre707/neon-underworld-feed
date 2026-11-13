@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "fetchedAt": 1794562414033,
+  "fetchedAt": 1794591926974,
   "items": [
+    {
+      "id": "n1o62heccw0c",
+      "title": "New GTA 6 'MACCA & FRIENDS' In-Game Trailer Revealed",
+      "summary": "A 30-second trailer shows an in-game animated series that will air on the in-game WEAZEL network from November 19.",
+      "source": "Insider Gaming",
+      "category": "Trailer",
+      "url": "https://insider-gaming.com/new-gta-6-macca-friends-in-game-trailer-revealed",
+      "publishedAt": 1794581126974,
+      "firstSeen": 1794591926974
+    },
+    {
+      "id": "n24swjpy92jr",
+      "title": "GTA 6 First Update Released Ahead of Launch",
+      "summary": "Rockstar pushed the mandatory Update 1.002.000, about 1 GB, to PS5 and Xbox Series X|S, rolling it out to 50% of users first.",
+      "source": "ComicBook.com",
+      "category": "Patch",
+      "url": "https://comicbook.com/gaming/news/gta-6-update-patch-notes-1002000/",
+      "publishedAt": 1794573926974,
+      "firstSeen": 1794591926974
+    },
     {
       "id": "n0m6rfuczyxy",
       "title": "GTA 6 Has 'Far Too Much Genital Exposure,' According To South Korean Regulators",
@@ -21,6 +41,26 @@
       "url": "https://www.forbes.com/sites/mattgardner1/2026/11/12/the-gta-6-physical-edition-is-missing-more-than-just-its-disc/",
       "publishedAt": 1794528348819,
       "firstSeen": 1794531948819
+    },
+    {
+      "id": "n1nzvcuxa544",
+      "title": "GTA 6 Preloading Is Causing Major Download Traffic Spikes in Europe",
+      "summary": "Preloading is reportedly driving large download traffic spikes across Europe.",
+      "source": "Push Square",
+      "category": "Community",
+      "url": "https://www.pushsquare.com/news/2026/11/gta-6-preload-is-causing-major-download-traffic-spikes-in-europe",
+      "publishedAt": 1794505526974,
+      "firstSeen": 1794591926974
+    },
+    {
+      "id": "n1xvle61bd3v",
+      "title": "Brand-New GTA 6 Footage Released",
+      "summary": "Rockstar reposted a clip from the Only in Dade Instagram account, confirming it was recorded in-game and showing cars from the West Coast Customs collaboration.",
+      "source": "Game Rant",
+      "category": "Community",
+      "url": "https://gamerant.com/gta-6-new-trailer-miami-cars-only-dade/",
+      "publishedAt": 1794505526974,
+      "firstSeen": 1794591926974
     },
     {
       "id": "n1t40ryqc8tl",
@@ -61,53 +101,13 @@
       "url": "https://insider-gaming.com/kicks-gta-6-promotion-is-giving-away-thousands-of-free-copies/",
       "publishedAt": 1794486050037,
       "firstSeen": 1794507650037
-    },
-    {
-      "id": "n1h239om29dt",
-      "title": "GTA 6 Surpasses $1 Billion in Presales a Week Before Launch",
-      "summary": "Sensor Tower data reportedly shows GTA 6 has passed $1 billion in pre-launch revenue, with an estimated 10.31 million copies sold.",
-      "source": "Insider Gaming",
-      "category": "Update",
-      "url": "https://insider-gaming.com/golden-joystick-awards-2026-all-award-winners",
-      "publishedAt": 1794466296873,
-      "firstSeen": 1794477096873
-    },
-    {
-      "id": "n1m277b19bq0",
-      "title": "Dataminers found AMD FSR 4.1 files in the GTA 6 Xbox preload",
-      "summary": "Windows Central says the files turned up in the Xbox preload, but Rockstar hasn't commented and the outlet doesn't expect FSR 4.1 on day one.",
-      "source": "Windows Central",
-      "category": "Leak",
-      "url": "https://www.windowscentral.com/gaming/xbox/gta-6-datamine-xbox-amd-fsr-4",
-      "publishedAt": 1794459096873,
-      "firstSeen": 1794477096873
-    },
-    {
-      "id": "n057lrksxqnp",
-      "title": "Logitech gave its employees a day off to play GTA VI",
-      "summary": "Logitech is letting employees take any single day off over the next year to play games such as GTA VI.",
-      "source": "Windows Central",
-      "category": "Community",
-      "url": "https://www.windowscentral.com/gaming/xbox/logitech-gave-its-employees-a-day-off-to-play-gta-vi-my-company-should-take-notes",
-      "publishedAt": 1794445548819,
-      "firstSeen": 1794531948819
-    },
-    {
-      "id": "n12jqnyrc0dp",
-      "title": "GTA 6's File Size Is Smaller In Australia And Japan, Sparking Censorship Concerns",
-      "summary": "The preload is about 1.2GB smaller in Japan, and the Australia/New Zealand build is missing a small data chunk, which has led to censorship speculation.",
-      "source": "Kotaku",
-      "category": "Leak",
-      "url": "https://kotaku.com/gta-6-smaller-in-australia-japan-censorship-concerns-rockstar-2000755882",
-      "publishedAt": 1794445548819,
-      "firstSeen": 1794531948819
     }
   ],
   "model": "claude-sonnet-5-5",
   "usage": {
-    "inputTokens": 35480,
-    "outputTokens": 1315,
+    "inputTokens": 34711,
+    "outputTokens": 1197,
     "searches": 2
   },
-  "added": 1
+  "added": 4
 }
