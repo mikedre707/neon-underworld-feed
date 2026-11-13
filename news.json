@@ -1,7 +1,17 @@
 {
   "version": 1,
-  "fetchedAt": 1794531948819,
+  "fetchedAt": 1794562414033,
   "items": [
+    {
+      "id": "n0m6rfuczyxy",
+      "title": "GTA 6 Has 'Far Too Much Genital Exposure,' According To South Korean Regulators",
+      "summary": "Korean rating-board proceedings show GTA 6 nearly got a rating refusal over nudity before the committee voted 8-1 for an Adults Only rating.",
+      "source": "Insider Gaming",
+      "category": "Update",
+      "url": "https://insider-gaming.com/gta-6-has-far-too-much-genital-exposure-according-to-south-korean-regulators",
+      "publishedAt": 1794544414033,
+      "firstSeen": 1794562414033
+    },
     {
       "id": "n0n8z8ox1625",
       "title": "The 'GTA 6' Physical Edition Is Missing More Than Just Its Disc",
@@ -91,23 +101,13 @@
       "url": "https://kotaku.com/gta-6-smaller-in-australia-japan-censorship-concerns-rockstar-2000755882",
       "publishedAt": 1794445548819,
       "firstSeen": 1794531948819
-    },
-    {
-      "id": "n25bcwaoz8zj",
-      "title": "GTA 6 fans convinced iconic GTA 4 character's cameo has been revealed",
-      "summary": "Fans think GTA 4's Tony Prince appears in Rockstar's newest nightclub-themed clip, based on his look and voice.",
-      "source": "Dexerto",
-      "category": "Community",
-      "url": "https://dexerto.com/gta/gta-6-fans-convinced-iconic-gta-4-characters-cameo-has-been-revealed-3427340",
-      "publishedAt": 1794405306679,
-      "firstSeen": 1794419706679
     }
   ],
   "model": "claude-sonnet-5-5",
   "usage": {
-    "inputTokens": 69405,
-    "outputTokens": 1354,
-    "searches": 3
+    "inputTokens": 35480,
+    "outputTokens": 1315,
+    "searches": 2
   },
-  "added": 3
+  "added": 1
 }
