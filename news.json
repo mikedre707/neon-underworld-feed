@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "fetchedAt": 1794612961099,
+  "fetchedAt": 1794637577559,
   "items": [
     {
       "id": "n0xirqsu17tu",
@@ -11,6 +11,16 @@
       "url": "https://dexerto.com/gta/kick-and-twitch-are-giving-away-thousands-of-gta-6-codes-to-viewers-before-launch-3428151",
       "publishedAt": 1794598561099,
       "firstSeen": 1794612961099
+    },
+    {
+      "id": "n043djcew6ij",
+      "title": "PSA: Xbox And GTA 6 Have Both Pushed Out Small New Updates",
+      "summary": "A roughly 2.2GB GTA 6 update is now live on Xbox and is required to start playing on November 19, though some users haven't received it yet.",
+      "source": "Pure Xbox",
+      "category": "Patch",
+      "url": "https://www.purexbox.com/news/2026/11/psa-xbox-and-gta-6-have-both-pushed-out-small-new-updates",
+      "publishedAt": 1794597977559,
+      "firstSeen": 1794637577559
     },
     {
       "id": "n1nn79vb5lhd",
@@ -91,23 +101,13 @@
       "url": "https://gamerant.com/gta-6-new-trailer-miami-cars-only-dade/",
       "publishedAt": 1794505526974,
       "firstSeen": 1794591926974
-    },
-    {
-      "id": "n1t40ryqc8tl",
-      "title": "Full GTA 6 Map Leaked Online From Collector's Box",
-      "summary": "Images of the full printed Leonida map from the Collector's Box, claimed to come from a Selfridges employee, are circulating online and show previously unknown areas.",
-      "source": "Insider Gaming",
-      "category": "Leak",
-      "url": "https://insider-gaming.com/gta-6-full-map-leak-online-from-collectors-box",
-      "publishedAt": 1794496850037,
-      "firstSeen": 1794507650037
     }
   ],
   "model": "claude-sonnet-5-5",
   "usage": {
-    "inputTokens": 24245,
-    "outputTokens": 924,
-    "searches": 1
+    "inputTokens": 59121,
+    "outputTokens": 577,
+    "searches": 2
   },
-  "added": 3
+  "added": 1
 }
