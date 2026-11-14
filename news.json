@@ -1,7 +1,17 @@
 {
   "version": 1,
-  "fetchedAt": 1794668800102,
+  "fetchedAt": 1794689027211,
   "items": [
+    {
+      "id": "n1rlymo9j8ip",
+      "title": "GTA 6 Album Leak Lists Dua Lipa, Jennie, and Lana Del Rey",
+      "summary": "A vinyl video appears to reveal the full 34-track GTA 6: The Album tracklist, including Dua Lipa, Jennie, Lana Del Rey and Zara Larsson.",
+      "source": "Insider Gaming",
+      "category": "Leak",
+      "url": "https://insider-gaming.com/gta-6-album-leak-lists-dua-lipa-jennie-and-lana-del-rey/",
+      "publishedAt": 1794678227211,
+      "firstSeen": 1794689027211
+    },
     {
       "id": "n06z4hidekwe",
       "title": "GTA 6 Has Officially Gone Gold",
@@ -91,23 +101,13 @@
       "url": "https://www.gamespot.com/articles/gta-6-has-sold-almost-8-million-copies-so-far-and-ps5-is-dominating-the-split-of-course/",
       "publishedAt": 1794576961099,
       "firstSeen": 1794612961099
-    },
-    {
-      "id": "n24swjpy92jr",
-      "title": "GTA 6 First Update Released Ahead of Launch",
-      "summary": "Rockstar pushed the mandatory Update 1.002.000, about 1 GB, to PS5 and Xbox Series X|S, rolling it out to 50% of users first.",
-      "source": "ComicBook.com",
-      "category": "Patch",
-      "url": "https://comicbook.com/gaming/news/gta-6-update-patch-notes-1002000/",
-      "publishedAt": 1794573926974,
-      "firstSeen": 1794591926974
     }
   ],
   "model": "claude-sonnet-5-5",
   "usage": {
-    "inputTokens": 61267,
-    "outputTokens": 886,
-    "searches": 2
+    "inputTokens": 92695,
+    "outputTokens": 1264,
+    "searches": 4
   },
-  "added": 4
+  "added": 1
 }
