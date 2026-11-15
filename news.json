@@ -1,7 +1,17 @@
 {
   "version": 1,
-  "fetchedAt": 1794762773624,
+  "fetchedAt": 1794782994160,
   "items": [
+    {
+      "id": "n12zw2pdbjej",
+      "title": "Rockstar announces GTA 6 free code giveaways on Kick and Twitch",
+      "summary": "Rockstar is giving away free GTA 6 codes through a Kick reward-case campaign running to December 7 (10,000 Ultimate Edition codes) and a Twitch giveaway running November 19–30.",
+      "source": "ComicBook.com",
+      "category": "Update",
+      "url": "https://comicbook.com/gaming/news/gta-6-grand-theft-auto-vi-rockstar-games-free-codes/",
+      "publishedAt": 1794768594160,
+      "firstSeen": 1794782994160
+    },
     {
       "id": "n0nt7ddvut2b",
       "title": "GTA 6 AI Cloning Is Not a Financial Threat, Says Take-Two CEO",
@@ -91,23 +101,13 @@
       "url": "https://gamerant.com/gta-6-physical-code-in-box-problems/",
       "publishedAt": 1794625600102,
       "firstSeen": 1794668800102
-    },
-    {
-      "id": "n1ulxgnaqi2g",
-      "title": "Some international physical copies of GTA VI can allegedly be redeemed without opening the box",
-      "summary": "Reports say the download code printed inside some non-US boxes can be seen with a strong flashlight, though the claim is disputed and may affect only some regions.",
-      "source": "Engadget",
-      "category": "Community",
-      "url": "https://www.engadget.com/2316687/some-physical-copies-of-gta-vi-can-allegedly-be-redeemed-without-opening-the-box/",
-      "publishedAt": 1794618400102,
-      "firstSeen": 1794668800102
     }
   ],
   "model": "claude-sonnet-5-5",
   "usage": {
-    "inputTokens": 55224,
-    "outputTokens": 709,
-    "searches": 2
+    "inputTokens": 23961,
+    "outputTokens": 1055,
+    "searches": 1
   },
-  "added": 2
+  "added": 1
 }
