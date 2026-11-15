@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "fetchedAt": 1794734903277,
+  "fetchedAt": 1794762773624,
   "items": [
     {
       "id": "n0nt7ddvut2b",
@@ -31,6 +31,26 @@
       "url": "https://insider-gaming.com/gta-6-album-leak-lists-dua-lipa-jennie-and-lana-del-rey/",
       "publishedAt": 1794678227211,
       "firstSeen": 1794689027211
+    },
+    {
+      "id": "n00t2n3ht08r",
+      "title": "GTA 6's 212GB PS5 File Size Prompts Madden NFL 27 to Beg You Not to Delete It",
+      "summary": "EA added a GTA-style message to Madden NFL 27 asking players not to delete it to make room for the 212GB GTA 6 install, and it teases a November 17 update.",
+      "source": "Push Square",
+      "category": "Community",
+      "url": "https://www.pushsquare.com/news/2026/11/gta-6s-212gb-ps5-file-size-prompts-madden-nfl-27-to-beg-you-not-to-delete-it",
+      "publishedAt": 1794676373624,
+      "firstSeen": 1794762773624
+    },
+    {
+      "id": "n02ed87frh5t",
+      "title": "GTA 6 is launching with a full Saturday morning cartoon series players can watch in-game",
+      "summary": "A teaser trailer for the in-game animated show Macca & Friends says it is coming November 19 on the in-game Weazel network.",
+      "source": "Dexerto",
+      "category": "Trailer",
+      "url": "https://dexerto.com/gta/gta-6-is-launching-with-a-full-saturday-morning-cartoon-series-players-can-watch-in-game-3428321",
+      "publishedAt": 1794676373624,
+      "firstSeen": 1794762773624
     },
     {
       "id": "n24swjpy92jr",
@@ -81,33 +101,13 @@
       "url": "https://www.engadget.com/2316687/some-physical-copies-of-gta-vi-can-allegedly-be-redeemed-without-opening-the-box/",
       "publishedAt": 1794618400102,
       "firstSeen": 1794668800102
-    },
-    {
-      "id": "n0xirqsu17tu",
-      "title": "Kick and Twitch are giving away thousands of GTA 6 codes to viewers before launch",
-      "summary": "Twitch announced daily GTA 6 code drops from launch through November 30, plus themed emotes, badges and HEIST Hype Trains, at TwitchCon San Diego.",
-      "source": "Dexerto",
-      "category": "Community",
-      "url": "https://dexerto.com/gta/kick-and-twitch-are-giving-away-thousands-of-gta-6-codes-to-viewers-before-launch-3428151",
-      "publishedAt": 1794598561099,
-      "firstSeen": 1794612961099
-    },
-    {
-      "id": "n043djcew6ij",
-      "title": "PSA: Xbox And GTA 6 Have Both Pushed Out Small New Updates",
-      "summary": "A roughly 2.2GB GTA 6 update is now live on Xbox and is required to start playing on November 19, though some users haven't received it yet.",
-      "source": "Pure Xbox",
-      "category": "Patch",
-      "url": "https://www.purexbox.com/news/2026/11/psa-xbox-and-gta-6-have-both-pushed-out-small-new-updates",
-      "publishedAt": 1794597977559,
-      "firstSeen": 1794637577559
     }
   ],
   "model": "claude-sonnet-5-5",
   "usage": {
-    "inputTokens": 55216,
-    "outputTokens": 955,
+    "inputTokens": 55224,
+    "outputTokens": 709,
     "searches": 2
   },
-  "added": 3
+  "added": 2
 }
