@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "fetchedAt": 1794707796670,
+  "fetchedAt": 1794734903277,
   "items": [
+    {
+      "id": "n0nt7ddvut2b",
+      "title": "GTA 6 AI Cloning Is Not a Financial Threat, Says Take-Two CEO",
+      "summary": "Strauss Zelnick told IGN that AI-driven reverse-engineered game clones and unofficial PC ports aren't a financial threat to Take-Two, but he called them a creative concern.",
+      "source": "Insider Gaming",
+      "category": "Update",
+      "url": "https://insider-gaming.com/take-two-ai-game-cloning-creative-concern/",
+      "publishedAt": 1794716903277,
+      "firstSeen": 1794734903277
+    },
+    {
+      "id": "n09xgbwbre8y",
+      "title": "'GTA 6' Reveals Jason And Lucia's Limited Crime Options To Start",
+      "summary": "A Guardian interview with Rockstar's Rob Nelson says Jason and Lucia begin with tiered, small-time crimes such as hotwiring low-end cars and robbing convenience stores before bigger heists unlock.",
+      "source": "Forbes",
+      "category": "Update",
+      "url": "https://www.forbes.com/sites/paultassi/2026/11/14/gta-6-reveals-jason-and-lucias-limited-crime-options-to-start/",
+      "publishedAt": 1794698903277,
+      "firstSeen": 1794734903277
+    },
     {
       "id": "n1rlymo9j8ip",
       "title": "GTA 6 Album Leak Lists Dua Lipa, Jennie, and Lana Del Rey",
@@ -11,6 +31,16 @@
       "url": "https://insider-gaming.com/gta-6-album-leak-lists-dua-lipa-jennie-and-lana-del-rey/",
       "publishedAt": 1794678227211,
       "firstSeen": 1794689027211
+    },
+    {
+      "id": "n24swjpy92jr",
+      "title": "GTA 6 First Update Released Ahead of Launch",
+      "summary": "Rockstar pushed the mandatory Update 1.002.000, about 1 GB, to PS5 and Xbox Series X|S in a staggered rollout to 50% of users first.",
+      "source": "ComicBook.com",
+      "category": "Patch",
+      "url": "https://comicbook.com/gaming/news/gta-6-update-patch-notes-1002000/",
+      "publishedAt": 1794648503277,
+      "firstSeen": 1794734903277
     },
     {
       "id": "n06z4hidekwe",
@@ -71,43 +101,13 @@
       "url": "https://www.purexbox.com/news/2026/11/psa-xbox-and-gta-6-have-both-pushed-out-small-new-updates",
       "publishedAt": 1794597977559,
       "firstSeen": 1794637577559
-    },
-    {
-      "id": "n1nn79vb5lhd",
-      "title": "Another Update About The 'GTA 6 Online' Release Date",
-      "summary": "A Bloomberg video suggested GTA 6 Online arrives a year after launch, but Jason Schreier clarified it only relays the earlier 2027 timeframe.",
-      "source": "Forbes",
-      "category": "Update",
-      "url": "https://www.forbes.com/sites/paultassi/2026/11/13/the-gta-6-online-release-date-is-far-off-says-new-report/",
-      "publishedAt": 1794584161099,
-      "firstSeen": 1794612961099
-    },
-    {
-      "id": "n1o62heccw0c",
-      "title": "New GTA 6 'MACCA & FRIENDS' In-Game Trailer Revealed",
-      "summary": "A 30-second trailer shows an in-game animated series that will air on the in-game WEAZEL network from November 19.",
-      "source": "Insider Gaming",
-      "category": "Trailer",
-      "url": "https://insider-gaming.com/new-gta-6-macca-friends-in-game-trailer-revealed",
-      "publishedAt": 1794581126974,
-      "firstSeen": 1794591926974
-    },
-    {
-      "id": "n08li7hrftrr",
-      "title": "GTA 6 Passes 12 Million Copies Sold And $1.2 Billion In Revenue, And The Game Isn't Even Out Yet",
-      "summary": "Sensor Tower's unofficial tracker shows 12.13 million pre-purchases (about $1.18B), with PS5 at 75% of sales, and projects up to 25 million by launch.",
-      "source": "GameSpot",
-      "category": "Update",
-      "url": "https://www.gamespot.com/articles/gta-6-has-sold-almost-8-million-copies-so-far-and-ps5-is-dominating-the-split-of-course/",
-      "publishedAt": 1794576961099,
-      "firstSeen": 1794612961099
     }
   ],
   "model": "claude-sonnet-5-5",
   "usage": {
-    "inputTokens": 84658,
-    "outputTokens": 1039,
-    "searches": 3
+    "inputTokens": 55216,
+    "outputTokens": 955,
+    "searches": 2
   },
-  "added": 0
+  "added": 3
 }
