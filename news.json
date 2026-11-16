@@ -1,7 +1,37 @@
 {
   "version": 1,
-  "fetchedAt": 1794810730967,
+  "fetchedAt": 1794854103941,
   "items": [
+    {
+      "id": "n2asp5wljv4p",
+      "title": "GTA 6 hacker pleads guilty to stealing and leaking gameplay footage",
+      "summary": "Arion Kurtaj pleaded guilty at Woolwich Crown Court to the 2022 Rockstar breach and other Lapsus$ crimes, and will be sentenced at a later date.",
+      "source": "Engadget",
+      "category": "Leak",
+      "url": "https://www.engadget.com/2318001/gta-6-hacker-pleads-guilty-to-stealing-and-leaking-gameplay-footage/",
+      "publishedAt": 1794850503941,
+      "firstSeen": 1794854103941
+    },
+    {
+      "id": "n08li7hrftrr",
+      "title": "GTA 6 Nearing 15 Million Copies Sold And $1.5 Billion In Revenue, And The Game Isn't Even Out Yet",
+      "summary": "Sensor Tower's tracker puts pre-purchases at 14.94 million units (about $1.45B), with PS5 at roughly 74% of sales and a projection of up to 25 million by launch.",
+      "source": "GameSpot",
+      "category": "Update",
+      "url": "https://www.gamespot.com/articles/gta-6-has-sold-almost-8-million-copies-so-far-and-ps5-is-dominating-the-split-of-course/",
+      "publishedAt": 1794836103941,
+      "firstSeen": 1794854103941
+    },
+    {
+      "id": "n0hgpv4917po",
+      "title": "GTA 6 Day Off Doctor's Excuse Note Provided by Xbox, DJ Khaled",
+      "summary": "Xbox and DJ Khaled's 'Dr. Xbox' launched a site that generates a joke doctor's note so players can take Thursday's launch day off.",
+      "source": "Variety",
+      "category": "Community",
+      "url": "https://variety.com/2026/music/news/gta-6-day-off-note-xbox-dj-khaled-1236949034/",
+      "publishedAt": 1794832503941,
+      "firstSeen": 1794854103941
+    },
     {
       "id": "n12zw2pdbjej",
       "title": "Rockstar announces GTA 6 free code giveaways on Kick and Twitch",
@@ -11,6 +41,16 @@
       "url": "https://comicbook.com/gaming/news/gta-6-grand-theft-auto-vi-rockstar-games-free-codes/",
       "publishedAt": 1794768594160,
       "firstSeen": 1794782994160
+    },
+    {
+      "id": "n0hdu0jhqhv5",
+      "title": "'GTA VI' Poses A Threat To Streaming Viewership",
+      "summary": "Forbes cites Sensor Tower's estimate of 12.13M presales worth $1.18B and argues the launch will compete with streaming services for evening viewing hours.",
+      "source": "Forbes",
+      "category": "Update",
+      "url": "https://www.forbes.com/sites/maureenkerr/2026/11/15/gta-vi-release-is-a-bigger-threat-to-streaming-than-to-movie-theaters/",
+      "publishedAt": 1794767703941,
+      "firstSeen": 1794854103941
     },
     {
       "id": "n0nt7ddvut2b",
@@ -61,53 +101,13 @@
       "url": "https://dexerto.com/gta/gta-6-is-launching-with-a-full-saturday-morning-cartoon-series-players-can-watch-in-game-3428321",
       "publishedAt": 1794676373624,
       "firstSeen": 1794762773624
-    },
-    {
-      "id": "n24swjpy92jr",
-      "title": "GTA 6 First Update Released Ahead of Launch",
-      "summary": "Rockstar pushed the mandatory Update 1.002.000, about 1 GB, to PS5 and Xbox Series X|S in a staggered rollout to 50% of users first.",
-      "source": "ComicBook.com",
-      "category": "Patch",
-      "url": "https://comicbook.com/gaming/news/gta-6-update-patch-notes-1002000/",
-      "publishedAt": 1794648503277,
-      "firstSeen": 1794734903277
-    },
-    {
-      "id": "n001akrjitbc",
-      "title": "PS5 jailbreak dev says \"just buy\" GTA 6, because \"things aren't looking good\" for a game dump",
-      "summary": "A PS5 jailbreak developer warns that a GTA 6 dump is unlikely on firmware 14.xx and tells fans to buy the game instead.",
-      "source": "GamesRadar",
-      "category": "Community",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/ps5-jailbreak-dev-says-just-buy-gta-6-because-things-arent-looking-good-for-a-game-dump-dont-say-i-didnt-warn-you/",
-      "publishedAt": 1794637930967,
-      "firstSeen": 1794810730967
-    },
-    {
-      "id": "n1kr1dujdmvf",
-      "title": "PSA: GTA 6 Does Not Have Online Multiplayer at Launch",
-      "summary": "Push Square reminds players that GTA 6 launches as a single-player game, with a new GTA Online expected in 2027, possibly Q1, and a rumoured PC port around the same time.",
-      "source": "Push Square",
-      "category": "Update",
-      "url": "https://www.pushsquare.com/news/2026/11/psa-gta-6-does-not-have-online-multiplayer-at-launch",
-      "publishedAt": 1794637930967,
-      "firstSeen": 1794810730967
-    },
-    {
-      "id": "n06z4hidekwe",
-      "title": "GTA 6 Has Officially Gone Gold",
-      "summary": "Take-Two confirmed GTA 6 has finished development, so the November 19 launch is considered safe from further delays.",
-      "source": "Game Rant",
-      "category": "Update",
-      "url": "https://gamerant.com/gta-6-gone-gold-meaning/",
-      "publishedAt": 1794636400102,
-      "firstSeen": 1794668800102
     }
   ],
   "model": "claude-sonnet-5-5",
   "usage": {
-    "inputTokens": 91458,
-    "outputTokens": 1051,
-    "searches": 4
+    "inputTokens": 36987,
+    "outputTokens": 1184,
+    "searches": 2
   },
-  "added": 2
+  "added": 4
 }
