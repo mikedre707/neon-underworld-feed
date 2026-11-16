@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "fetchedAt": 1794782994160,
+  "fetchedAt": 1794810730967,
   "items": [
     {
       "id": "n12zw2pdbjej",
@@ -73,6 +73,26 @@
       "firstSeen": 1794734903277
     },
     {
+      "id": "n001akrjitbc",
+      "title": "PS5 jailbreak dev says \"just buy\" GTA 6, because \"things aren't looking good\" for a game dump",
+      "summary": "A PS5 jailbreak developer warns that a GTA 6 dump is unlikely on firmware 14.xx and tells fans to buy the game instead.",
+      "source": "GamesRadar",
+      "category": "Community",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/ps5-jailbreak-dev-says-just-buy-gta-6-because-things-arent-looking-good-for-a-game-dump-dont-say-i-didnt-warn-you/",
+      "publishedAt": 1794637930967,
+      "firstSeen": 1794810730967
+    },
+    {
+      "id": "n1kr1dujdmvf",
+      "title": "PSA: GTA 6 Does Not Have Online Multiplayer at Launch",
+      "summary": "Push Square reminds players that GTA 6 launches as a single-player game, with a new GTA Online expected in 2027, possibly Q1, and a rumoured PC port around the same time.",
+      "source": "Push Square",
+      "category": "Update",
+      "url": "https://www.pushsquare.com/news/2026/11/psa-gta-6-does-not-have-online-multiplayer-at-launch",
+      "publishedAt": 1794637930967,
+      "firstSeen": 1794810730967
+    },
+    {
       "id": "n06z4hidekwe",
       "title": "GTA 6 Has Officially Gone Gold",
       "summary": "Take-Two confirmed GTA 6 has finished development, so the November 19 launch is considered safe from further delays.",
@@ -81,33 +101,13 @@
       "url": "https://gamerant.com/gta-6-gone-gold-meaning/",
       "publishedAt": 1794636400102,
       "firstSeen": 1794668800102
-    },
-    {
-      "id": "n0nafxmjhg9q",
-      "title": "GTA 6 Will 'Encourage' Empathy For The First Time in Franchise History",
-      "summary": "Rockstar's Rob Nelson told The Guardian that GTA 6 includes mechanics that encourage players to act as the good guy.",
-      "source": "Insider Gaming",
-      "category": "Update",
-      "url": "https://insider-gaming.com/gta-6-empathy-first-time-rockstar-history",
-      "publishedAt": 1794632800102,
-      "firstSeen": 1794668800102
-    },
-    {
-      "id": "n1329edccr8f",
-      "title": "Rockstar's Physical GTA 6 'Code in a Box' Is Causing Unexpected Problems",
-      "summary": "Buyers report boxes with no code inside and retailers refusing returns, and Rockstar hasn't addressed the complaints.",
-      "source": "Game Rant",
-      "category": "Community",
-      "url": "https://gamerant.com/gta-6-physical-code-in-box-problems/",
-      "publishedAt": 1794625600102,
-      "firstSeen": 1794668800102
     }
   ],
   "model": "claude-sonnet-5-5",
   "usage": {
-    "inputTokens": 23961,
-    "outputTokens": 1055,
-    "searches": 1
+    "inputTokens": 91458,
+    "outputTokens": 1051,
+    "searches": 4
   },
-  "added": 1
+  "added": 2
 }
