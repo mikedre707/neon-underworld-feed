@@ -1,7 +1,37 @@
 {
   "version": 1,
-  "fetchedAt": 1794922114767,
+  "fetchedAt": 1794954378967,
   "items": [
+    {
+      "id": "n24rdkp1qv1f",
+      "title": "Take-Two lays off a third of Firaxis staff days before GTA 6 launch",
+      "summary": "Days before GTA 6's launch, Take-Two rolled out layoffs at Civilization and XCOM studio Firaxis, cutting about a third of its staff.",
+      "source": "Video Games Chronicle",
+      "category": "Community",
+      "url": "https://www.videogameschronicle.com/news/gta-6-is-the-most-nominated-game-at-the-game-awards-2026/",
+      "publishedAt": 1794950778967,
+      "firstSeen": 1794954378967
+    },
+    {
+      "id": "n0t305p9ryw3",
+      "title": "Fox News segment asks if GTA 6's Lucia is a hooker",
+      "summary": "A Fox News segment weighed in on GTA 6 before launch, with one host mistakenly asking whether protagonist Lucia is a sex worker.",
+      "source": "Kotaku",
+      "category": "Community",
+      "url": "https://kotaku.com/grand-theft-auto-6-gta6-fox-news-lucia-hooker-rachel-campos-duffy-2000757710",
+      "publishedAt": 1794929178967,
+      "firstSeen": 1794954378967
+    },
+    {
+      "id": "n09b2oidgfy6",
+      "title": "Rockstar's Rob Nelson explains GTA 6 could have kept going because 'it's really hard to close it down'",
+      "summary": "Rockstar North co-head Rob Nelson said GTA 6's delay was driven by human-resource constraints and the enormous task of giving NPCs dialogue and audio.",
+      "source": "PC Gamer",
+      "category": "Community",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/they-would-never-stop-working-on-this-game-gta-6s-development-couldve-gone-on-for-longer-just-because-its-really-hard-to-close-it-down/",
+      "publishedAt": 1794925578967,
+      "firstSeen": 1794954378967
+    },
     {
       "id": "n0i029rmsocd",
       "title": "GTA 6's 'Unpredictable' Microclimate Revealed by The Weather Channel, with New PS5 Screenshots",
@@ -71,43 +101,13 @@
       "url": "https://comicbook.com/gaming/news/gta-6-grand-theft-auto-vi-rockstar-games-free-codes/",
       "publishedAt": 1794768594160,
       "firstSeen": 1794782994160
-    },
-    {
-      "id": "n0hdu0jhqhv5",
-      "title": "'GTA VI' Poses A Threat To Streaming Viewership",
-      "summary": "Forbes cites Sensor Tower's estimate of 12.13M presales worth $1.18B and argues the launch will compete with streaming services for evening viewing hours.",
-      "source": "Forbes",
-      "category": "Update",
-      "url": "https://www.forbes.com/sites/maureenkerr/2026/11/15/gta-vi-release-is-a-bigger-threat-to-streaming-than-to-movie-theaters/",
-      "publishedAt": 1794767703941,
-      "firstSeen": 1794854103941
-    },
-    {
-      "id": "n0nt7ddvut2b",
-      "title": "GTA 6 AI Cloning Is Not a Financial Threat, Says Take-Two CEO",
-      "summary": "Strauss Zelnick told IGN that AI-driven reverse-engineered game clones and unofficial PC ports aren't a financial threat to Take-Two, but he called them a creative concern.",
-      "source": "Insider Gaming",
-      "category": "Update",
-      "url": "https://insider-gaming.com/take-two-ai-game-cloning-creative-concern/",
-      "publishedAt": 1794716903277,
-      "firstSeen": 1794734903277
-    },
-    {
-      "id": "n09xgbwbre8y",
-      "title": "'GTA 6' Reveals Jason And Lucia's Limited Crime Options To Start",
-      "summary": "A Guardian interview with Rockstar's Rob Nelson says Jason and Lucia begin with tiered, small-time crimes such as hotwiring low-end cars and robbing convenience stores before bigger heists unlock.",
-      "source": "Forbes",
-      "category": "Update",
-      "url": "https://www.forbes.com/sites/paultassi/2026/11/14/gta-6-reveals-jason-and-lucias-limited-crime-options-to-start/",
-      "publishedAt": 1794698903277,
-      "firstSeen": 1794734903277
     }
   ],
-  "model": "claude-sonnet-5-5",
+  "model": "claude-opus-4-8",
   "usage": {
-    "inputTokens": 82663,
-    "outputTokens": 728,
-    "searches": 3
+    "inputTokens": 96085,
+    "outputTokens": 1456,
+    "searches": 4
   },
-  "added": 1
+  "added": 3
 }
