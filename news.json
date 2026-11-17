@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "fetchedAt": 1794884175388,
+  "fetchedAt": 1794922114767,
   "items": [
     {
       "id": "n0i029rmsocd",
@@ -41,6 +41,16 @@
       "url": "https://www.gamespot.com/articles/gta-6-has-sold-almost-8-million-copies-so-far-and-ps5-is-dominating-the-split-of-course/",
       "publishedAt": 1794836103941,
       "firstSeen": 1794854103941
+    },
+    {
+      "id": "n1wjbjobite3",
+      "title": "When Does 'GTA 6' Come Out? PS5 And Xbox Release Time, Download Size And Updates",
+      "summary": "Forbes explains that GTA VI unlocks at midnight local time on Nov. 19, that the preload needs up to 212 GB and has been open since Nov. 10, and that pre-release patches are already rolling out.",
+      "source": "Forbes",
+      "category": "Update",
+      "url": "https://www.forbes.com/sites/erikkain/2026/11/16/gta-6-release-date-time-ps5-xbox-series-x-download-size-day-one-update/",
+      "publishedAt": 1794835714767,
+      "firstSeen": 1794922114767
     },
     {
       "id": "n0hgpv4917po",
@@ -91,23 +101,13 @@
       "url": "https://www.forbes.com/sites/paultassi/2026/11/14/gta-6-reveals-jason-and-lucias-limited-crime-options-to-start/",
       "publishedAt": 1794698903277,
       "firstSeen": 1794734903277
-    },
-    {
-      "id": "n1rlymo9j8ip",
-      "title": "GTA 6 Album Leak Lists Dua Lipa, Jennie, and Lana Del Rey",
-      "summary": "A vinyl video appears to reveal the full 34-track GTA 6: The Album tracklist, including Dua Lipa, Jennie, Lana Del Rey and Zara Larsson.",
-      "source": "Insider Gaming",
-      "category": "Leak",
-      "url": "https://insider-gaming.com/gta-6-album-leak-lists-dua-lipa-jennie-and-lana-del-rey/",
-      "publishedAt": 1794678227211,
-      "firstSeen": 1794689027211
     }
   ],
   "model": "claude-sonnet-5-5",
   "usage": {
-    "inputTokens": 24157,
-    "outputTokens": 600,
-    "searches": 1
+    "inputTokens": 82663,
+    "outputTokens": 728,
+    "searches": 3
   },
-  "added": 2
+  "added": 1
 }
