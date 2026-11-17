@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "fetchedAt": 1794854103941,
+  "fetchedAt": 1794884175388,
   "items": [
+    {
+      "id": "n0i029rmsocd",
+      "title": "GTA 6's 'Unpredictable' Microclimate Revealed by The Weather Channel, with New PS5 Screenshots",
+      "summary": "The Weather Channel shared an exclusive Rockstar look at Leonida's dynamic weather system, including new PS5 screenshots and comments from a lighting and rendering developer.",
+      "source": "Push Square",
+      "category": "Update",
+      "url": "https://www.pushsquare.com/news/2026/11/gta-6s-unpredictable-microclimate-revealed-by-the-weather-channel-with-new-ps5-screenshots",
+      "publishedAt": 1794876975388,
+      "firstSeen": 1794884175388
+    },
+    {
+      "id": "n116t2hzs1c1",
+      "title": "New GTA 6 Update Released by Rockstar Games on PS5 and Xbox",
+      "summary": "Rockstar pushed a second pre-launch update (01.002.001, about 600 MB) with no patch notes, rolled out in stages three days after the first.",
+      "source": "ComicBook.com",
+      "category": "Patch",
+      "url": "https://comicbook.com/gaming/news/gta-6-grand-theft-auto-vi-rockstar-games-update-1-002-today-ps5-xbox/",
+      "publishedAt": 1794873375388,
+      "firstSeen": 1794884175388
+    },
     {
       "id": "n2asp5wljv4p",
       "title": "GTA 6 hacker pleads guilty to stealing and leaking gameplay footage",
@@ -81,33 +101,13 @@
       "url": "https://insider-gaming.com/gta-6-album-leak-lists-dua-lipa-jennie-and-lana-del-rey/",
       "publishedAt": 1794678227211,
       "firstSeen": 1794689027211
-    },
-    {
-      "id": "n00t2n3ht08r",
-      "title": "GTA 6's 212GB PS5 File Size Prompts Madden NFL 27 to Beg You Not to Delete It",
-      "summary": "EA added a GTA-style message to Madden NFL 27 asking players not to delete it to make room for the 212GB GTA 6 install, and it teases a November 17 update.",
-      "source": "Push Square",
-      "category": "Community",
-      "url": "https://www.pushsquare.com/news/2026/11/gta-6s-212gb-ps5-file-size-prompts-madden-nfl-27-to-beg-you-not-to-delete-it",
-      "publishedAt": 1794676373624,
-      "firstSeen": 1794762773624
-    },
-    {
-      "id": "n02ed87frh5t",
-      "title": "GTA 6 is launching with a full Saturday morning cartoon series players can watch in-game",
-      "summary": "A teaser trailer for the in-game animated show Macca & Friends says it is coming November 19 on the in-game Weazel network.",
-      "source": "Dexerto",
-      "category": "Trailer",
-      "url": "https://dexerto.com/gta/gta-6-is-launching-with-a-full-saturday-morning-cartoon-series-players-can-watch-in-game-3428321",
-      "publishedAt": 1794676373624,
-      "firstSeen": 1794762773624
     }
   ],
   "model": "claude-sonnet-5-5",
   "usage": {
-    "inputTokens": 36987,
-    "outputTokens": 1184,
-    "searches": 2
+    "inputTokens": 24157,
+    "outputTokens": 600,
+    "searches": 1
   },
-  "added": 4
+  "added": 2
 }
