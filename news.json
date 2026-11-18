@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "fetchedAt": 1794954378967,
+  "fetchedAt": 1794987096252,
   "items": [
+    {
+      "id": "n0l56gd8e742",
+      "title": "PS5 gets last-minute system software update required to play GTA 6",
+      "summary": "Sony announced a required PS5 system software update that players must install before the game unlocks, on top of the 602MB day-one patch.",
+      "source": "Kotaku",
+      "category": "Update",
+      "url": "https://kotaku.com/ps5-gets-last-minute-software-update-thats-required-to-play-gta-6-2000757868",
+      "publishedAt": 1794972696252,
+      "firstSeen": 1794987096252
+    },
+    {
+      "id": "n1tzwkww134j",
+      "title": "New GTA 6 screenshots surface online showing new weapons, scenes",
+      "summary": "Six screenshots reportedly from a review-site backend and shared by a known Rockstar dataminer show gym activities, a hostage scene and new weapons.",
+      "source": "Insider Gaming",
+      "category": "Leak",
+      "url": "https://insider-gaming.com/gta-6-screenshots-surface-social-media/",
+      "publishedAt": 1794965496252,
+      "firstSeen": 1794987096252
+    },
     {
       "id": "n24rdkp1qv1f",
       "title": "Take-Two lays off a third of Firaxis staff days before GTA 6 launch",
@@ -11,6 +31,16 @@
       "url": "https://www.videogameschronicle.com/news/gta-6-is-the-most-nominated-game-at-the-game-awards-2026/",
       "publishedAt": 1794950778967,
       "firstSeen": 1794954378967
+    },
+    {
+      "id": "n24nmeg6fsqy",
+      "title": "The Game Awards 2026 nominations: GTA 6 lands Game of the Year nom ahead of Thursday release",
+      "summary": "GTA 6 earned eight nominations, including Game of the Year, because it launches before the Nov. 20 eligibility cutoff.",
+      "source": "Variety",
+      "category": "Community",
+      "url": "https://variety.com/2026/awards/news/game-awards-nominations-2026-list-1236949480",
+      "publishedAt": 1794933096252,
+      "firstSeen": 1794987096252
     },
     {
       "id": "n0t305p9ryw3",
@@ -71,43 +101,13 @@
       "url": "https://www.gamespot.com/articles/gta-6-has-sold-almost-8-million-copies-so-far-and-ps5-is-dominating-the-split-of-course/",
       "publishedAt": 1794836103941,
       "firstSeen": 1794854103941
-    },
-    {
-      "id": "n1wjbjobite3",
-      "title": "When Does 'GTA 6' Come Out? PS5 And Xbox Release Time, Download Size And Updates",
-      "summary": "Forbes explains that GTA VI unlocks at midnight local time on Nov. 19, that the preload needs up to 212 GB and has been open since Nov. 10, and that pre-release patches are already rolling out.",
-      "source": "Forbes",
-      "category": "Update",
-      "url": "https://www.forbes.com/sites/erikkain/2026/11/16/gta-6-release-date-time-ps5-xbox-series-x-download-size-day-one-update/",
-      "publishedAt": 1794835714767,
-      "firstSeen": 1794922114767
-    },
-    {
-      "id": "n0hgpv4917po",
-      "title": "GTA 6 Day Off Doctor's Excuse Note Provided by Xbox, DJ Khaled",
-      "summary": "Xbox and DJ Khaled's 'Dr. Xbox' launched a site that generates a joke doctor's note so players can take Thursday's launch day off.",
-      "source": "Variety",
-      "category": "Community",
-      "url": "https://variety.com/2026/music/news/gta-6-day-off-note-xbox-dj-khaled-1236949034/",
-      "publishedAt": 1794832503941,
-      "firstSeen": 1794854103941
-    },
-    {
-      "id": "n12zw2pdbjej",
-      "title": "Rockstar announces GTA 6 free code giveaways on Kick and Twitch",
-      "summary": "Rockstar is giving away free GTA 6 codes through a Kick reward-case campaign running to December 7 (10,000 Ultimate Edition codes) and a Twitch giveaway running November 19–30.",
-      "source": "ComicBook.com",
-      "category": "Update",
-      "url": "https://comicbook.com/gaming/news/gta-6-grand-theft-auto-vi-rockstar-games-free-codes/",
-      "publishedAt": 1794768594160,
-      "firstSeen": 1794782994160
     }
   ],
-  "model": "claude-opus-4-8",
+  "model": "claude-sonnet-5-5",
   "usage": {
-    "inputTokens": 96085,
-    "outputTokens": 1456,
-    "searches": 4
+    "inputTokens": 36257,
+    "outputTokens": 970,
+    "searches": 2
   },
   "added": 3
 }
