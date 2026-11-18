@@ -1,7 +1,57 @@
 {
   "version": 1,
-  "fetchedAt": 1794987096252,
+  "fetchedAt": 1795022185412,
   "items": [
+    {
+      "id": "n0j4w5n48d91",
+      "title": "Fake GTA 6 PC downloads are spreading malware through dark web scam bundle, NordVPN warns",
+      "summary": "NordVPN found a $200 plug-and-play malware kit that uses a fake GTA 6 PC release as bait.",
+      "source": "TechRadar",
+      "category": "Community",
+      "url": "https://techradar.com/vpn/vpn-privacy-security/fake-gta-6-pc-downloads-are-spreading-malware-through-dark-web-scam-bundle-nordvpn-warns",
+      "publishedAt": 1795011385412,
+      "firstSeen": 1795022185412
+    },
+    {
+      "id": "n1j61i7p98rh",
+      "title": "GTA 6 dev shares how Miami Vice, Heat, and Goodfellas are 'touchstones' for the game",
+      "summary": "Rockstar narrative SVP Rupert Humphries told TechRadar how the team balanced Vice City's 80s nostalgia with a modern setting.",
+      "source": "TechRadar",
+      "category": "Update",
+      "url": "https://www.techradar.com/gaming/gta-6-dev-shares-how-miami-vice-heat-and-goodfellas-are-touchstones-for-the-latest-game-and-how-it-channeled-a-sense-of-nostalgia-of-gta-vice-city-i-think-the-feeling-of-playing-a-movie-that-you-get-with-gta-is-one-of-the-coolest-things-we-do",
+      "publishedAt": 1795011385412,
+      "firstSeen": 1795022185412
+    },
+    {
+      "id": "n1hgc221ccwb",
+      "title": "GTA 6 earns rave reviews and a 99 Metacritic score, tying for the highest-rated game of all time",
+      "summary": "The review embargo lifted with near-universal perfect scores, and the game ties Ocarina of Time for the top Metacritic rating.",
+      "source": "Variety",
+      "category": "Update",
+      "url": "https://variety.com/2026/gaming/news/gta-6-reviews-highest-rated-video-game-1236951803/",
+      "publishedAt": 1795004185412,
+      "firstSeen": 1795022185412
+    },
+    {
+      "id": "n28bldfysgzl",
+      "title": "Grand Theft Auto 6 launches in New Zealand to rave reviews, with over $1.5 billion in estimated pre-sales",
+      "summary": "The staggered global rollout began with New Zealand at midnight local time, with Sensor Tower estimating about 16 million pre-orders.",
+      "source": "Forbes",
+      "category": "Update",
+      "url": "https://www.forbes.com/sites/siladityaray/2026/11/18/grand-theft-auto-6-launches-to-rave-reviews-over-15-billion-in-estimated-pre-sales/",
+      "publishedAt": 1795004185412,
+      "firstSeen": 1795022185412
+    },
+    {
+      "id": "n082kw6ta7qm",
+      "title": "GTA 6 review roundup live: critics give their verdict on the new Grand Theft Auto",
+      "summary": "A live blog tracks the review scores, Rockstar's announced Miami festival on Nov. 21, and PC Gamer's 100-hour impressions.",
+      "source": "Tom's Guide",
+      "category": "Update",
+      "url": "https://www.tomsguide.com/news/live/gta-6-review-roundup-live-updates",
+      "publishedAt": 1795000585412,
+      "firstSeen": 1795022185412
+    },
     {
       "id": "n0l56gd8e742",
       "title": "PS5 gets last-minute system software update required to play GTA 6",
@@ -51,63 +101,13 @@
       "url": "https://kotaku.com/grand-theft-auto-6-gta6-fox-news-lucia-hooker-rachel-campos-duffy-2000757710",
       "publishedAt": 1794929178967,
       "firstSeen": 1794954378967
-    },
-    {
-      "id": "n09b2oidgfy6",
-      "title": "Rockstar's Rob Nelson explains GTA 6 could have kept going because 'it's really hard to close it down'",
-      "summary": "Rockstar North co-head Rob Nelson said GTA 6's delay was driven by human-resource constraints and the enormous task of giving NPCs dialogue and audio.",
-      "source": "PC Gamer",
-      "category": "Community",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/they-would-never-stop-working-on-this-game-gta-6s-development-couldve-gone-on-for-longer-just-because-its-really-hard-to-close-it-down/",
-      "publishedAt": 1794925578967,
-      "firstSeen": 1794954378967
-    },
-    {
-      "id": "n0i029rmsocd",
-      "title": "GTA 6's 'Unpredictable' Microclimate Revealed by The Weather Channel, with New PS5 Screenshots",
-      "summary": "The Weather Channel shared an exclusive Rockstar look at Leonida's dynamic weather system, including new PS5 screenshots and comments from a lighting and rendering developer.",
-      "source": "Push Square",
-      "category": "Update",
-      "url": "https://www.pushsquare.com/news/2026/11/gta-6s-unpredictable-microclimate-revealed-by-the-weather-channel-with-new-ps5-screenshots",
-      "publishedAt": 1794876975388,
-      "firstSeen": 1794884175388
-    },
-    {
-      "id": "n116t2hzs1c1",
-      "title": "New GTA 6 Update Released by Rockstar Games on PS5 and Xbox",
-      "summary": "Rockstar pushed a second pre-launch update (01.002.001, about 600 MB) with no patch notes, rolled out in stages three days after the first.",
-      "source": "ComicBook.com",
-      "category": "Patch",
-      "url": "https://comicbook.com/gaming/news/gta-6-grand-theft-auto-vi-rockstar-games-update-1-002-today-ps5-xbox/",
-      "publishedAt": 1794873375388,
-      "firstSeen": 1794884175388
-    },
-    {
-      "id": "n2asp5wljv4p",
-      "title": "GTA 6 hacker pleads guilty to stealing and leaking gameplay footage",
-      "summary": "Arion Kurtaj pleaded guilty at Woolwich Crown Court to the 2022 Rockstar breach and other Lapsus$ crimes, and will be sentenced at a later date.",
-      "source": "Engadget",
-      "category": "Leak",
-      "url": "https://www.engadget.com/2318001/gta-6-hacker-pleads-guilty-to-stealing-and-leaking-gameplay-footage/",
-      "publishedAt": 1794850503941,
-      "firstSeen": 1794854103941
-    },
-    {
-      "id": "n08li7hrftrr",
-      "title": "GTA 6 Nearing 15 Million Copies Sold And $1.5 Billion In Revenue, And The Game Isn't Even Out Yet",
-      "summary": "Sensor Tower's tracker puts pre-purchases at 14.94 million units (about $1.45B), with PS5 at roughly 74% of sales and a projection of up to 25 million by launch.",
-      "source": "GameSpot",
-      "category": "Update",
-      "url": "https://www.gamespot.com/articles/gta-6-has-sold-almost-8-million-copies-so-far-and-ps5-is-dominating-the-split-of-course/",
-      "publishedAt": 1794836103941,
-      "firstSeen": 1794854103941
     }
   ],
   "model": "claude-sonnet-5-5",
   "usage": {
-    "inputTokens": 36257,
-    "outputTokens": 970,
+    "inputTokens": 35778,
+    "outputTokens": 1083,
     "searches": 2
   },
-  "added": 3
+  "added": 5
 }
