@@ -1,7 +1,47 @@
 {
   "version": 1,
-  "fetchedAt": 1795022185412,
+  "fetchedAt": 1795047862126,
   "items": [
+    {
+      "id": "n0qt9zi0fy93",
+      "title": "Rockstar explains why GTA 6 has no prostitutes",
+      "summary": "Rockstar told Shacknews it only kept features that fit the 'lovers on the run' story of Jason and Lucia, which is why hiring sex workers, a series staple since 2001, was cut.",
+      "source": "Kotaku",
+      "category": "Update",
+      "url": "https://kotaku.com/rockstar-explains-why-gta-6-has-no-prostitutes-in-it-a-hallmark-of-the-series-since-2001-2000758174",
+      "publishedAt": 1795022662126,
+      "firstSeen": 1795047862126
+    },
+    {
+      "id": "n0cqxthj2lov",
+      "title": "The Web Is Dead In GTA 6: 'It Didn't Feel Necessary For Us'",
+      "summary": "Rockstar's Rob Nelson explained that GTA 6 has no satirical websites because the team focused on social media and phone apps and on activities in the open world.",
+      "source": "Kotaku",
+      "category": "Update",
+      "url": "https://kotaku.com/no-websites-in-gta-6-vice-city-rockstar-rob-nelson-interview-2000757890",
+      "publishedAt": 1795019062126,
+      "firstSeen": 1795047862126
+    },
+    {
+      "id": "n0jdia00eaeu",
+      "title": "Please Enjoy These GTA 6 Clips Of Jason Petting, Fighting, And Being Eaten By Animals",
+      "summary": "Players are sharing clips of GTA 6's detailed animal interactions, including petting dogs, a pet snake eating mice, and animals attacking Jason.",
+      "source": "Kotaku",
+      "category": "Community",
+      "url": "https://kotaku.com/grand-theft-auto-6-gta6-cats-dogs-snake-pet-alligator-2000758120",
+      "publishedAt": 1795019062126,
+      "firstSeen": 1795047862126
+    },
+    {
+      "id": "n27epuh1lgp1",
+      "title": "Rockstar says PS5 Pro can't handle GTA 6 at 60 FPS",
+      "summary": "Rockstar technology production director Marc Chambers said the PS5 Pro's CPU isn't powerful enough for the game's simulation at higher frame rates, so a post-launch 60fps mode is unlikely.",
+      "source": "Video Games Chronicle",
+      "category": "Update",
+      "url": "https://www.videogameschronicle.com/news/rockstar-says-ps5-pro-cant-handle-gta-6-at-60-fps/",
+      "publishedAt": 1795019062126,
+      "firstSeen": 1795047862126
+    },
     {
       "id": "n0j4w5n48d91",
       "title": "Fake GTA 6 PC downloads are spreading malware through dark web scam bundle, NordVPN warns",
@@ -61,53 +101,13 @@
       "url": "https://kotaku.com/ps5-gets-last-minute-software-update-thats-required-to-play-gta-6-2000757868",
       "publishedAt": 1794972696252,
       "firstSeen": 1794987096252
-    },
-    {
-      "id": "n1tzwkww134j",
-      "title": "New GTA 6 screenshots surface online showing new weapons, scenes",
-      "summary": "Six screenshots reportedly from a review-site backend and shared by a known Rockstar dataminer show gym activities, a hostage scene and new weapons.",
-      "source": "Insider Gaming",
-      "category": "Leak",
-      "url": "https://insider-gaming.com/gta-6-screenshots-surface-social-media/",
-      "publishedAt": 1794965496252,
-      "firstSeen": 1794987096252
-    },
-    {
-      "id": "n24rdkp1qv1f",
-      "title": "Take-Two lays off a third of Firaxis staff days before GTA 6 launch",
-      "summary": "Days before GTA 6's launch, Take-Two rolled out layoffs at Civilization and XCOM studio Firaxis, cutting about a third of its staff.",
-      "source": "Video Games Chronicle",
-      "category": "Community",
-      "url": "https://www.videogameschronicle.com/news/gta-6-is-the-most-nominated-game-at-the-game-awards-2026/",
-      "publishedAt": 1794950778967,
-      "firstSeen": 1794954378967
-    },
-    {
-      "id": "n24nmeg6fsqy",
-      "title": "The Game Awards 2026 nominations: GTA 6 lands Game of the Year nom ahead of Thursday release",
-      "summary": "GTA 6 earned eight nominations, including Game of the Year, because it launches before the Nov. 20 eligibility cutoff.",
-      "source": "Variety",
-      "category": "Community",
-      "url": "https://variety.com/2026/awards/news/game-awards-nominations-2026-list-1236949480",
-      "publishedAt": 1794933096252,
-      "firstSeen": 1794987096252
-    },
-    {
-      "id": "n0t305p9ryw3",
-      "title": "Fox News segment asks if GTA 6's Lucia is a hooker",
-      "summary": "A Fox News segment weighed in on GTA 6 before launch, with one host mistakenly asking whether protagonist Lucia is a sex worker.",
-      "source": "Kotaku",
-      "category": "Community",
-      "url": "https://kotaku.com/grand-theft-auto-6-gta6-fox-news-lucia-hooker-rachel-campos-duffy-2000757710",
-      "publishedAt": 1794929178967,
-      "firstSeen": 1794954378967
     }
   ],
   "model": "claude-sonnet-5-5",
   "usage": {
-    "inputTokens": 35778,
-    "outputTokens": 1083,
-    "searches": 2
+    "inputTokens": 94914,
+    "outputTokens": 1330,
+    "searches": 4
   },
-  "added": 5
+  "added": 4
 }
