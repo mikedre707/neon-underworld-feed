@@ -1,7 +1,47 @@
 {
   "version": 1,
-  "fetchedAt": 1795083774474,
+  "fetchedAt": 1795120776764,
   "items": [
+    {
+      "id": "n0i9nv3a198q",
+      "title": "GTA 6 Officially Reveals Mandy Actress",
+      "summary": "Rockstar published the full GTA 6 cast and named Lexie Shoaibi as the voice and motion-capture actress behind the viral side character Mandy.",
+      "source": "ComicBook.com",
+      "category": "Update",
+      "url": "https://comicbook.com/gaming/news/gta-6-grand-theft-auto-vi-mandy-actress",
+      "publishedAt": 1795102776764,
+      "firstSeen": 1795120776764
+    },
+    {
+      "id": "n1obcefxi691",
+      "title": "Grand Theft Auto VI Now Available",
+      "summary": "Rockstar's launch-day newswire post confirms worldwide availability on PS5 and Xbox Series X|S, a final day for the Vintage Vice City Pack, a GTA+ bonus, and the release of the 34-track soundtrack album.",
+      "source": "Rockstar Games",
+      "category": "Update",
+      "url": "https://www.rockstargames.com/newswire/article/39akk424a9oo53/grand-theft-auto-vi-now-available",
+      "publishedAt": 1795091976764,
+      "firstSeen": 1795120776764
+    },
+    {
+      "id": "n297mj4vc792",
+      "title": "GTA 6 Launch Sets Livestream, Internet Traffic Records",
+      "summary": "GTA 6's launch peaked at 7.91 million concurrent livestream viewers and set a new DE-CIX internet throughput record of 33.03 Tbps.",
+      "source": "Variety",
+      "category": "Community",
+      "url": "https://variety.com/2026/gaming/news/gta-6-launch-livestream-internet-traffic-records-1236953145/",
+      "publishedAt": 1795088376764,
+      "firstSeen": 1795120776764
+    },
+    {
+      "id": "n1sh18hx7k1y",
+      "title": "Where is GTA 6 Online Multiplayer? GTA Online 2 Release Window",
+      "summary": "GTA 6 launched as a strictly single-player game, and the article says online is probably coming in 2027, citing Twitch's CEO and datamined multiplayer references.",
+      "source": "Insider Gaming",
+      "category": "Update",
+      "url": "https://insider-gaming.com/gta-6-online-multiplayer-release/",
+      "publishedAt": 1795084776764,
+      "firstSeen": 1795120776764
+    },
     {
       "id": "n0rwrlyn5nnz",
       "title": "Bigfoot Is Back In GTA 6, And Apparently He Smells Revolting",
@@ -53,60 +93,20 @@
       "firstSeen": 1795083774474
     },
     {
-      "id": "n0qt9zi0fy93",
-      "title": "Rockstar explains why GTA 6 has no prostitutes",
-      "summary": "Rockstar told Shacknews it only kept features that fit the 'lovers on the run' story of Jason and Lucia, which is why hiring sex workers, a series staple since 2001, was cut.",
+      "id": "n0l56gd8e742",
+      "title": "PS5 Gets Last-Minute Software Update That's Required To Play GTA 6",
+      "summary": "Sony pushed a mandatory PS5 system update that players must install before launch, and the 602MB GTA 6 patch 01.002.001 is also required.",
       "source": "Kotaku",
-      "category": "Update",
-      "url": "https://kotaku.com/rockstar-explains-why-gta-6-has-no-prostitutes-in-it-a-hallmark-of-the-series-since-2001-2000758174",
-      "publishedAt": 1795022662126,
-      "firstSeen": 1795047862126
-    },
-    {
-      "id": "n0cqxthj2lov",
-      "title": "The Web Is Dead In GTA 6: 'It Didn't Feel Necessary For Us'",
-      "summary": "Rockstar's Rob Nelson explained that GTA 6 has no satirical websites because the team focused on social media and phone apps and on activities in the open world.",
-      "source": "Kotaku",
-      "category": "Update",
-      "url": "https://kotaku.com/no-websites-in-gta-6-vice-city-rockstar-rob-nelson-interview-2000757890",
-      "publishedAt": 1795019062126,
-      "firstSeen": 1795047862126
-    },
-    {
-      "id": "n0jdia00eaeu",
-      "title": "Please Enjoy These GTA 6 Clips Of Jason Petting, Fighting, And Being Eaten By Animals",
-      "summary": "Players are sharing clips of GTA 6's detailed animal interactions, including petting dogs, a pet snake eating mice, and animals attacking Jason.",
-      "source": "Kotaku",
-      "category": "Community",
-      "url": "https://kotaku.com/grand-theft-auto-6-gta6-cats-dogs-snake-pet-alligator-2000758120",
-      "publishedAt": 1795019062126,
-      "firstSeen": 1795047862126
-    },
-    {
-      "id": "n27epuh1lgp1",
-      "title": "Rockstar says PS5 Pro can't handle GTA 6 at 60 FPS",
-      "summary": "Rockstar technology production director Marc Chambers said the PS5 Pro's CPU isn't powerful enough for the game's simulation at higher frame rates, so a post-launch 60fps mode is unlikely.",
-      "source": "Video Games Chronicle",
-      "category": "Update",
-      "url": "https://www.videogameschronicle.com/news/rockstar-says-ps5-pro-cant-handle-gta-6-at-60-fps/",
-      "publishedAt": 1795019062126,
-      "firstSeen": 1795047862126
-    },
-    {
-      "id": "n0j4w5n48d91",
-      "title": "Fake GTA 6 PC downloads are spreading malware through dark web scam bundle, NordVPN warns",
-      "summary": "NordVPN found a $200 plug-and-play malware kit that uses a fake GTA 6 PC release as bait.",
-      "source": "TechRadar",
-      "category": "Community",
-      "url": "https://techradar.com/vpn/vpn-privacy-security/fake-gta-6-pc-downloads-are-spreading-malware-through-dark-web-scam-bundle-nordvpn-warns",
-      "publishedAt": 1795011385412,
-      "firstSeen": 1795022185412
+      "category": "Patch",
+      "url": "https://kotaku.com/ps5-gets-last-minute-software-update-thats-required-to-play-gta-6-2000757868",
+      "publishedAt": 1795034376764,
+      "firstSeen": 1795120776764
     }
   ],
   "model": "claude-sonnet-5-5",
   "usage": {
-    "inputTokens": 79557,
-    "outputTokens": 1314,
+    "inputTokens": 50773,
+    "outputTokens": 1628,
     "searches": 3
   },
   "added": 5
