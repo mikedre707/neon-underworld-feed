@@ -1,0 +1,77 @@
+name: Refresh assistant facts
+
+# Asks the Neon Underworld server for the assistants' next confirmed-facts file
+# and commits it as facts.json. The server runs the search; this job only
+# carries the file. A failed or thin run leaves the published file as it is.
+# Docs: docs/news-feed.md and src/server/facts/facts.ts in the app repository.
+
+on:
+  schedule:
+    # Twice a day, at 43 past, clear of the news job at 17 past.
+    - cron: '43 3,15 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+# Shared with the news job, so the two never push at the same time.
+concurrency:
+  group: refresh
+  cancel-in-progress: false
+
+jobs:
+  facts:
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Ask the server for the next facts file
+        env:
+          NEWS_REFRESH_TOKEN: ${{ secrets.NEWS_REFRESH_TOKEN }}
+        run: |
+          set -euo pipefail
+          if [ -z "${NEWS_REFRESH_TOKEN:-}" ]; then
+            echo "The NEWS_REFRESH_TOKEN secret is not set." >&2
+            exit 1
+          fi
+          code=$(curl -sS --max-time 480 -o next.json -w '%{http_code}' \
+            -X POST https://gta6-companion.expo.app/api/facts-refresh \
+            -H "authorization: Bearer ${NEWS_REFRESH_TOKEN}")
+          if [ "$code" != "200" ]; then
+            echo "The server answered HTTP $code." >&2
+            exit 1
+          fi
+          if jq -e 'has("error")' next.json > /dev/null; then
+            echo "The server reported: $(jq -r '.error' next.json)" >&2
+            exit 1
+          fi
+          # Publish only a file of the expected shape.
+          jq -e '
+            .version == 1
+            and (.fetchedAt | type == "number")
+            and (.items | type == "array")
+            and (.items | length >= 8)
+            and all(.items[];
+              (.topic | type == "string")
+              and (.fact | type == "string")
+              and (.source | type == "string")
+              and (.url | test("^https?://")))
+          ' next.json > /dev/null
+          jq '.' next.json > facts.json
+          rm -f next.json
+          echo "Facts: $(jq '.items | length' facts.json), model: $(jq -r '.model' facts.json)"
+
+      - name: Publish
+        run: |
+          set -euo pipefail
+          git config user.name "neon-underworld-feed"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add facts.json
+          if git diff --cached --quiet; then
+            echo "No change."
+          else
+            git commit -m "Refresh facts"
+            git pull --rebase -q
+            git push
+          fi
