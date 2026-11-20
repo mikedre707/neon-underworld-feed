@@ -1,7 +1,17 @@
 {
   "version": 1,
-  "fetchedAt": 1795144682259,
+  "fetchedAt": 1795179306429,
   "items": [
+    {
+      "id": "n00c23jzwhoo",
+      "title": "GTA 6 sold around 25 million copies and made $2.36 billion in its first day, estimates suggest",
+      "summary": "Sensor Tower estimates 24.58 million copies sold on day one, about $2.36 billion in revenue, with roughly 75% of sales on PS5, though Rockstar and Take-Two haven't confirmed figures.",
+      "source": "Video Games Chronicle",
+      "category": "Update",
+      "url": "https://videogameschronicle.com/news/gta-6-sold-around-25-million-copies-and-made-2-36-billion-in-its-first-day-estimates-suggest",
+      "publishedAt": 1795168506429,
+      "firstSeen": 1795179306429
+    },
     {
       "id": "n01g7cpqm2vu",
       "title": "Cyberleek drops what they claim is a near-complete GTA 6 Xbox build online",
@@ -43,6 +53,16 @@
       "firstSeen": 1795120776764
     },
     {
+      "id": "n1hgc221ccwb",
+      "title": "'GTA 6' Earns Rave Reviews and Lands 99 Metacritic Score, Tying for Highest-Rated Game of All Time",
+      "summary": "Reviews tie GTA 6 with Ocarina of Time at a 99 Metacritic score, and Game Informer gave it a perfect 10.",
+      "source": "Variety",
+      "category": "Update",
+      "url": "https://variety.com/2026/gaming/news/gta-6-reviews-highest-rated-video-game-1236951803/",
+      "publishedAt": 1795092906429,
+      "firstSeen": 1795179306429
+    },
+    {
       "id": "n1obcefxi691",
       "title": "Grand Theft Auto VI Now Available",
       "summary": "Rockstar's launch-day newswire post confirms worldwide availability on PS5 and Xbox Series X|S, a final day for the Vintage Vice City Pack, a GTA+ bonus, and the release of the 34-track soundtrack album.",
@@ -81,33 +101,13 @@
       "url": "https://insider-gaming.com/gta-6-online-multiplayer-release/",
       "publishedAt": 1795084776764,
       "firstSeen": 1795120776764
-    },
-    {
-      "id": "n0rwrlyn5nnz",
-      "title": "Bigfoot Is Back In GTA 6, And Apparently He Smells Revolting",
-      "summary": "Streamers have found a Bigfoot encounter in the Leonida woods, with a creepy effigy and a cutscene that fits the series' long-running Sasquatch gag.",
-      "source": "GameSpot",
-      "category": "Community",
-      "url": "https://www.gamespot.com/articles/bigfoot-is-back-in-gta-6-and-apparently-he-smells-revolting/",
-      "publishedAt": 1795076574474,
-      "firstSeen": 1795083774474
-    },
-    {
-      "id": "n0838hx012qt",
-      "title": "GTA 6 Has A Hilarious Riff On Easter Eggs",
-      "summary": "Players exploring Leonida after launch found a literal take on Easter eggs, one of many early secrets.",
-      "source": "GameSpot",
-      "category": "Community",
-      "url": "https://www.gamespot.com/articles/gta-6-has-a-hilarious-riff-on-easter-eggs/",
-      "publishedAt": 1795072974474,
-      "firstSeen": 1795083774474
     }
   ],
   "model": "claude-sonnet-5-5",
   "usage": {
-    "inputTokens": 54343,
-    "outputTokens": 1380,
-    "searches": 2
+    "inputTokens": 23490,
+    "outputTokens": 602,
+    "searches": 1
   },
-  "added": 4
+  "added": 2
 }
