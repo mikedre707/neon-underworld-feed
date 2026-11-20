@@ -1,7 +1,37 @@
 {
   "version": 1,
-  "fetchedAt": 1795120776764,
+  "fetchedAt": 1795144682259,
   "items": [
+    {
+      "id": "n01g7cpqm2vu",
+      "title": "Cyberleek drops what they claim is a near-complete GTA 6 Xbox build online",
+      "summary": "The leaker says they have posted a roughly 200 GB Xbox build from November 2026 and will release the missing main executable on November 23.",
+      "source": "PC Gamer",
+      "category": "Leak",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/cyberleek-drops-what-they-claim-is-a-near-complete-gta-6-xbox-build-online/",
+      "publishedAt": 1795133882259,
+      "firstSeen": 1795144682259
+    },
+    {
+      "id": "n0qne1yowp66",
+      "title": "Japanese GTA 6 Players Can't See Nudity, And Take Showers In Their Underpants",
+      "summary": "The Japanese release has less nudity and blood and fewer language options, and Rockstar did not announce any of these changes before launch.",
+      "source": "Kotaku",
+      "category": "Community",
+      "url": "https://kotaku.com/gta-6-japan-censored-showers-nudity-blood-violence-rockstar-2000758211",
+      "publishedAt": 1795130282259,
+      "firstSeen": 1795144682259
+    },
+    {
+      "id": "n0cphu6fxr1q",
+      "title": "Rockstar explains why you can't play darts in GTA 6: 'We don't have unlimited time'",
+      "summary": "Rockstar North co-studio head Rob Nelson says darts and bowling were left out because the team couldn't get them up to its standard.",
+      "source": "Video Games Chronicle",
+      "category": "Update",
+      "url": "https://www.videogameschronicle.com/news/rockstar-explains-why-you-cant-play-darts-in-gta-6-we-dont-have-unlimited-time/",
+      "publishedAt": 1795126682259,
+      "firstSeen": 1795144682259
+    },
     {
       "id": "n0i9nv3a198q",
       "title": "GTA 6 Officially Reveals Mandy Actress",
@@ -33,6 +63,16 @@
       "firstSeen": 1795120776764
     },
     {
+      "id": "n1q1zi3uiqxc",
+      "title": "GTA 6 devs worried about layoffs despite making \"biggest game of all time\"",
+      "summary": "A Rockstar Edinburgh developer wrote in The Guardian that staff fear redundancies after launch, though Rockstar has given no sign any are coming.",
+      "source": "Dexerto",
+      "category": "Community",
+      "url": "https://dexerto.com/gta/gta-6-devs-worried-about-layoffs-despite-making-biggest-game-of-all-time-3429760",
+      "publishedAt": 1795087082259,
+      "firstSeen": 1795144682259
+    },
+    {
       "id": "n1sh18hx7k1y",
       "title": "Where is GTA 6 Online Multiplayer? GTA Online 2 Release Window",
       "summary": "GTA 6 launched as a strictly single-player game, and the article says online is probably coming in 2027, citing Twitch's CEO and datamined multiplayer references.",
@@ -61,53 +101,13 @@
       "url": "https://www.gamespot.com/articles/gta-6-has-a-hilarious-riff-on-easter-eggs/",
       "publishedAt": 1795072974474,
       "firstSeen": 1795083774474
-    },
-    {
-      "id": "n0q586y68ho6",
-      "title": "The Xbox Series S version of GTA 6 is seemingly the first to use AMD's FSR 4.1 upscaling",
-      "summary": "Rockstar told Wccftech that the Series S version scales from a 720p base to 1080p with AMD FSR, targeting 30fps while keeping ray tracing.",
-      "source": "Video Games Chronicle",
-      "category": "Update",
-      "url": "https://www.videogameschronicle.com/news/the-xbox-series-s-version-of-gta-6-is-seemingly-the-first-to-use-amds-fsr-4-1-upscaling/",
-      "publishedAt": 1795072974474,
-      "firstSeen": 1795083774474
-    },
-    {
-      "id": "n1j4dcw0p9oo",
-      "title": "Where to Find Bigfoot in GTA 6",
-      "summary": "A guide to the Skunk Ape encounter south of Cottonmouth Lake, which is available right after the first mission.",
-      "source": "Game Rant",
-      "category": "Community",
-      "url": "https://gamerant.com/gta-6-bigfoot-location-where-to-find/",
-      "publishedAt": 1795069374474,
-      "firstSeen": 1795083774474
-    },
-    {
-      "id": "n1lail8ypx4w",
-      "title": "Should GTA 6 have been nominated at The Game Awards? Have your say",
-      "summary": "GTA 6 was the most-nominated game at The Game Awards 2026 with eight nods, announced before most players could get the game.",
-      "source": "GamesRadar",
-      "category": "Update",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/should-gta-6-have-been-nominated-at-the-game-awards-have-your-say/",
-      "publishedAt": 1795062174474,
-      "firstSeen": 1795083774474
-    },
-    {
-      "id": "n0l56gd8e742",
-      "title": "PS5 Gets Last-Minute Software Update That's Required To Play GTA 6",
-      "summary": "Sony pushed a mandatory PS5 system update that players must install before launch, and the 602MB GTA 6 patch 01.002.001 is also required.",
-      "source": "Kotaku",
-      "category": "Patch",
-      "url": "https://kotaku.com/ps5-gets-last-minute-software-update-thats-required-to-play-gta-6-2000757868",
-      "publishedAt": 1795034376764,
-      "firstSeen": 1795120776764
     }
   ],
   "model": "claude-sonnet-5-5",
   "usage": {
-    "inputTokens": 50773,
-    "outputTokens": 1628,
-    "searches": 3
+    "inputTokens": 54343,
+    "outputTokens": 1380,
+    "searches": 2
   },
-  "added": 5
+  "added": 4
 }
