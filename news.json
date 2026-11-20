@@ -1,7 +1,37 @@
 {
   "version": 1,
-  "fetchedAt": 1795179306429,
+  "fetchedAt": 1795211425113,
   "items": [
+    {
+      "id": "n1kd0jriykch",
+      "title": "'GTA 6' Hits Massive $3.79 Billion in First-Day Sales",
+      "summary": "Rockstar and Take-Two announced official first-day sales of $3.79 billion, which replaces the earlier estimates. They called it the biggest entertainment launch in history, and 32.5 million copies were sold pre-release.",
+      "source": "Variety",
+      "category": "Update",
+      "url": "https://variety.com/2026/gaming/news/gta-6-sales-billions-first-day-1236954198/",
+      "publishedAt": 1795204225113,
+      "firstSeen": 1795211425113
+    },
+    {
+      "id": "n116ce7j2hlx",
+      "title": "'GTA 6': First Half-Hour Reveals Major Plot Twist Rockstar Has Managed to Keep Secret for Years",
+      "summary": "Jason and Lucia have an infant son, Tomas, a reveal in the opening 30 minutes that players are reacting to.",
+      "source": "Variety",
+      "category": "Community",
+      "url": "https://variety.com/2026/gaming/news/gta-6-jason-lucia-baby-tomas-parents-twist-1236954289/",
+      "publishedAt": 1795197025113,
+      "firstSeen": 1795211425113
+    },
+    {
+      "id": "n0k0n90iybw9",
+      "title": "A 'GTA 6 PC scam kit' using a fake PC port as bait is available for $200 on the dark web, says NordVPN",
+      "summary": "NordVPN warns of a dark-web kit with a crypto drainer and fake keygen that uses a nonexistent GTA 6 PC port as bait.",
+      "source": "PC Gamer",
+      "category": "Community",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/a-gta-6-pc-scam-kit-using-a-fake-pc-port-as-bait-is-available-for-usd200-on-the-dark-web-says-nordvpn-so-watch-what-you-click/",
+      "publishedAt": 1795189825113,
+      "firstSeen": 1795211425113
+    },
     {
       "id": "n00c23jzwhoo",
       "title": "GTA 6 sold around 25 million copies and made $2.36 billion in its first day, estimates suggest",
@@ -71,43 +101,13 @@
       "url": "https://www.rockstargames.com/newswire/article/39akk424a9oo53/grand-theft-auto-vi-now-available",
       "publishedAt": 1795091976764,
       "firstSeen": 1795120776764
-    },
-    {
-      "id": "n297mj4vc792",
-      "title": "GTA 6 Launch Sets Livestream, Internet Traffic Records",
-      "summary": "GTA 6's launch peaked at 7.91 million concurrent livestream viewers and set a new DE-CIX internet throughput record of 33.03 Tbps.",
-      "source": "Variety",
-      "category": "Community",
-      "url": "https://variety.com/2026/gaming/news/gta-6-launch-livestream-internet-traffic-records-1236953145/",
-      "publishedAt": 1795088376764,
-      "firstSeen": 1795120776764
-    },
-    {
-      "id": "n1q1zi3uiqxc",
-      "title": "GTA 6 devs worried about layoffs despite making \"biggest game of all time\"",
-      "summary": "A Rockstar Edinburgh developer wrote in The Guardian that staff fear redundancies after launch, though Rockstar has given no sign any are coming.",
-      "source": "Dexerto",
-      "category": "Community",
-      "url": "https://dexerto.com/gta/gta-6-devs-worried-about-layoffs-despite-making-biggest-game-of-all-time-3429760",
-      "publishedAt": 1795087082259,
-      "firstSeen": 1795144682259
-    },
-    {
-      "id": "n1sh18hx7k1y",
-      "title": "Where is GTA 6 Online Multiplayer? GTA Online 2 Release Window",
-      "summary": "GTA 6 launched as a strictly single-player game, and the article says online is probably coming in 2027, citing Twitch's CEO and datamined multiplayer references.",
-      "source": "Insider Gaming",
-      "category": "Update",
-      "url": "https://insider-gaming.com/gta-6-online-multiplayer-release/",
-      "publishedAt": 1795084776764,
-      "firstSeen": 1795120776764
     }
   ],
   "model": "claude-sonnet-5-5",
   "usage": {
-    "inputTokens": 23490,
-    "outputTokens": 602,
-    "searches": 1
+    "inputTokens": 53985,
+    "outputTokens": 950,
+    "searches": 2
   },
-  "added": 2
+  "added": 3
 }
