@@ -1,150 +1,138 @@
 {
   "version": 1,
-  "fetchedAt": 1795261683406,
+  "fetchedAt": 1795295417827,
   "items": [
     {
       "topic": "story",
-      "fact": "The campaign has five chapters and 91 story missions, according to PC Gamer's mission list. Other outlets give slightly different counts: GamesRadar says over 90, and Push Square and Insider Gaming say 93.",
+      "fact": "The campaign is split into five chapters, and PC Gamer counts 91 story missions in total.",
       "source": "pcgamer.com",
       "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-mission-list/"
     },
     {
       "topic": "story",
-      "fact": "Chapter 1 is centered on the Leonida Keys, Chapter 2 on Port Gellhorn, Chapters 3 and 4 on Vice City, and Chapter 5 on Vice City and the wider state of Leonida. Chapter 5 is the shortest, with 7 missions.",
-      "source": "gamerant.com",
-      "url": "https://gamerant.com/gta-6-main-story-missions-chapters-list/"
+      "fact": "Push Square and Insider Gaming put the story at 93 missions across five chapters, so counts differ depending on whether optional missions are included.",
+      "source": "insider-gaming.com",
+      "url": "https://insider-gaming.com/every-chapter-story-mission-in-gta-6-game-length-explained/"
     },
     {
       "topic": "story",
-      "fact": "Each chapter unlocks only after you finish every mission in the one before it. Completed missions cannot be replayed.",
-      "source": "gamesradar.com",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-mission-list/"
-    },
-    {
-      "topic": "characters",
-      "fact": "The protagonists are Jason and Lucia. You can only switch between them once the story reaches Vice City in Chapter 3.",
+      "fact": "The chapter titles are Just Like Paradise, Paradise Lost, Tits Ass Drug Money, Vice City Baby, and Top of the World Ma. Chapter 1 is set in the Leonida Keys and Chapter 2 in Port Gellhorn. Chapters 3 and 4 are set in Vice City, and Chapter 5 is the shortest at 7 missions.",
       "source": "gamerant.com",
       "url": "https://gamerant.com/gta-6-main-story-missions-chapters-list/"
     },
     {
+      "topic": "characters",
+      "fact": "You play as the duo Jason and Lucia. The story follows their journey through Leonida, and Jason is the only playable character in Chapter 1.",
+      "source": "pcgamer.com",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-mission-list/"
+    },
+    {
+      "topic": "characters",
+      "fact": "Supporting characters include Brian (Jason's boss), Donnie, Cal, Moses (an auto-shop owner who buys stolen cars), and Randy (a high-end car fence who appears in Chapter 3).",
+      "source": "comicbook.com",
+      "url": "https://comicbook.com/gaming/feature/gta-6-how-to-make-money-early-in-the-game/"
+    },
+    {
       "topic": "map",
-      "fact": "Leonida is split into five counties. Places named in guides include Key Lento in Mariana County, Port Gellhorn, and Vice City in Vice-Dale County.",
-      "source": "pushsquare.com",
-      "url": "https://www.pushsquare.com/guides/gta-6-how-to-get-ultimate-edition-items-and-pre-order-bonuses"
+      "fact": "Leonida has six main regions: Vice City, the Leonida Keys, Grassrivers, Port Gellhorn, Ambrosia and Mount Kalaga National Park. Each is modeled on a different part of Florida.",
+      "source": "videogameschronicle.com",
+      "url": "https://www.videogameschronicle.com/news/gta-6-map-is-officially-twice-as-large-as-gta-5-features-hurricanes-and-tropical-storms/"
+    },
+    {
+      "topic": "map",
+      "fact": "The map is also divided into five counties: Vice-Dale, Leonard, Kelly, Lummox and Mariana.",
+      "source": "pcgamer.com",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-map/"
     },
     {
       "topic": "collectibles",
-      "fact": "There are 18 collectible card sets across Leonida, and most sets hold 24 cards. Some sets are larger: Vice City Club de Futbol has 30, and several others have 36.",
+      "fact": "Collectible cards come in 18 sets, and you can sell them at pawn shops. You can also view your collection in a wooden box in your apartment.",
       "source": "pushsquare.com",
       "url": "https://www.pushsquare.com/guides/gta-6-collectible-card-locations"
     },
     {
       "topic": "collectibles",
-      "fact": "For 100% completion you only need 15 of the 18 card sets. One trophy needs just 3 complete sets.",
-      "source": "pushsquare.com",
-      "url": "https://www.pushsquare.com/guides/gta-6-trophy-guide-and-roadmap"
-    },
-    {
-      "topic": "collectibles",
-      "fact": "The Progress menu tracks more than 250 animal species, including 61 hunting, 35 fishing and 60 bird entries.",
-      "source": "gamesradar.com",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-animals/&gsessionid=2UzaKKB_QpHJV3-FuUcUXIdBrvJKY3l-GPrAwVIH2VYIrxJfu8GtXQ/"
-    },
-    {
-      "topic": "collectibles",
-      "fact": "There are 27 magazines, books and comics to find. They are counted separately from book swaps.",
-      "source": "pushsquare.com",
-      "url": "https://www.pushsquare.com/guides/gta-6-magazines-books-and-comics-locations"
-    },
-    {
-      "topic": "money",
-      "fact": "From Chapter 2, the mechanic Moses buys stolen cars that have no tracker. Randy, a high-end car fence you meet in Chapter 3, pays more for flashier vehicles.",
-      "source": "pcgamer.com",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-how-to-make-money/"
-    },
-    {
-      "topic": "money",
-      "fact": "Randy keeps a wish list of 18 high-end sports cars. Delivering one can pay $30,000 or more.",
-      "source": "insider-gaming.com",
-      "url": "https://insider-gaming.com/gta-6-money-making/"
-    },
-    {
-      "topic": "money",
-      "fact": "Late in Chapter 4 you learn to rob bank vaults, which can pay up to $200,000 per job. They also trigger an instant 4-star wanted level.",
-      "source": "insider-gaming.com",
-      "url": "https://insider-gaming.com/gta-6-money-making/"
-    },
-    {
-      "topic": "money",
-      "fact": "Late-game gang hideouts respawn and can pay roughly $10,000 to $30,000 per run. The big vault in each one comes back.",
-      "source": "forbes.com",
-      "url": "https://www.forbes.com/sites/paultassi/2026/11/19/the-best-ways-to-earn-money-in-gta-6-early-mid-and-late-game/"
+      "fact": "Cards are scattered across all 5 counties, in public places, in homes, in stores you can rob, and during missions. Collecting three cards in each county unlocks the card achievement.",
+      "source": "gamerant.com",
+      "url": "https://gamerant.com/gta-6-what-do-collectible-cards-how-sell-where/"
     },
     {
       "topic": "activities",
-      "fact": "The Demolition Derby at Ambrosia Raceway pays about $3,800 to $6,300 per win. You can repeat it, and you win by default once every other car is wrecked.",
+      "fact": "Races take place at 40 unique locations. Entering costs an entry fee and a vehicle rental fee, but a win pays more than you put in.",
+      "source": "insider-gaming.com",
+      "url": "https://insider-gaming.com/gta-6-money-making/"
+    },
+    {
+      "topic": "activities",
+      "fact": "Side content includes hunting missions for Bret in Lummox County, with Chapter 2 unlocking them for Jason only. It also includes demolition derbies at Ambrosia Raceway, which pay roughly $3,800 to $6,300 per win.",
       "source": "pcgamer.com",
       "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-how-to-make-money/"
     },
     {
       "topic": "activities",
-      "fact": "Treasure diving for Kenton starts early in the game. He marks dive spots near Key Lento, and he pays tens of thousands of dollars if you find every piece at a spot.",
+      "fact": "As Jason, you can scuba dive for sunken treasure around Key Lento for Kenton. Finding all the treasure at each dive spot eventually pays out tens of thousands of dollars.",
       "source": "gamespot.com",
       "url": "https://www.gamespot.com/articles/best-ways-to-make-money-fast-in-gta-6/"
     },
     {
-      "topic": "activities",
-      "fact": "There are 40 unique race locations. Entry and vehicle rental cost money up front, but a win pays more than you spent.",
+      "topic": "money",
+      "fact": "Moses starts buying stolen cars in Chapter 2, paying roughly $1,000 to $5,000 each for cars with no tracker. Randy's wish list has 18 high-end sports cars worth $30,000 or more apiece.",
       "source": "insider-gaming.com",
       "url": "https://insider-gaming.com/gta-6-money-making/"
     },
     {
-      "topic": "vehicles",
-      "fact": "The Scooter Bros phone app lets you spawn, repair and impound-release your owned vehicles, but each use costs money. Premium costs $12,500 and gives three free uses per in-game day.",
-      "source": "kotaku.com",
-      "url": "https://kotaku.com/32-spoiler-free-tips-as-you-hop-into-grand-theft-auto-6-2000758016"
+      "topic": "money",
+      "fact": "Gang hideouts respawn their loot and can pay $10,000 to $30,000 per run, which makes them a strong late-game money source. The big vault always comes back.",
+      "source": "forbes.com",
+      "url": "https://www.forbes.com/sites/paultassi/2026/11/19/the-best-ways-to-earn-money-in-gta-6-early-mid-and-late-game/"
     },
     {
-      "topic": "vehicles",
-      "fact": "Jason's safehouse in Key Lento has a Dinka Enduro motorcycle and a Crest Kayak. These are Ultimate Edition items.",
-      "source": "pushsquare.com",
-      "url": "https://www.pushsquare.com/guides/gta-6-how-to-get-ultimate-edition-items-and-pre-order-bonuses"
+      "topic": "money",
+      "fact": "Bank vault robberies unlock near the end of Chapter 4 and can pay up to $200,000. They instantly give you a 4-star wanted level.",
+      "source": "insider-gaming.com",
+      "url": "https://insider-gaming.com/gta-6-money-making/"
     },
     {
       "topic": "tips",
-      "fact": "Robberies rated medium or high security are much easier as a pair. Check the map for back doors, and hold off on banks and loan stores until Chapter 3, when you get a dye pack jammer.",
+      "fact": "Banks and loan stores need a dye pack jammer, which you get from a character in Chapter 3, so wait until then. With the snap gun you can enter stores through back doors without triggering the alarm.",
       "source": "gamespot.com",
       "url": "https://www.gamespot.com/articles/gta-6-tips-everything-i-wish-i-knew-before-i-started-playing/"
     },
     {
       "topic": "tips",
-      "fact": "Fast travel works through buses and trains, which run on schedules. The RydeMe app also lets you fast travel from inside a ride for $100.",
-      "source": "kotaku.com",
-      "url": "https://kotaku.com/32-spoiler-free-tips-as-you-hop-into-grand-theft-auto-6-2000758016"
+      "fact": "Buses and trains give you a cheap way to fast travel on a schedule, since RydeMe is expensive early on. You cannot replay missions once you finish them.",
+      "source": "gamesradar.com",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-mission-list/"
+    },
+    {
+      "topic": "vehicles",
+      "fact": "Ultimate Edition vehicles include the Dinka Enduro motorcycle and Crest Kayak at Jason's house from Chapter 1, and a '67 Dominator Buggy in your Paradise garage from Chapter 2. The Shitzu Squalo appears in Chapter 4, and the '95 Grotti Cheetah in Chapter 5.",
+      "source": "pushsquare.com",
+      "url": "https://www.pushsquare.com/guides/gta-6-how-to-get-ultimate-edition-items-and-pre-order-bonuses"
     },
     {
       "topic": "patches",
-      "fact": "Two pre-launch updates came out, 01.002.000 on Nov 13 and 01.002.001 on Nov 16. Rockstar gave no patch notes for either.",
-      "source": "forbes.com",
-      "url": "https://www.forbes.com/sites/brianmazique/2026/11/17/gta-6-just-got-a-second-update-before-anyone-can-play-it-and-rockstar-still-isnt-saying-what-it-changes/"
-    },
-    {
-      "topic": "patches",
-      "fact": "Some PS5 players report a crash at the start of the prologue with error code CE-108255-1. Clearing the cache, rebuilding the database and reinstalling reportedly haven't fixed it.",
+      "fact": "Many PS5 players report crash error CE-108255-1, some during the Pipework mission and some at the prologue, and no fix has been confirmed.",
       "source": "dexerto.com",
-      "url": "https://dexerto.com/gta/gta-6-players-report-game-breaking-crashes-on-ps5-and-xbox-3430090"
+      "url": "https://www.dexerto.com/gta/gta-6-players-report-game-breaking-crashes-on-ps5-and-xbox-3430090/"
     },
     {
       "topic": "patches",
-      "fact": "A glitch lets players get into first-person view, which the game doesn't officially offer. Once it's active, you have to reload your save to leave it.",
+      "fact": "A glitch that uncaps the frame rate has been reported on version 01.002.001 with an Xbox Series X and a 120Hz display. The game is otherwise locked to 30 FPS, and the glitch may get patched.",
+      "source": "gamerant.com",
+      "url": "https://gamerant.com/gta-6-frame-rate-30-fps-uncapped"
+    },
+    {
+      "topic": "patches",
+      "fact": "The game has no dedicated first-person mode at launch. A glitch can force first-person view, and you have to reload your save to get back to third person.",
       "source": "dexerto.com",
       "url": "https://dexerto.com/gta/gta-6-glitch-lets-players-access-first-person-mode-3430025"
     }
   ],
   "model": "claude-sonnet-5-5",
   "usage": {
-    "inputTokens": 93990,
-    "outputTokens": 3055,
+    "inputTokens": 96373,
+    "outputTokens": 3061,
     "searches": 4
   }
 }
