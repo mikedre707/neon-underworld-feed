@@ -1,7 +1,17 @@
 {
   "version": 1,
-  "fetchedAt": 1795211425113,
+  "fetchedAt": 1795230848402,
   "items": [
+    {
+      "id": "n02d1scdbpxj",
+      "title": "GTA 6 made $3.79 billion in its first day, but Rockstar's workers still lack job security",
+      "summary": "Rockstar workers are voting on union recognition with the Independent Workers Union of Great Britain until November 26, and staff are worried about layoffs despite the record launch.",
+      "source": "Engadget",
+      "category": "Community",
+      "url": "https://engadget.com/2323671/gta-6-made-dollar379-billion-in-its-first-day-but-rockstars-workers-still-lack-job-security",
+      "publishedAt": 1795209248402,
+      "firstSeen": 1795230848402
+    },
     {
       "id": "n1kd0jriykch",
       "title": "'GTA 6' Hits Massive $3.79 Billion in First-Day Sales",
@@ -11,6 +21,16 @@
       "url": "https://variety.com/2026/gaming/news/gta-6-sales-billions-first-day-1236954198/",
       "publishedAt": 1795204225113,
       "firstSeen": 1795211425113
+    },
+    {
+      "id": "n0idjcnixgbn",
+      "title": "GTA 6 Gets Review Bombed On Metacritic Right After Opening User Scores",
+      "summary": "Metacritic user scores went live and fell to roughly 5.1 out of 10 amid a wave of review bombing, even though critics gave the game a 99.",
+      "source": "TheGamer",
+      "category": "Community",
+      "url": "https://thegamer.com/grand-theft-auto-6-gta-review-bombing-user-score",
+      "publishedAt": 1795202048402,
+      "firstSeen": 1795230848402
     },
     {
       "id": "n116ce7j2hlx",
@@ -81,33 +101,13 @@
       "url": "https://comicbook.com/gaming/news/gta-6-grand-theft-auto-vi-mandy-actress",
       "publishedAt": 1795102776764,
       "firstSeen": 1795120776764
-    },
-    {
-      "id": "n1hgc221ccwb",
-      "title": "'GTA 6' Earns Rave Reviews and Lands 99 Metacritic Score, Tying for Highest-Rated Game of All Time",
-      "summary": "Reviews tie GTA 6 with Ocarina of Time at a 99 Metacritic score, and Game Informer gave it a perfect 10.",
-      "source": "Variety",
-      "category": "Update",
-      "url": "https://variety.com/2026/gaming/news/gta-6-reviews-highest-rated-video-game-1236951803/",
-      "publishedAt": 1795092906429,
-      "firstSeen": 1795179306429
-    },
-    {
-      "id": "n1obcefxi691",
-      "title": "Grand Theft Auto VI Now Available",
-      "summary": "Rockstar's launch-day newswire post confirms worldwide availability on PS5 and Xbox Series X|S, a final day for the Vintage Vice City Pack, a GTA+ bonus, and the release of the 34-track soundtrack album.",
-      "source": "Rockstar Games",
-      "category": "Update",
-      "url": "https://www.rockstargames.com/newswire/article/39akk424a9oo53/grand-theft-auto-vi-now-available",
-      "publishedAt": 1795091976764,
-      "firstSeen": 1795120776764
     }
   ],
   "model": "claude-sonnet-5-5",
   "usage": {
-    "inputTokens": 53985,
-    "outputTokens": 950,
-    "searches": 2
+    "inputTokens": 85086,
+    "outputTokens": 1460,
+    "searches": 3
   },
-  "added": 3
+  "added": 2
 }
