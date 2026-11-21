@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "fetchedAt": 1795230848402,
+  "fetchedAt": 1795264883157,
   "items": [
     {
       "id": "n02d1scdbpxj",
@@ -53,6 +53,16 @@
       "firstSeen": 1795211425113
     },
     {
+      "id": "n1sh18hx7k1y",
+      "title": "GTA 6 online multiplayer: where is it and when is it coming?",
+      "summary": "GTA 6 launched without any online multiplayer component, and Insider Gaming points to datamined multiplayer references and a likely 2027 release window, though Rockstar hasn't announced anything.",
+      "source": "Insider Gaming",
+      "category": "Update",
+      "url": "https://insider-gaming.com/gta-6-online-multiplayer-release/",
+      "publishedAt": 1795178483157,
+      "firstSeen": 1795264883157
+    },
+    {
       "id": "n00c23jzwhoo",
       "title": "GTA 6 sold around 25 million copies and made $2.36 billion in its first day, estimates suggest",
       "summary": "Sensor Tower estimates 24.58 million copies sold on day one, about $2.36 billion in revenue, with roughly 75% of sales on PS5, though Rockstar and Take-Two haven't confirmed figures.",
@@ -91,23 +101,13 @@
       "url": "https://www.videogameschronicle.com/news/rockstar-explains-why-you-cant-play-darts-in-gta-6-we-dont-have-unlimited-time/",
       "publishedAt": 1795126682259,
       "firstSeen": 1795144682259
-    },
-    {
-      "id": "n0i9nv3a198q",
-      "title": "GTA 6 Officially Reveals Mandy Actress",
-      "summary": "Rockstar published the full GTA 6 cast and named Lexie Shoaibi as the voice and motion-capture actress behind the viral side character Mandy.",
-      "source": "ComicBook.com",
-      "category": "Update",
-      "url": "https://comicbook.com/gaming/news/gta-6-grand-theft-auto-vi-mandy-actress",
-      "publishedAt": 1795102776764,
-      "firstSeen": 1795120776764
     }
   ],
   "model": "claude-sonnet-5-5",
   "usage": {
-    "inputTokens": 85086,
-    "outputTokens": 1460,
-    "searches": 3
+    "inputTokens": 109179,
+    "outputTokens": 1042,
+    "searches": 4
   },
-  "added": 2
+  "added": 1
 }
