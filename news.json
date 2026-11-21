@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "fetchedAt": 1795264883157,
+  "fetchedAt": 1795293149063,
   "items": [
     {
       "id": "n02d1scdbpxj",
@@ -11,6 +11,26 @@
       "url": "https://engadget.com/2323671/gta-6-made-dollar379-billion-in-its-first-day-but-rockstars-workers-still-lack-job-security",
       "publishedAt": 1795209248402,
       "firstSeen": 1795230848402
+    },
+    {
+      "id": "n0ah5ve13c7i",
+      "title": "The actress who plays Mandy in GTA 6 has revealed herself",
+      "summary": "Lexie Shoaibi said on Instagram that she voices and motion-captures the viral NPC Mandy, a character who was not in any trailers.",
+      "source": "PC Gamer",
+      "category": "Community",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/the-actress-who-plays-mandy-in-gta-6-has-revealed-herself-if-you-play-the-game-let-me-know-if-you-find-me/",
+      "publishedAt": 1795206749063,
+      "firstSeen": 1795293149063
+    },
+    {
+      "id": "n28uro37n0d6",
+      "title": "GTA 6 glitch lets players access first-person mode",
+      "summary": "Hours after launch, a player found a controller and phone-menu glitch that locks the camera into a working first-person view with weapon animations, even though Rockstar didn't ship a first-person mode.",
+      "source": "Dexerto",
+      "category": "Community",
+      "url": "https://www.dexerto.com/gta/gta-6-glitch-lets-players-access-first-person-mode-3430025/",
+      "publishedAt": 1795206749063,
+      "firstSeen": 1795293149063
     },
     {
       "id": "n1kd0jriykch",
@@ -81,33 +101,13 @@
       "url": "https://www.pcgamer.com/games/grand-theft-auto/cyberleek-drops-what-they-claim-is-a-near-complete-gta-6-xbox-build-online/",
       "publishedAt": 1795133882259,
       "firstSeen": 1795144682259
-    },
-    {
-      "id": "n0qne1yowp66",
-      "title": "Japanese GTA 6 Players Can't See Nudity, And Take Showers In Their Underpants",
-      "summary": "The Japanese release has less nudity and blood and fewer language options, and Rockstar did not announce any of these changes before launch.",
-      "source": "Kotaku",
-      "category": "Community",
-      "url": "https://kotaku.com/gta-6-japan-censored-showers-nudity-blood-violence-rockstar-2000758211",
-      "publishedAt": 1795130282259,
-      "firstSeen": 1795144682259
-    },
-    {
-      "id": "n0cphu6fxr1q",
-      "title": "Rockstar explains why you can't play darts in GTA 6: 'We don't have unlimited time'",
-      "summary": "Rockstar North co-studio head Rob Nelson says darts and bowling were left out because the team couldn't get them up to its standard.",
-      "source": "Video Games Chronicle",
-      "category": "Update",
-      "url": "https://www.videogameschronicle.com/news/rockstar-explains-why-you-cant-play-darts-in-gta-6-we-dont-have-unlimited-time/",
-      "publishedAt": 1795126682259,
-      "firstSeen": 1795144682259
     }
   ],
   "model": "claude-sonnet-5-5",
   "usage": {
-    "inputTokens": 109179,
-    "outputTokens": 1042,
-    "searches": 4
+    "inputTokens": 65722,
+    "outputTokens": 777,
+    "searches": 3
   },
-  "added": 1
+  "added": 2
 }
