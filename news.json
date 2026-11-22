@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "fetchedAt": 1795341200971,
+  "fetchedAt": 1795369843156,
   "items": [
+    {
+      "id": "n16d0wxxr1vd",
+      "title": "This Strange GTA 6 Easter Egg Takes You to the Backrooms",
+      "summary": "A hidden pill in a container north of Milport sends Jason into a strange Backrooms-style dimension, and a lot of real-world time passes while he's in it.",
+      "source": "Game Rant",
+      "category": "Community",
+      "url": "https://gamerant.com/gta-6-where-to-find-the-backrooms-dimension/",
+      "publishedAt": 1795351843156,
+      "firstSeen": 1795369843156
+    },
+    {
+      "id": "n1jzryhpgixd",
+      "title": "Sex in GTA 6 was extremely difficult to pull off, Rockstar says",
+      "summary": "Rockstar's VP of animation says the team spent a lot of time and iteration on the intimacy between Jason and Lucia so it reacts to the state of their relationship.",
+      "source": "GamesRadar",
+      "category": "Update",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/sex-in-gta-6-was-extremely-difficult-to-pull-off-rockstar-says-we-needed-to-allow-players-to-interact-with-the-partner-in-a-natural-loving-way/",
+      "publishedAt": 1795341043156,
+      "firstSeen": 1795369843156
+    },
     {
       "id": "n1xw61ormx9u",
       "title": "GTA 6 Players Warned Not to Make Major Chapter 1 Mistake",
@@ -31,6 +51,16 @@
       "url": "https://gamerant.com/gta-6-south-park-easter-egg",
       "publishedAt": 1795295739611,
       "firstSeen": 1795313739611
+    },
+    {
+      "id": "n116ce7j2hlx",
+      "title": "'GTA 6': First Half-Hour Reveals Major Plot Twist Rockstar Has Managed to Keep Secret for Years",
+      "summary": "The opening reveals that Jason and Lucia have a son, Tomas, who is in the custody of Lucia's aunt.",
+      "source": "Variety",
+      "category": "Community",
+      "url": "https://variety.com/2026/gaming/news/gta-6-jason-lucia-baby-tomas-parents-twist-1236954289/",
+      "publishedAt": 1795283443156,
+      "firstSeen": 1795369843156
     },
     {
       "id": "n11vz10u5xxf",
@@ -71,43 +101,13 @@
       "url": "https://www.pcgamer.com/games/grand-theft-auto/the-actress-who-plays-mandy-in-gta-6-has-revealed-herself-if-you-play-the-game-let-me-know-if-you-find-me/",
       "publishedAt": 1795206749063,
       "firstSeen": 1795293149063
-    },
-    {
-      "id": "n28uro37n0d6",
-      "title": "GTA 6 glitch lets players access first-person mode",
-      "summary": "Hours after launch, a player found a controller and phone-menu glitch that locks the camera into a working first-person view with weapon animations, even though Rockstar didn't ship a first-person mode.",
-      "source": "Dexerto",
-      "category": "Community",
-      "url": "https://www.dexerto.com/gta/gta-6-glitch-lets-players-access-first-person-mode-3430025/",
-      "publishedAt": 1795206749063,
-      "firstSeen": 1795293149063
-    },
-    {
-      "id": "n1kd0jriykch",
-      "title": "'GTA 6' Hits Massive $3.79 Billion in First-Day Sales",
-      "summary": "Rockstar and Take-Two announced official first-day sales of $3.79 billion, which replaces the earlier estimates. They called it the biggest entertainment launch in history, and 32.5 million copies were sold pre-release.",
-      "source": "Variety",
-      "category": "Update",
-      "url": "https://variety.com/2026/gaming/news/gta-6-sales-billions-first-day-1236954198/",
-      "publishedAt": 1795204225113,
-      "firstSeen": 1795211425113
-    },
-    {
-      "id": "n0idjcnixgbn",
-      "title": "GTA 6 Gets Review Bombed On Metacritic Right After Opening User Scores",
-      "summary": "Metacritic user scores went live and fell to roughly 5.1 out of 10 amid a wave of review bombing, even though critics gave the game a 99.",
-      "source": "TheGamer",
-      "category": "Community",
-      "url": "https://thegamer.com/grand-theft-auto-6-gta-review-bombing-user-score",
-      "publishedAt": 1795202048402,
-      "firstSeen": 1795230848402
     }
   ],
   "model": "claude-sonnet-5-5",
   "usage": {
-    "inputTokens": 35189,
-    "outputTokens": 1095,
-    "searches": 2
+    "inputTokens": 75783,
+    "outputTokens": 1178,
+    "searches": 3
   },
-  "added": 2
+  "added": 3
 }
