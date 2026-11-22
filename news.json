@@ -1,7 +1,17 @@
 {
   "version": 1,
-  "fetchedAt": 1795313739611,
+  "fetchedAt": 1795341200971,
   "items": [
+    {
+      "id": "n1xw61ormx9u",
+      "title": "GTA 6 Players Warned Not to Make Major Chapter 1 Mistake",
+      "summary": "Players on the GTA 6 subreddit warn that you lose all your money and Jason's car at the end of Chapter 1, so grinding or upgrading before then is wasted effort.",
+      "source": "ComicBook.com",
+      "category": "Community",
+      "url": "https://comicbook.com/gaming/news/gta-6-grand-theft-auto-vi-chapter-1",
+      "publishedAt": 1795319600971,
+      "firstSeen": 1795341200971
+    },
     {
       "id": "n1otztnmet04",
       "title": "Grand Theft Auto 6 Has Its First Plagiarism Accusation",
@@ -21,6 +31,16 @@
       "url": "https://gamerant.com/gta-6-south-park-easter-egg",
       "publishedAt": 1795295739611,
       "firstSeen": 1795313739611
+    },
+    {
+      "id": "n11vz10u5xxf",
+      "title": "Binding Of Isaac Update Review-Bombed Over AI-Generated Music In GTA 6 Mode",
+      "summary": "The Binding of Isaac: Repentance+ console update, which has a GTA-inspired Vice City seed that launched alongside GTA 6, was review-bombed after players found AI-generated music in it.",
+      "source": "Kotaku",
+      "category": "Community",
+      "url": "https://kotaku.com/binding-of-isaac-update-review-bombed-over-ai-generated-music-in-gta-6-mode-woke-up-to-a-sht-show-obviously-i-had-no-idea-2000759213",
+      "publishedAt": 1795254800971,
+      "firstSeen": 1795341200971
     },
     {
       "id": "n0e2r2mmge05",
@@ -81,33 +101,13 @@
       "url": "https://thegamer.com/grand-theft-auto-6-gta-review-bombing-user-score",
       "publishedAt": 1795202048402,
       "firstSeen": 1795230848402
-    },
-    {
-      "id": "n116ce7j2hlx",
-      "title": "'GTA 6': First Half-Hour Reveals Major Plot Twist Rockstar Has Managed to Keep Secret for Years",
-      "summary": "Jason and Lucia have an infant son, Tomas, a reveal in the opening 30 minutes that players are reacting to.",
-      "source": "Variety",
-      "category": "Community",
-      "url": "https://variety.com/2026/gaming/news/gta-6-jason-lucia-baby-tomas-parents-twist-1236954289/",
-      "publishedAt": 1795197025113,
-      "firstSeen": 1795211425113
-    },
-    {
-      "id": "n0k0n90iybw9",
-      "title": "A 'GTA 6 PC scam kit' using a fake PC port as bait is available for $200 on the dark web, says NordVPN",
-      "summary": "NordVPN warns of a dark-web kit with a crypto drainer and fake keygen that uses a nonexistent GTA 6 PC port as bait.",
-      "source": "PC Gamer",
-      "category": "Community",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/a-gta-6-pc-scam-kit-using-a-fake-pc-port-as-bait-is-available-for-usd200-on-the-dark-web-says-nordvpn-so-watch-what-you-click/",
-      "publishedAt": 1795189825113,
-      "firstSeen": 1795211425113
     }
   ],
   "model": "claude-sonnet-5-5",
   "usage": {
-    "inputTokens": 54265,
-    "outputTokens": 690,
+    "inputTokens": 35189,
+    "outputTokens": 1095,
     "searches": 2
   },
-  "added": 3
+  "added": 2
 }
