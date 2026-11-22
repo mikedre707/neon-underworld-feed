@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "fetchedAt": 1795369843156,
+  "fetchedAt": 1795390641696,
   "items": [
+    {
+      "id": "n1z44fvln81t",
+      "title": "GTA 6 Skunk Ape questline walkthrough: All effigy locations and choices",
+      "summary": "VGC's new guide covers the Skunk Ape questline, including every effigy location and whether to shoot Kirk or Mr Mangrove.",
+      "source": "VideoGamesChronicle",
+      "category": "Community",
+      "url": "https://www.videogameschronicle.com/guide/gta-6-skunk-ape-questline-walkthrough-all-effigy-locations-and-choices/",
+      "publishedAt": 1795383441696,
+      "firstSeen": 1795390641696
+    },
+    {
+      "id": "n0cqd5n8aery",
+      "title": "GTA 6's massive casino and sick go-kart track are currently closed, but I'm hoping we can trust those 'coming soon' signs",
+      "summary": "A PC Gamer writer found the casino, a dog track and the Hot Skidz go-kart track locked even after finishing the story, and hopes they are teasers for post-launch single-player content.",
+      "source": "PC Gamer",
+      "category": "Community",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6s-massive-casino-and-sick-go-kart-track-are-currently-closed-but-im-hoping-we-can-trust-those-coming-soon-signs/",
+      "publishedAt": 1795372641696,
+      "firstSeen": 1795390641696
+    },
     {
       "id": "n16d0wxxr1vd",
       "title": "This Strange GTA 6 Easter Egg Takes You to the Backrooms",
@@ -81,33 +101,13 @@
       "url": "https://www.dexerto.com/gta/gta-6-players-report-game-breaking-crashes-on-ps5-and-xbox-3430090/",
       "publishedAt": 1795227339611,
       "firstSeen": 1795313739611
-    },
-    {
-      "id": "n02d1scdbpxj",
-      "title": "GTA 6 made $3.79 billion in its first day, but Rockstar's workers still lack job security",
-      "summary": "Rockstar workers are voting on union recognition with the Independent Workers Union of Great Britain until November 26, and staff are worried about layoffs despite the record launch.",
-      "source": "Engadget",
-      "category": "Community",
-      "url": "https://engadget.com/2323671/gta-6-made-dollar379-billion-in-its-first-day-but-rockstars-workers-still-lack-job-security",
-      "publishedAt": 1795209248402,
-      "firstSeen": 1795230848402
-    },
-    {
-      "id": "n0ah5ve13c7i",
-      "title": "The actress who plays Mandy in GTA 6 has revealed herself",
-      "summary": "Lexie Shoaibi said on Instagram that she voices and motion-captures the viral NPC Mandy, a character who was not in any trailers.",
-      "source": "PC Gamer",
-      "category": "Community",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/the-actress-who-plays-mandy-in-gta-6-has-revealed-herself-if-you-play-the-game-let-me-know-if-you-find-me/",
-      "publishedAt": 1795206749063,
-      "firstSeen": 1795293149063
     }
   ],
   "model": "claude-sonnet-5-5",
   "usage": {
-    "inputTokens": 75783,
-    "outputTokens": 1178,
+    "inputTokens": 78348,
+    "outputTokens": 1111,
     "searches": 3
   },
-  "added": 3
+  "added": 2
 }
