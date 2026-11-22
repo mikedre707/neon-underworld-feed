@@ -1,7 +1,37 @@
 {
   "version": 1,
-  "fetchedAt": 1795293149063,
+  "fetchedAt": 1795313739611,
   "items": [
+    {
+      "id": "n1otztnmet04",
+      "title": "Grand Theft Auto 6 Has Its First Plagiarism Accusation",
+      "summary": "Fans say a custom SMG decal in GTA 6 is a flipped, traced copy of a 2021 illustration by the furry artist GabyT.",
+      "source": "Game Rant",
+      "category": "Community",
+      "url": "https://gamerant.com/gta-6-first-plagiarism-accusation",
+      "publishedAt": 1795302939611,
+      "firstSeen": 1795313739611
+    },
+    {
+      "id": "n08huxkovq8y",
+      "title": "GTA 6 Players Think They've Found a South Park Easter Egg",
+      "summary": "Players think a bar called Skeeter's in the Hamlet area of Leonida is a nod to the bar of the same name in South Park.",
+      "source": "Game Rant",
+      "category": "Community",
+      "url": "https://gamerant.com/gta-6-south-park-easter-egg",
+      "publishedAt": 1795295739611,
+      "firstSeen": 1795313739611
+    },
+    {
+      "id": "n0e2r2mmge05",
+      "title": "GTA 6 players report game-breaking crashes on PS5 and Xbox",
+      "summary": "Players on PS5 and some on Xbox report repeated crashes, including error CE-108255-1 early in the story, and no official Rockstar patch has been announced.",
+      "source": "Dexerto",
+      "category": "Patch",
+      "url": "https://www.dexerto.com/gta/gta-6-players-report-game-breaking-crashes-on-ps5-and-xbox-3430090/",
+      "publishedAt": 1795227339611,
+      "firstSeen": 1795313739611
+    },
     {
       "id": "n02d1scdbpxj",
       "title": "GTA 6 made $3.79 billion in its first day, but Rockstar's workers still lack job security",
@@ -71,43 +101,13 @@
       "url": "https://www.pcgamer.com/games/grand-theft-auto/a-gta-6-pc-scam-kit-using-a-fake-pc-port-as-bait-is-available-for-usd200-on-the-dark-web-says-nordvpn-so-watch-what-you-click/",
       "publishedAt": 1795189825113,
       "firstSeen": 1795211425113
-    },
-    {
-      "id": "n1sh18hx7k1y",
-      "title": "GTA 6 online multiplayer: where is it and when is it coming?",
-      "summary": "GTA 6 launched without any online multiplayer component, and Insider Gaming points to datamined multiplayer references and a likely 2027 release window, though Rockstar hasn't announced anything.",
-      "source": "Insider Gaming",
-      "category": "Update",
-      "url": "https://insider-gaming.com/gta-6-online-multiplayer-release/",
-      "publishedAt": 1795178483157,
-      "firstSeen": 1795264883157
-    },
-    {
-      "id": "n00c23jzwhoo",
-      "title": "GTA 6 sold around 25 million copies and made $2.36 billion in its first day, estimates suggest",
-      "summary": "Sensor Tower estimates 24.58 million copies sold on day one, about $2.36 billion in revenue, with roughly 75% of sales on PS5, though Rockstar and Take-Two haven't confirmed figures.",
-      "source": "Video Games Chronicle",
-      "category": "Update",
-      "url": "https://videogameschronicle.com/news/gta-6-sold-around-25-million-copies-and-made-2-36-billion-in-its-first-day-estimates-suggest",
-      "publishedAt": 1795168506429,
-      "firstSeen": 1795179306429
-    },
-    {
-      "id": "n01g7cpqm2vu",
-      "title": "Cyberleek drops what they claim is a near-complete GTA 6 Xbox build online",
-      "summary": "The leaker says they have posted a roughly 200 GB Xbox build from November 2026 and will release the missing main executable on November 23.",
-      "source": "PC Gamer",
-      "category": "Leak",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/cyberleek-drops-what-they-claim-is-a-near-complete-gta-6-xbox-build-online/",
-      "publishedAt": 1795133882259,
-      "firstSeen": 1795144682259
     }
   ],
   "model": "claude-sonnet-5-5",
   "usage": {
-    "inputTokens": 65722,
-    "outputTokens": 777,
-    "searches": 3
+    "inputTokens": 54265,
+    "outputTokens": 690,
+    "searches": 2
   },
-  "added": 2
+  "added": 3
 }
