@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "fetchedAt": 1795390641696,
+  "fetchedAt": 1795419673577,
   "items": [
     {
       "id": "n1z44fvln81t",
@@ -93,21 +93,21 @@
       "firstSeen": 1795341200971
     },
     {
-      "id": "n0e2r2mmge05",
-      "title": "GTA 6 players report game-breaking crashes on PS5 and Xbox",
-      "summary": "Players on PS5 and some on Xbox report repeated crashes, including error CE-108255-1 early in the story, and no official Rockstar patch has been announced.",
-      "source": "Dexerto",
-      "category": "Patch",
-      "url": "https://www.dexerto.com/gta/gta-6-players-report-game-breaking-crashes-on-ps5-and-xbox-3430090/",
-      "publishedAt": 1795227339611,
-      "firstSeen": 1795313739611
+      "id": "n0j6gwsmvolv",
+      "title": "Hacker Threatens To Leak Free Version Of GTA 6 In Crypto Grift",
+      "summary": "Leaker Cyberleek says it holds a full November 2026 Xbox build of GTA 6 and will release the missing executable if its meme coin hits a $15 million market cap.",
+      "source": "GameSpot",
+      "category": "Leak",
+      "url": "https://www.gamespot.com/articles/a-playable-gta-6-build-could-leak-but-theres-a-15-million-catch/",
+      "publishedAt": 1795246873577,
+      "firstSeen": 1795419673577
     }
   ],
   "model": "claude-sonnet-5-5",
   "usage": {
-    "inputTokens": 78348,
-    "outputTokens": 1111,
-    "searches": 3
+    "inputTokens": 97168,
+    "outputTokens": 1336,
+    "searches": 4
   },
-  "added": 2
+  "added": 1
 }
