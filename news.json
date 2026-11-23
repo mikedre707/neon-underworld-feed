@@ -1,7 +1,37 @@
 {
   "version": 1,
-  "fetchedAt": 1795419673577,
+  "fetchedAt": 1795464964371,
   "items": [
+    {
+      "id": "n2ct523zws5l",
+      "title": "GTA 6 update gives players losing progress to crashes a lifeline",
+      "summary": "Rockstar's first post-launch patch, 01.002.002, fixes crashes, autosaving, phone calls, the Wanted Level bug and the weather that rarely changed, but it leaves the first-person and 60fps glitches alone.",
+      "source": "GamesRadar",
+      "category": "Patch",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-update-gives-players-losing-progress-to-crashes-a-lifeline-and-it-looks-like-the-first-person-and-60fps-glitches-are-safe-for-now/",
+      "publishedAt": 1795450564371,
+      "firstSeen": 1795464964371
+    },
+    {
+      "id": "n1wn5xvjfefn",
+      "title": "GTA 6 Is Approaching An Absurd New Sales Milestone, Report Says",
+      "summary": "Alinea Analytics estimates 44.9 million copies sold in the first weekend, about $4 billion in revenue and 40.8 million players logged in on Sunday.",
+      "source": "GameSpot",
+      "category": "Update",
+      "url": "https://www.gamespot.com/articles/gta-6-is-approaching-an-absurd-new-sales-milestone-report-says/",
+      "publishedAt": 1795443364371,
+      "firstSeen": 1795464964371
+    },
+    {
+      "id": "n1fp44t1yeo3",
+      "title": "Final piece of claimed GTA 6 leak set to arrive today — and there's hope it could mean Rockstar launches the PC port sooner",
+      "summary": "Cyberleek says it will release the missing executable for its leaked 209GB Xbox build on November 23, which could speed up unofficial PC emulation and might push Rockstar to bring its own PC port forward.",
+      "source": "TechRadar",
+      "category": "Leak",
+      "url": "https://www.techradar.com/gaming/final-piece-of-claimed-gta-6-leak-set-to-arrive-today-and-theres-hope-it-could-mean-rockstar-launches-the-pc-port-sooner",
+      "publishedAt": 1795439764371,
+      "firstSeen": 1795464964371
+    },
     {
       "id": "n1z44fvln81t",
       "title": "GTA 6 Skunk Ape questline walkthrough: All effigy locations and choices",
@@ -71,43 +101,13 @@
       "url": "https://gamerant.com/gta-6-south-park-easter-egg",
       "publishedAt": 1795295739611,
       "firstSeen": 1795313739611
-    },
-    {
-      "id": "n116ce7j2hlx",
-      "title": "'GTA 6': First Half-Hour Reveals Major Plot Twist Rockstar Has Managed to Keep Secret for Years",
-      "summary": "The opening reveals that Jason and Lucia have a son, Tomas, who is in the custody of Lucia's aunt.",
-      "source": "Variety",
-      "category": "Community",
-      "url": "https://variety.com/2026/gaming/news/gta-6-jason-lucia-baby-tomas-parents-twist-1236954289/",
-      "publishedAt": 1795283443156,
-      "firstSeen": 1795369843156
-    },
-    {
-      "id": "n11vz10u5xxf",
-      "title": "Binding Of Isaac Update Review-Bombed Over AI-Generated Music In GTA 6 Mode",
-      "summary": "The Binding of Isaac: Repentance+ console update, which has a GTA-inspired Vice City seed that launched alongside GTA 6, was review-bombed after players found AI-generated music in it.",
-      "source": "Kotaku",
-      "category": "Community",
-      "url": "https://kotaku.com/binding-of-isaac-update-review-bombed-over-ai-generated-music-in-gta-6-mode-woke-up-to-a-sht-show-obviously-i-had-no-idea-2000759213",
-      "publishedAt": 1795254800971,
-      "firstSeen": 1795341200971
-    },
-    {
-      "id": "n0j6gwsmvolv",
-      "title": "Hacker Threatens To Leak Free Version Of GTA 6 In Crypto Grift",
-      "summary": "Leaker Cyberleek says it holds a full November 2026 Xbox build of GTA 6 and will release the missing executable if its meme coin hits a $15 million market cap.",
-      "source": "GameSpot",
-      "category": "Leak",
-      "url": "https://www.gamespot.com/articles/a-playable-gta-6-build-could-leak-but-theres-a-15-million-catch/",
-      "publishedAt": 1795246873577,
-      "firstSeen": 1795419673577
     }
   ],
   "model": "claude-sonnet-5-5",
   "usage": {
-    "inputTokens": 97168,
-    "outputTokens": 1336,
-    "searches": 4
+    "inputTokens": 36040,
+    "outputTokens": 991,
+    "searches": 2
   },
-  "added": 1
+  "added": 3
 }
