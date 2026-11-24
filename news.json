@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "fetchedAt": 1795495823834,
+  "fetchedAt": 1795542432044,
   "items": [
+    {
+      "id": "n0g1slr4n4tf",
+      "title": "GTA 6 \"hit Call of Duty HARD,\" analyst reports, with a 42% drop in daily players",
+      "summary": "Alinea Analytics estimates Call of Duty's daily active users fell 42%, from 7.5 million to 4.4 million, after GTA 6 launched.",
+      "source": "GamesRadar",
+      "category": "Community",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-hit-call-of-duty-hard-analyst-reports-with-a-42-percent-drop-in-daily-players-and-when-rockstar-releases-online-its-going-to-be-rough-times-for-activision/",
+      "publishedAt": 1795520832044,
+      "firstSeen": 1795542432044
+    },
+    {
+      "id": "n2fkzm26v2s5",
+      "title": "Unofficial GTA 6 PC port scrapped as Rockstar allegedly takes down Discord server",
+      "summary": "The 15-year-old lead of Project Leonida quit and said Rockstar had taken down the project's Discord server, hours after the game was shown booting on PC.",
+      "source": "GamesRadar",
+      "category": "Leak",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/unofficial-gta-6-pc-port-scrapped-as-rockstar-allegedly-takes-down-discord-server-hours-after-devs-managed-to-get-the-game-booting/",
+      "publishedAt": 1795517232044,
+      "firstSeen": 1795542432044
+    },
     {
       "id": "n1bz052rufd0",
       "title": "GTA 6 PC version is close, modders say after Cyberleek releases executable: \"The game almost boots\"",
@@ -21,6 +41,16 @@
       "url": "https://comicbook.com/gaming/news/gta-6-ps5-sales-near-39-million-obliterate-an-all-time-playstation-record",
       "publishedAt": 1795459823834,
       "firstSeen": 1795495823834
+    },
+    {
+      "id": "n0d2dj50b1kj",
+      "title": "GTA 6 players found a '60 fps glitch', but it's too unstable to stop me from wishing it was on PC already",
+      "summary": "An Xbox Quick Resume and refresh-rate trick lifts the 30 fps cap, but Digital Foundry measured only about 36 fps on average.",
+      "source": "PC Gamer",
+      "category": "Community",
+      "url": "https://pcgamer.com/games/grand-theft-auto/gta-6-players-found-a-60-fps-glitch-but-its-too-unstable-to-stop-me-from-wishing-it-was-on-pc-already",
+      "publishedAt": 1795456032044,
+      "firstSeen": 1795542432044
     },
     {
       "id": "n1rk66jzke69",
@@ -71,42 +101,12 @@
       "url": "https://www.videogameschronicle.com/guide/gta-6-skunk-ape-questline-walkthrough-all-effigy-locations-and-choices/",
       "publishedAt": 1795383441696,
       "firstSeen": 1795390641696
-    },
-    {
-      "id": "n0cqd5n8aery",
-      "title": "GTA 6's massive casino and sick go-kart track are currently closed, but I'm hoping we can trust those 'coming soon' signs",
-      "summary": "A PC Gamer writer found the casino, a dog track and the Hot Skidz go-kart track locked even after finishing the story, and hopes they are teasers for post-launch single-player content.",
-      "source": "PC Gamer",
-      "category": "Community",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6s-massive-casino-and-sick-go-kart-track-are-currently-closed-but-im-hoping-we-can-trust-those-coming-soon-signs/",
-      "publishedAt": 1795372641696,
-      "firstSeen": 1795390641696
-    },
-    {
-      "id": "n16d0wxxr1vd",
-      "title": "This Strange GTA 6 Easter Egg Takes You to the Backrooms",
-      "summary": "A hidden pill in a container north of Milport sends Jason into a strange Backrooms-style dimension, and a lot of real-world time passes while he's in it.",
-      "source": "Game Rant",
-      "category": "Community",
-      "url": "https://gamerant.com/gta-6-where-to-find-the-backrooms-dimension/",
-      "publishedAt": 1795351843156,
-      "firstSeen": 1795369843156
-    },
-    {
-      "id": "n1jzryhpgixd",
-      "title": "Sex in GTA 6 was extremely difficult to pull off, Rockstar says",
-      "summary": "Rockstar's VP of animation says the team spent a lot of time and iteration on the intimacy between Jason and Lucia so it reacts to the state of their relationship.",
-      "source": "GamesRadar",
-      "category": "Update",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/sex-in-gta-6-was-extremely-difficult-to-pull-off-rockstar-says-we-needed-to-allow-players-to-interact-with-the-partner-in-a-natural-loving-way/",
-      "publishedAt": 1795341043156,
-      "firstSeen": 1795369843156
     }
   ],
   "model": "claude-sonnet-5-5",
   "usage": {
-    "inputTokens": 76006,
-    "outputTokens": 1032,
+    "inputTokens": 82530,
+    "outputTokens": 1222,
     "searches": 3
   },
   "added": 3
