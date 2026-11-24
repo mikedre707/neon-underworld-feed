@@ -1,7 +1,37 @@
 {
   "version": 1,
-  "fetchedAt": 1795464964371,
+  "fetchedAt": 1795495823834,
   "items": [
+    {
+      "id": "n1bz052rufd0",
+      "title": "GTA 6 PC version is close, modders say after Cyberleek releases executable: \"The game almost boots\"",
+      "summary": "Cyberleek released the Xbox build's executable on November 23, and Project Leonida modders say the game almost boots, though it isn't playable on PC yet.",
+      "source": "GamesRadar",
+      "category": "Leak",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-pc-version-is-close-modders-say-after-cyberleek-releases-executable-the-game-almost-boots/",
+      "publishedAt": 1795474223834,
+      "firstSeen": 1795495823834
+    },
+    {
+      "id": "n06gffhgtge7",
+      "title": "GTA 6 PS5 Sales Near 39 Million & Obliterate an All-Time PlayStation Record",
+      "summary": "Sony says more than 39 million unique players have launched GTA 6 on PS5, making it the biggest launch in PlayStation history, with 683 million hours played.",
+      "source": "ComicBook.com",
+      "category": "Update",
+      "url": "https://comicbook.com/gaming/news/gta-6-ps5-sales-near-39-million-obliterate-an-all-time-playstation-record",
+      "publishedAt": 1795459823834,
+      "firstSeen": 1795495823834
+    },
+    {
+      "id": "n1rk66jzke69",
+      "title": "Hacker behind GTA 6 leak released as judge says \"don't let this happen again\"",
+      "summary": "Arion Kurtaj, the hacker behind the 2022 GTA 6 leak, has been released from prison, and a judge warned him not to try something like it again.",
+      "source": "GamesRadar",
+      "category": "Leak",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/hacker-behind-gta-6-leak-released-as-judge-says-dont-let-this-happen-again/",
+      "publishedAt": 1795452623834,
+      "firstSeen": 1795495823834
+    },
     {
       "id": "n2ct523zws5l",
       "title": "GTA 6 update gives players losing progress to crashes a lifeline",
@@ -71,43 +101,13 @@
       "url": "https://www.gamesradar.com/games/grand-theft-auto/sex-in-gta-6-was-extremely-difficult-to-pull-off-rockstar-says-we-needed-to-allow-players-to-interact-with-the-partner-in-a-natural-loving-way/",
       "publishedAt": 1795341043156,
       "firstSeen": 1795369843156
-    },
-    {
-      "id": "n1xw61ormx9u",
-      "title": "GTA 6 Players Warned Not to Make Major Chapter 1 Mistake",
-      "summary": "Players on the GTA 6 subreddit warn that you lose all your money and Jason's car at the end of Chapter 1, so grinding or upgrading before then is wasted effort.",
-      "source": "ComicBook.com",
-      "category": "Community",
-      "url": "https://comicbook.com/gaming/news/gta-6-grand-theft-auto-vi-chapter-1",
-      "publishedAt": 1795319600971,
-      "firstSeen": 1795341200971
-    },
-    {
-      "id": "n1otztnmet04",
-      "title": "Grand Theft Auto 6 Has Its First Plagiarism Accusation",
-      "summary": "Fans say a custom SMG decal in GTA 6 is a flipped, traced copy of a 2021 illustration by the furry artist GabyT.",
-      "source": "Game Rant",
-      "category": "Community",
-      "url": "https://gamerant.com/gta-6-first-plagiarism-accusation",
-      "publishedAt": 1795302939611,
-      "firstSeen": 1795313739611
-    },
-    {
-      "id": "n08huxkovq8y",
-      "title": "GTA 6 Players Think They've Found a South Park Easter Egg",
-      "summary": "Players think a bar called Skeeter's in the Hamlet area of Leonida is a nod to the bar of the same name in South Park.",
-      "source": "Game Rant",
-      "category": "Community",
-      "url": "https://gamerant.com/gta-6-south-park-easter-egg",
-      "publishedAt": 1795295739611,
-      "firstSeen": 1795313739611
     }
   ],
   "model": "claude-sonnet-5-5",
   "usage": {
-    "inputTokens": 36040,
-    "outputTokens": 991,
-    "searches": 2
+    "inputTokens": 76006,
+    "outputTokens": 1032,
+    "searches": 3
   },
   "added": 3
 }
