@@ -1,7 +1,17 @@
 {
   "version": 1,
-  "fetchedAt": 1795542432044,
+  "fetchedAt": 1795573852860,
   "items": [
+    {
+      "id": "n0akiy2qpont",
+      "title": "GTA 6 Runs Better On Xbox Series X Than Base PS5",
+      "summary": "Digital Foundry testing found the Series X holds the 30fps target more consistently than the base PS5, which has more frame drops into the 20s in crowded areas, while the PS5 Pro is the best-performing console overall.",
+      "source": "Insider Gaming",
+      "category": "Community",
+      "url": "https://insider-gaming.com/gta-6-runs-better-xbox-series-x",
+      "publishedAt": 1795552252860,
+      "firstSeen": 1795573852860
+    },
     {
       "id": "n0g1slr4n4tf",
       "title": "GTA 6 \"hit Call of Duty HARD,\" analyst reports, with a 42% drop in daily players",
@@ -91,23 +101,13 @@
       "url": "https://www.techradar.com/gaming/final-piece-of-claimed-gta-6-leak-set-to-arrive-today-and-theres-hope-it-could-mean-rockstar-launches-the-pc-port-sooner",
       "publishedAt": 1795439764371,
       "firstSeen": 1795464964371
-    },
-    {
-      "id": "n1z44fvln81t",
-      "title": "GTA 6 Skunk Ape questline walkthrough: All effigy locations and choices",
-      "summary": "VGC's new guide covers the Skunk Ape questline, including every effigy location and whether to shoot Kirk or Mr Mangrove.",
-      "source": "VideoGamesChronicle",
-      "category": "Community",
-      "url": "https://www.videogameschronicle.com/guide/gta-6-skunk-ape-questline-walkthrough-all-effigy-locations-and-choices/",
-      "publishedAt": 1795383441696,
-      "firstSeen": 1795390641696
     }
   ],
   "model": "claude-sonnet-5-5",
   "usage": {
-    "inputTokens": 82530,
-    "outputTokens": 1222,
+    "inputTokens": 89067,
+    "outputTokens": 866,
     "searches": 3
   },
-  "added": 3
+  "added": 1
 }
