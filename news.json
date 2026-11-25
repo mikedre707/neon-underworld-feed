@@ -1,7 +1,37 @@
 {
   "version": 1,
-  "fetchedAt": 1795573852860,
+  "fetchedAt": 1795616690312,
   "items": [
+    {
+      "id": "n0llp82vumqf",
+      "title": "GTA 6 Has a Creepy Pennywise Easter Egg That You Shouldn't Miss",
+      "summary": "Players found a midnight-only IT the Clown encounter in the Haymarket Hotel elevator in Vice Beach.",
+      "source": "Game Rant",
+      "category": "Community",
+      "url": "https://gamerant.com/gta-6-it-the-clown-easter-egg-secret-location-find",
+      "publishedAt": 1795595090312,
+      "firstSeen": 1795616690312
+    },
+    {
+      "id": "n1czk2aszhwe",
+      "title": "Your Jason And Lucia Might Be Clones In GTA 6",
+      "summary": "A walkthrough of The Final Flush mission reveals a hidden sewage-plant facility and a dark bunker Easter egg behind code 3612.",
+      "source": "TheGamer",
+      "category": "Community",
+      "url": "https://www.thegamer.com/grand-theft-auto-6-the-final-flush-walkthrough/",
+      "publishedAt": 1795587890312,
+      "firstSeen": 1795616690312
+    },
+    {
+      "id": "n1bnrdeh65o0",
+      "title": "GTA 6 Players Find a New Mission That Lets You Fight the Devil, Here's How It's Unlocked",
+      "summary": "A secret Chapter 2 mission in Port Gellhorn sends players to Hell to fight Satan, with rewards including a shotgun and a permanent health boost.",
+      "source": "ComicBook.com",
+      "category": "Community",
+      "url": "https://comicbook.com/gaming/news/gta-6-players-find-a-new-mission-that-lets-you-fight-the-devil-heres-how-its-unlocked",
+      "publishedAt": 1795580690312,
+      "firstSeen": 1795616690312
+    },
     {
       "id": "n0akiy2qpont",
       "title": "GTA 6 Runs Better On Xbox Series X Than Base PS5",
@@ -11,6 +41,16 @@
       "url": "https://insider-gaming.com/gta-6-runs-better-xbox-series-x",
       "publishedAt": 1795552252860,
       "firstSeen": 1795573852860
+    },
+    {
+      "id": "n1q2saraufvp",
+      "title": "GTA 6's Most Spectacular Easter Egg So Far Has Just Been Discovered",
+      "summary": "A long puzzle chain across 12 substations unlocks a portal to the 2002 Vice City and gives Tommy Vercetti's shirt and bike.",
+      "source": "Pure Xbox",
+      "category": "Community",
+      "url": "https://www.purexbox.com/news/2026/11/gta-6s-most-spectacular-easter-egg-so-far-has-just-been-discovered",
+      "publishedAt": 1795530290312,
+      "firstSeen": 1795616690312
     },
     {
       "id": "n0g1slr4n4tf",
@@ -61,53 +101,13 @@
       "url": "https://pcgamer.com/games/grand-theft-auto/gta-6-players-found-a-60-fps-glitch-but-its-too-unstable-to-stop-me-from-wishing-it-was-on-pc-already",
       "publishedAt": 1795456032044,
       "firstSeen": 1795542432044
-    },
-    {
-      "id": "n1rk66jzke69",
-      "title": "Hacker behind GTA 6 leak released as judge says \"don't let this happen again\"",
-      "summary": "Arion Kurtaj, the hacker behind the 2022 GTA 6 leak, has been released from prison, and a judge warned him not to try something like it again.",
-      "source": "GamesRadar",
-      "category": "Leak",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/hacker-behind-gta-6-leak-released-as-judge-says-dont-let-this-happen-again/",
-      "publishedAt": 1795452623834,
-      "firstSeen": 1795495823834
-    },
-    {
-      "id": "n2ct523zws5l",
-      "title": "GTA 6 update gives players losing progress to crashes a lifeline",
-      "summary": "Rockstar's first post-launch patch, 01.002.002, fixes crashes, autosaving, phone calls, the Wanted Level bug and the weather that rarely changed, but it leaves the first-person and 60fps glitches alone.",
-      "source": "GamesRadar",
-      "category": "Patch",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-update-gives-players-losing-progress-to-crashes-a-lifeline-and-it-looks-like-the-first-person-and-60fps-glitches-are-safe-for-now/",
-      "publishedAt": 1795450564371,
-      "firstSeen": 1795464964371
-    },
-    {
-      "id": "n1wn5xvjfefn",
-      "title": "GTA 6 Is Approaching An Absurd New Sales Milestone, Report Says",
-      "summary": "Alinea Analytics estimates 44.9 million copies sold in the first weekend, about $4 billion in revenue and 40.8 million players logged in on Sunday.",
-      "source": "GameSpot",
-      "category": "Update",
-      "url": "https://www.gamespot.com/articles/gta-6-is-approaching-an-absurd-new-sales-milestone-report-says/",
-      "publishedAt": 1795443364371,
-      "firstSeen": 1795464964371
-    },
-    {
-      "id": "n1fp44t1yeo3",
-      "title": "Final piece of claimed GTA 6 leak set to arrive today — and there's hope it could mean Rockstar launches the PC port sooner",
-      "summary": "Cyberleek says it will release the missing executable for its leaked 209GB Xbox build on November 23, which could speed up unofficial PC emulation and might push Rockstar to bring its own PC port forward.",
-      "source": "TechRadar",
-      "category": "Leak",
-      "url": "https://www.techradar.com/gaming/final-piece-of-claimed-gta-6-leak-set-to-arrive-today-and-theres-hope-it-could-mean-rockstar-launches-the-pc-port-sooner",
-      "publishedAt": 1795439764371,
-      "firstSeen": 1795464964371
     }
   ],
   "model": "claude-sonnet-5-5",
   "usage": {
-    "inputTokens": 89067,
-    "outputTokens": 866,
-    "searches": 3
+    "inputTokens": 118094,
+    "outputTokens": 1336,
+    "searches": 4
   },
-  "added": 1
+  "added": 4
 }
