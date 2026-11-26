@@ -1,7 +1,37 @@
 {
   "version": 1,
-  "fetchedAt": 1795652566556,
+  "fetchedAt": 1795690546831,
   "items": [
+    {
+      "id": "n0sagendn9yi",
+      "title": "GTA 6 PC Port Already Runs at 24 FPS, Uses 10 GB of RAM",
+      "summary": "An unofficial PC build is reportedly reaching 24 FPS in gameplay on 10 GB of RAM, even as Take-Two issues DMCA takedowns against recompilation projects.",
+      "source": "Game Rant",
+      "category": "Leak",
+      "url": "https://gamerant.com/gta-6-pc-port-progress-tracker-24-fps",
+      "publishedAt": 1795683346831,
+      "firstSeen": 1795690546831
+    },
+    {
+      "id": "n20exldza9sy",
+      "title": "How to get abducted and find aliens in GTA 6",
+      "summary": "GamesRadar's guide covers triggering the abduction, the dream puzzle and keypad code, and rescuing the alien for permanent health, stamina and focus boosts.",
+      "source": "GamesRadar",
+      "category": "Community",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-alien-mission-abduction/",
+      "publishedAt": 1795676146831,
+      "firstSeen": 1795690546831
+    },
+    {
+      "id": "n0c0rl9w9f3p",
+      "title": "This website has GTA 6 fans queuing for hours to take over a stranger's PS5 and play for free",
+      "summary": "A site called PlayMyPS5 lets visitors queue for five-minute remote sessions on a shared PS5 so the community can try to finish every story mission.",
+      "source": "Dexerto",
+      "category": "Community",
+      "url": "https://www.dexerto.com/gta/this-website-has-gta-6-fans-queuing-for-hours-to-take-over-a-strangers-ps5-and-play-for-free-3431366/",
+      "publishedAt": 1795636546831,
+      "firstSeen": 1795690546831
+    },
     {
       "id": "n2fx5c28g36a",
       "title": "GTA 6 Is Selling Out PS5 Consoles, but Sony's Black Friday Plans Make It Even Worse",
@@ -33,6 +63,16 @@
       "firstSeen": 1795652566556
     },
     {
+      "id": "n22c5z1k8eoj",
+      "title": "The latest GTA 6 money farm involves winning a fist fight against a viral NPC that fans once thought was invincible",
+      "summary": "Players found that beating the sniper-zoom 'Terminator' NPC in a fist fight pays out $2,000.",
+      "source": "GamesRadar",
+      "category": "Community",
+      "url": "https://gamesradar.com/games/grand-theft-auto/the-latest-gta-6-money-farm-involves-winning-a-fist-fight-against-a-viral-npc-that-fans-once-thought-was-invincible",
+      "publishedAt": 1795604146831,
+      "firstSeen": 1795690546831
+    },
+    {
       "id": "n0llp82vumqf",
       "title": "GTA 6 Has a Creepy Pennywise Easter Egg That You Shouldn't Miss",
       "summary": "Players found a midnight-only IT the Clown encounter in the Haymarket Hotel elevator in Vice Beach.",
@@ -61,52 +101,12 @@
       "url": "https://comicbook.com/gaming/news/gta-6-players-find-a-new-mission-that-lets-you-fight-the-devil-heres-how-its-unlocked",
       "publishedAt": 1795580690312,
       "firstSeen": 1795616690312
-    },
-    {
-      "id": "n2ct523zws5l",
-      "title": "GTA 6 update gives players losing progress to crashes a lifeline",
-      "summary": "Patch 01.002.002 fixes crashes, autosaves, weather, phone calls and Wanted Level bugs, and leaves the first-person and 60fps glitches alone.",
-      "source": "GamesRadar",
-      "category": "Patch",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-update-gives-players-losing-progress-to-crashes-a-lifeline-and-it-looks-like-the-first-person-and-60fps-glitches-are-safe-for-now/",
-      "publishedAt": 1795566166556,
-      "firstSeen": 1795652566556
-    },
-    {
-      "id": "n0akiy2qpont",
-      "title": "GTA 6 Runs Better On Xbox Series X Than Base PS5",
-      "summary": "Digital Foundry testing found the Series X holds the 30fps target more consistently than the base PS5, which has more frame drops into the 20s in crowded areas, while the PS5 Pro is the best-performing console overall.",
-      "source": "Insider Gaming",
-      "category": "Community",
-      "url": "https://insider-gaming.com/gta-6-runs-better-xbox-series-x",
-      "publishedAt": 1795552252860,
-      "firstSeen": 1795573852860
-    },
-    {
-      "id": "n1q2saraufvp",
-      "title": "GTA 6's Most Spectacular Easter Egg So Far Has Just Been Discovered",
-      "summary": "A long puzzle chain across 12 substations unlocks a portal to the 2002 Vice City and gives Tommy Vercetti's shirt and bike.",
-      "source": "Pure Xbox",
-      "category": "Community",
-      "url": "https://www.purexbox.com/news/2026/11/gta-6s-most-spectacular-easter-egg-so-far-has-just-been-discovered",
-      "publishedAt": 1795530290312,
-      "firstSeen": 1795616690312
-    },
-    {
-      "id": "n0g1slr4n4tf",
-      "title": "GTA 6 \"hit Call of Duty HARD,\" analyst reports, with a 42% drop in daily players",
-      "summary": "Alinea Analytics estimates Call of Duty's daily active users fell 42%, from 7.5 million to 4.4 million, after GTA 6 launched.",
-      "source": "GamesRadar",
-      "category": "Community",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-hit-call-of-duty-hard-analyst-reports-with-a-42-percent-drop-in-daily-players-and-when-rockstar-releases-online-its-going-to-be-rough-times-for-activision/",
-      "publishedAt": 1795520832044,
-      "firstSeen": 1795542432044
     }
   ],
   "model": "claude-sonnet-5-5",
   "usage": {
-    "inputTokens": 35901,
-    "outputTokens": 1336,
+    "inputTokens": 60715,
+    "outputTokens": 1156,
     "searches": 2
   },
   "added": 4
