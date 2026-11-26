@@ -1,7 +1,47 @@
 {
   "version": 1,
-  "fetchedAt": 1795690546831,
+  "fetchedAt": 1795728846181,
   "items": [
+    {
+      "id": "n130l125104p",
+      "title": "GTA 6 Softlock Bug Keeps You From Finishing the Main Story",
+      "summary": "Some players get stuck at roughly 72% story completion when Raul never calls Lucia in the mission Raul's Plan, and the article describes a workaround that involves Valentina's call.",
+      "source": "Game Rant",
+      "category": "Community",
+      "url": "https://gamerant.com/gta-6-raul-plan-glitch-not-calling-lucia-fix-how-ps5-xbox",
+      "publishedAt": 1795710846181,
+      "firstSeen": 1795728846181
+    },
+    {
+      "id": "n28jaxorabai",
+      "title": "Union Vote Fails In Landslide At GTA 6 Studio Rockstar Games As 75 Percent Of Devs Vote No",
+      "summary": "UK Rockstar developers voted about 75% against a union recognition deal with the IWGB, and Rockstar's head of publishing said the result reflects staff support for direct collaboration.",
+      "source": "Kotaku",
+      "category": "Update",
+      "url": "https://kotaku.com/rockstar-games-union-vote-fails-as-75-percent-of-devs-vote-no-2001000621",
+      "publishedAt": 1795707246181,
+      "firstSeen": 1795728846181
+    },
+    {
+      "id": "n2ekai1hi7mg",
+      "title": "GTA 6: All Secret Radio Stations and how to unlock them",
+      "summary": "A guide to unlocking The Vault and Kodak Black's The Sniper of LaPerle radio stations by scanning posters around Vice City.",
+      "source": "Video Games Chronicle",
+      "category": "Community",
+      "url": "https://www.videogameschronicle.com/guide/gta-6-secret-radio-stations-unlock/",
+      "publishedAt": 1795703646181,
+      "firstSeen": 1795728846181
+    },
+    {
+      "id": "n1tqzfh3at0t",
+      "title": "GTA 6 Secret Mission in Capri: How to Find and Complete the Hidden Mission",
+      "summary": "A walkthrough of a hidden Capri mission that starts when you get arrested and ends with you escaping a police holding facility and getting the CPD Moreland 850 shotgun.",
+      "source": "Video Games Chronicle",
+      "category": "Community",
+      "url": "https://www.videogameschronicle.com/guide/gta-6-secret-mission-in-capri-how-to-find-and-complete-the-hidden-mission/",
+      "publishedAt": 1795700046181,
+      "firstSeen": 1795728846181
+    },
     {
       "id": "n0sagendn9yi",
       "title": "GTA 6 PC Port Already Runs at 24 FPS, Uses 10 GB of RAM",
@@ -61,53 +101,13 @@
       "url": "https://insider-gaming.com/gta-6-reportedly-frying-ps5-consoles",
       "publishedAt": 1795609366556,
       "firstSeen": 1795652566556
-    },
-    {
-      "id": "n22c5z1k8eoj",
-      "title": "The latest GTA 6 money farm involves winning a fist fight against a viral NPC that fans once thought was invincible",
-      "summary": "Players found that beating the sniper-zoom 'Terminator' NPC in a fist fight pays out $2,000.",
-      "source": "GamesRadar",
-      "category": "Community",
-      "url": "https://gamesradar.com/games/grand-theft-auto/the-latest-gta-6-money-farm-involves-winning-a-fist-fight-against-a-viral-npc-that-fans-once-thought-was-invincible",
-      "publishedAt": 1795604146831,
-      "firstSeen": 1795690546831
-    },
-    {
-      "id": "n0llp82vumqf",
-      "title": "GTA 6 Has a Creepy Pennywise Easter Egg That You Shouldn't Miss",
-      "summary": "Players found a midnight-only IT the Clown encounter in the Haymarket Hotel elevator in Vice Beach.",
-      "source": "Game Rant",
-      "category": "Community",
-      "url": "https://gamerant.com/gta-6-it-the-clown-easter-egg-secret-location-find",
-      "publishedAt": 1795595090312,
-      "firstSeen": 1795616690312
-    },
-    {
-      "id": "n1czk2aszhwe",
-      "title": "Your Jason And Lucia Might Be Clones In GTA 6",
-      "summary": "A walkthrough of The Final Flush mission reveals a hidden sewage-plant facility and a dark bunker Easter egg behind code 3612.",
-      "source": "TheGamer",
-      "category": "Community",
-      "url": "https://www.thegamer.com/grand-theft-auto-6-the-final-flush-walkthrough/",
-      "publishedAt": 1795587890312,
-      "firstSeen": 1795616690312
-    },
-    {
-      "id": "n1bnrdeh65o0",
-      "title": "GTA 6 Players Find a New Mission That Lets You Fight the Devil, Here's How It's Unlocked",
-      "summary": "A secret Chapter 2 mission in Port Gellhorn sends players to Hell to fight Satan, with rewards including a shotgun and a permanent health boost.",
-      "source": "ComicBook.com",
-      "category": "Community",
-      "url": "https://comicbook.com/gaming/news/gta-6-players-find-a-new-mission-that-lets-you-fight-the-devil-heres-how-its-unlocked",
-      "publishedAt": 1795580690312,
-      "firstSeen": 1795616690312
     }
   ],
   "model": "claude-sonnet-5-5",
   "usage": {
-    "inputTokens": 60715,
-    "outputTokens": 1156,
-    "searches": 2
+    "inputTokens": 104083,
+    "outputTokens": 1674,
+    "searches": 4
   },
   "added": 4
 }
