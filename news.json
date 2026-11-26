@@ -1,7 +1,37 @@
 {
   "version": 1,
-  "fetchedAt": 1795616690312,
+  "fetchedAt": 1795652566556,
   "items": [
+    {
+      "id": "n2fx5c28g36a",
+      "title": "GTA 6 Is Selling Out PS5 Consoles, but Sony's Black Friday Plans Make It Even Worse",
+      "summary": "PS5 consoles have sold out at major US retailers less than a week after GTA 6 launched, and Sony has no Black Friday discounts planned.",
+      "source": "Game Rant",
+      "category": "Update",
+      "url": "https://gamerant.com/ps5-sold-out-gta-6-black-friday-2026",
+      "publishedAt": 1795623766556,
+      "firstSeen": 1795652566556
+    },
+    {
+      "id": "n21yolsvudly",
+      "title": "Attempts To Vibe-Code PC Ports Of GTA 6 Are Being Shut Down, But It Might Be Too Late To Put The Genie Back In The Bottle",
+      "summary": "Take-Two's takedown request led GitHub to remove all 3,007 Project Leonida repositories, while other AI-assisted PC port attempts continue.",
+      "source": "Kotaku",
+      "category": "Community",
+      "url": "https://kotaku.com/attempts-to-vibe-code-pc-ports-of-gta-6-are-being-shut-down-but-it-might-be-too-late-to-put-the-genie-back-in-the-bottle-2001000396",
+      "publishedAt": 1795616566556,
+      "firstSeen": 1795652566556
+    },
+    {
+      "id": "n09fkkwlu31f",
+      "title": "GTA 6 Is Reportedly Frying Some PS5 Consoles",
+      "summary": "Streamers and Reddit users report crashes and even smoking PS5s while playing GTA 6.",
+      "source": "Insider Gaming",
+      "category": "Community",
+      "url": "https://insider-gaming.com/gta-6-reportedly-frying-ps5-consoles",
+      "publishedAt": 1795609366556,
+      "firstSeen": 1795652566556
+    },
     {
       "id": "n0llp82vumqf",
       "title": "GTA 6 Has a Creepy Pennywise Easter Egg That You Shouldn't Miss",
@@ -33,6 +63,16 @@
       "firstSeen": 1795616690312
     },
     {
+      "id": "n2ct523zws5l",
+      "title": "GTA 6 update gives players losing progress to crashes a lifeline",
+      "summary": "Patch 01.002.002 fixes crashes, autosaves, weather, phone calls and Wanted Level bugs, and leaves the first-person and 60fps glitches alone.",
+      "source": "GamesRadar",
+      "category": "Patch",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-update-gives-players-losing-progress-to-crashes-a-lifeline-and-it-looks-like-the-first-person-and-60fps-glitches-are-safe-for-now/",
+      "publishedAt": 1795566166556,
+      "firstSeen": 1795652566556
+    },
+    {
       "id": "n0akiy2qpont",
       "title": "GTA 6 Runs Better On Xbox Series X Than Base PS5",
       "summary": "Digital Foundry testing found the Series X holds the 30fps target more consistently than the base PS5, which has more frame drops into the 20s in crowded areas, while the PS5 Pro is the best-performing console overall.",
@@ -61,53 +101,13 @@
       "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-hit-call-of-duty-hard-analyst-reports-with-a-42-percent-drop-in-daily-players-and-when-rockstar-releases-online-its-going-to-be-rough-times-for-activision/",
       "publishedAt": 1795520832044,
       "firstSeen": 1795542432044
-    },
-    {
-      "id": "n2fkzm26v2s5",
-      "title": "Unofficial GTA 6 PC port scrapped as Rockstar allegedly takes down Discord server",
-      "summary": "The 15-year-old lead of Project Leonida quit and said Rockstar had taken down the project's Discord server, hours after the game was shown booting on PC.",
-      "source": "GamesRadar",
-      "category": "Leak",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/unofficial-gta-6-pc-port-scrapped-as-rockstar-allegedly-takes-down-discord-server-hours-after-devs-managed-to-get-the-game-booting/",
-      "publishedAt": 1795517232044,
-      "firstSeen": 1795542432044
-    },
-    {
-      "id": "n1bz052rufd0",
-      "title": "GTA 6 PC version is close, modders say after Cyberleek releases executable: \"The game almost boots\"",
-      "summary": "Cyberleek released the Xbox build's executable on November 23, and Project Leonida modders say the game almost boots, though it isn't playable on PC yet.",
-      "source": "GamesRadar",
-      "category": "Leak",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-pc-version-is-close-modders-say-after-cyberleek-releases-executable-the-game-almost-boots/",
-      "publishedAt": 1795474223834,
-      "firstSeen": 1795495823834
-    },
-    {
-      "id": "n06gffhgtge7",
-      "title": "GTA 6 PS5 Sales Near 39 Million & Obliterate an All-Time PlayStation Record",
-      "summary": "Sony says more than 39 million unique players have launched GTA 6 on PS5, making it the biggest launch in PlayStation history, with 683 million hours played.",
-      "source": "ComicBook.com",
-      "category": "Update",
-      "url": "https://comicbook.com/gaming/news/gta-6-ps5-sales-near-39-million-obliterate-an-all-time-playstation-record",
-      "publishedAt": 1795459823834,
-      "firstSeen": 1795495823834
-    },
-    {
-      "id": "n0d2dj50b1kj",
-      "title": "GTA 6 players found a '60 fps glitch', but it's too unstable to stop me from wishing it was on PC already",
-      "summary": "An Xbox Quick Resume and refresh-rate trick lifts the 30 fps cap, but Digital Foundry measured only about 36 fps on average.",
-      "source": "PC Gamer",
-      "category": "Community",
-      "url": "https://pcgamer.com/games/grand-theft-auto/gta-6-players-found-a-60-fps-glitch-but-its-too-unstable-to-stop-me-from-wishing-it-was-on-pc-already",
-      "publishedAt": 1795456032044,
-      "firstSeen": 1795542432044
     }
   ],
   "model": "claude-sonnet-5-5",
   "usage": {
-    "inputTokens": 118094,
+    "inputTokens": 35901,
     "outputTokens": 1336,
-    "searches": 4
+    "searches": 2
   },
   "added": 4
 }
