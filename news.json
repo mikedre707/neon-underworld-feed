@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "fetchedAt": 1795728846181,
+  "fetchedAt": 1795752955112,
   "items": [
+    {
+      "id": "n1p2gs4ddsdu",
+      "title": "December 11 is Suddenly an Exciting Day for GTA 6 Players",
+      "summary": "Rockstar will release the GTA 6 Original Score by Justice on December 11, on CD, vinyl and streaming.",
+      "source": "Game Rant",
+      "category": "Update",
+      "url": "https://gamerant.com/gta-6-original-score-release-december-11-2026",
+      "publishedAt": 1795734955112,
+      "firstSeen": 1795752955112
+    },
+    {
+      "id": "n0pbqa1zmb90",
+      "title": "GTA 6 Cut Features Officially Revealed by Rockstar",
+      "summary": "Rockstar developers told PCGames.de that tennis, prone, house furnishing, item crafting and cinema visits were cut from the final game.",
+      "source": "Game Rant",
+      "category": "Update",
+      "url": "https://gamerant.com/grand-theft-auto-gta-6-cut-features/",
+      "publishedAt": 1795731355112,
+      "firstSeen": 1795752955112
+    },
     {
       "id": "n130l125104p",
       "title": "GTA 6 Softlock Bug Keeps You From Finishing the Main Story",
@@ -21,6 +41,16 @@
       "url": "https://kotaku.com/rockstar-games-union-vote-fails-as-75-percent-of-devs-vote-no-2001000621",
       "publishedAt": 1795707246181,
       "firstSeen": 1795728846181
+    },
+    {
+      "id": "n298atdmbu3f",
+      "title": "GTA 6 appears to be running on Windows PCs, but malware, takedowns, and legal risks make it a dangerous temptation",
+      "summary": "Unofficial recompilation builds are now reportedly running GTA 6 on PC at 60+ FPS, but Take-Two takedowns and malware risks surround them.",
+      "source": "Windows Central",
+      "category": "Leak",
+      "url": "https://www.windowscentral.com/gaming/pc-gaming/gta-6-windows-pc-recompilation-explained",
+      "publishedAt": 1795706155112,
+      "firstSeen": 1795752955112
     },
     {
       "id": "n2ekai1hi7mg",
@@ -63,51 +93,21 @@
       "firstSeen": 1795690546831
     },
     {
-      "id": "n0c0rl9w9f3p",
-      "title": "This website has GTA 6 fans queuing for hours to take over a stranger's PS5 and play for free",
-      "summary": "A site called PlayMyPS5 lets visitors queue for five-minute remote sessions on a shared PS5 so the community can try to finish every story mission.",
-      "source": "Dexerto",
-      "category": "Community",
-      "url": "https://www.dexerto.com/gta/this-website-has-gta-6-fans-queuing-for-hours-to-take-over-a-strangers-ps5-and-play-for-free-3431366/",
-      "publishedAt": 1795636546831,
-      "firstSeen": 1795690546831
-    },
-    {
-      "id": "n2fx5c28g36a",
-      "title": "GTA 6 Is Selling Out PS5 Consoles, but Sony's Black Friday Plans Make It Even Worse",
-      "summary": "PS5 consoles have sold out at major US retailers less than a week after GTA 6 launched, and Sony has no Black Friday discounts planned.",
-      "source": "Game Rant",
-      "category": "Update",
-      "url": "https://gamerant.com/ps5-sold-out-gta-6-black-friday-2026",
-      "publishedAt": 1795623766556,
-      "firstSeen": 1795652566556
-    },
-    {
-      "id": "n21yolsvudly",
-      "title": "Attempts To Vibe-Code PC Ports Of GTA 6 Are Being Shut Down, But It Might Be Too Late To Put The Genie Back In The Bottle",
-      "summary": "Take-Two's takedown request led GitHub to remove all 3,007 Project Leonida repositories, while other AI-assisted PC port attempts continue.",
-      "source": "Kotaku",
-      "category": "Community",
-      "url": "https://kotaku.com/attempts-to-vibe-code-pc-ports-of-gta-6-are-being-shut-down-but-it-might-be-too-late-to-put-the-genie-back-in-the-bottle-2001000396",
-      "publishedAt": 1795616566556,
-      "firstSeen": 1795652566556
-    },
-    {
-      "id": "n09fkkwlu31f",
-      "title": "GTA 6 Is Reportedly Frying Some PS5 Consoles",
-      "summary": "Streamers and Reddit users report crashes and even smoking PS5s while playing GTA 6.",
-      "source": "Insider Gaming",
-      "category": "Community",
-      "url": "https://insider-gaming.com/gta-6-reportedly-frying-ps5-consoles",
-      "publishedAt": 1795609366556,
-      "firstSeen": 1795652566556
+      "id": "n2fkzm26v2s5",
+      "title": "Unofficial GTA 6 PC port scrapped as Rockstar allegedly takes down Discord server, hours after devs managed to get the game booting",
+      "summary": "The lead of Project Leonida quit after its Discord server and GitHub repository vanished, with the lead alleging Rockstar was behind the takedown.",
+      "source": "GamesRadar",
+      "category": "Leak",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/unofficial-gta-6-pc-port-scrapped-as-rockstar-allegedly-takes-down-discord-server-hours-after-devs-managed-to-get-the-game-booting/",
+      "publishedAt": 1795666555112,
+      "firstSeen": 1795752955112
     }
   ],
   "model": "claude-sonnet-5-5",
   "usage": {
-    "inputTokens": 104083,
-    "outputTokens": 1674,
-    "searches": 4
+    "inputTokens": 59262,
+    "outputTokens": 1192,
+    "searches": 2
   },
   "added": 4
 }
