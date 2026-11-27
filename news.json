@@ -1,7 +1,17 @@
 {
   "version": 1,
-  "fetchedAt": 1795752955112,
+  "fetchedAt": 1795787909759,
   "items": [
+    {
+      "id": "n0xx8jq0asv9",
+      "title": "GTA 6 multiplayer reportedly running on PC as unofficial ports near completion, but it's certainly no Grand Theft Auto Online",
+      "summary": "PortWatch says TeK's group has a private unofficial PC build with players, cars and proximity voice chat running at 25 to 30 fps, and mods are also reportedly appearing.",
+      "source": "GamesRadar",
+      "category": "Leak",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-multiplayer-reportedly-running-on-pc-as-unofficial-ports-near-completion-but-its-certainly-no-grand-theft-auto-online/",
+      "publishedAt": 1795769909759,
+      "firstSeen": 1795787909759
+    },
     {
       "id": "n1p2gs4ddsdu",
       "title": "December 11 is Suddenly an Exciting Day for GTA 6 Players",
@@ -63,6 +73,26 @@
       "firstSeen": 1795728846181
     },
     {
+      "id": "n0ghghti6grv",
+      "title": "Popular GTA 6 PC project \"is not dead,\" 15-year-old lead clarifies",
+      "summary": "The teenage lead of the Leonida unofficial PC port project says it is back after the Discord takedown and will show new progress in the coming days.",
+      "source": "GamesRadar",
+      "category": "Community",
+      "url": "https://gamesradar.com/games/grand-theft-auto/popular-gta-6-pc-project-is-not-dead-15-year-old-lead-clarifies-days-after-quitting-over-rockstars-apparent-discord-takedown-and-angry-middle-aged-men",
+      "publishedAt": 1795701509759,
+      "firstSeen": 1795787909759
+    },
+    {
+      "id": "n1ymcwh582wt",
+      "title": "GTA 6 players fix the weather system themselves after Rockstar's latest patch left them hanging",
+      "summary": "Players say clearing the PS5 system cache fixes the stuck-weather bug that the first patch didn't fix for them, and they report storms appearing straight away.",
+      "source": "GamesRadar",
+      "category": "Community",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-players-fix-the-weather-system-themselves-after-rockstars-latest-patch-left-them-hanging-its-super-easy-and-takes-like-two-minutes/",
+      "publishedAt": 1795701509759,
+      "firstSeen": 1795787909759
+    },
+    {
       "id": "n1tqzfh3at0t",
       "title": "GTA 6 Secret Mission in Capri: How to Find and Complete the Hidden Mission",
       "summary": "A walkthrough of a hidden Capri mission that starts when you get arrested and ends with you escaping a police holding facility and getting the CPD Moreland 850 shotgun.",
@@ -71,43 +101,13 @@
       "url": "https://www.videogameschronicle.com/guide/gta-6-secret-mission-in-capri-how-to-find-and-complete-the-hidden-mission/",
       "publishedAt": 1795700046181,
       "firstSeen": 1795728846181
-    },
-    {
-      "id": "n0sagendn9yi",
-      "title": "GTA 6 PC Port Already Runs at 24 FPS, Uses 10 GB of RAM",
-      "summary": "An unofficial PC build is reportedly reaching 24 FPS in gameplay on 10 GB of RAM, even as Take-Two issues DMCA takedowns against recompilation projects.",
-      "source": "Game Rant",
-      "category": "Leak",
-      "url": "https://gamerant.com/gta-6-pc-port-progress-tracker-24-fps",
-      "publishedAt": 1795683346831,
-      "firstSeen": 1795690546831
-    },
-    {
-      "id": "n20exldza9sy",
-      "title": "How to get abducted and find aliens in GTA 6",
-      "summary": "GamesRadar's guide covers triggering the abduction, the dream puzzle and keypad code, and rescuing the alien for permanent health, stamina and focus boosts.",
-      "source": "GamesRadar",
-      "category": "Community",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-alien-mission-abduction/",
-      "publishedAt": 1795676146831,
-      "firstSeen": 1795690546831
-    },
-    {
-      "id": "n2fkzm26v2s5",
-      "title": "Unofficial GTA 6 PC port scrapped as Rockstar allegedly takes down Discord server, hours after devs managed to get the game booting",
-      "summary": "The lead of Project Leonida quit after its Discord server and GitHub repository vanished, with the lead alleging Rockstar was behind the takedown.",
-      "source": "GamesRadar",
-      "category": "Leak",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/unofficial-gta-6-pc-port-scrapped-as-rockstar-allegedly-takes-down-discord-server-hours-after-devs-managed-to-get-the-game-booting/",
-      "publishedAt": 1795666555112,
-      "firstSeen": 1795752955112
     }
   ],
   "model": "claude-sonnet-5-5",
   "usage": {
-    "inputTokens": 59262,
-    "outputTokens": 1192,
-    "searches": 2
+    "inputTokens": 89983,
+    "outputTokens": 1588,
+    "searches": 4
   },
-  "added": 4
+  "added": 3
 }
