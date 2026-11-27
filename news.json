@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "fetchedAt": 1795787909759,
+  "fetchedAt": 1795819417869,
   "items": [
+    {
+      "id": "n1qpfq5gogz2",
+      "title": "Black Friday GTA 6 deals LIVE",
+      "summary": "A live tracker of Black Friday GTA 6 discounts, including the first $10 price cut on the PS5 digital version in the US and cheaper Xbox and PS5 copies in the UK.",
+      "source": "GamesRadar",
+      "category": "Update",
+      "url": "https://www.gamesradar.com/live/news/black-friday-gta-6-deals-live/",
+      "publishedAt": 1795808617869,
+      "firstSeen": 1795819417869
+    },
+    {
+      "id": "n0dba45ate4n",
+      "title": "GTA 6 sales estimates place it above Cyberpunk 2077, The Sims, and the first Pokemon games as the 13th best-selling game ever",
+      "summary": "Alinea Analytics estimates GTA 6 sold 53 million copies and made $4.7 billion in its first week, with about 76% of sales on PS5.",
+      "source": "GamesRadar",
+      "category": "Update",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-sales-estimates-place-it-above-cyberpunk-2077-the-sims-and-the-first-pokemon-games-as-the-13th-best-selling-game-ever/",
+      "publishedAt": 1795801417869,
+      "firstSeen": 1795819417869
+    },
     {
       "id": "n0xx8jq0asv9",
       "title": "GTA 6 multiplayer reportedly running on PC as unofficial ports near completion, but it's certainly no Grand Theft Auto Online",
@@ -81,33 +101,13 @@
       "url": "https://gamesradar.com/games/grand-theft-auto/popular-gta-6-pc-project-is-not-dead-15-year-old-lead-clarifies-days-after-quitting-over-rockstars-apparent-discord-takedown-and-angry-middle-aged-men",
       "publishedAt": 1795701509759,
       "firstSeen": 1795787909759
-    },
-    {
-      "id": "n1ymcwh582wt",
-      "title": "GTA 6 players fix the weather system themselves after Rockstar's latest patch left them hanging",
-      "summary": "Players say clearing the PS5 system cache fixes the stuck-weather bug that the first patch didn't fix for them, and they report storms appearing straight away.",
-      "source": "GamesRadar",
-      "category": "Community",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-players-fix-the-weather-system-themselves-after-rockstars-latest-patch-left-them-hanging-its-super-easy-and-takes-like-two-minutes/",
-      "publishedAt": 1795701509759,
-      "firstSeen": 1795787909759
-    },
-    {
-      "id": "n1tqzfh3at0t",
-      "title": "GTA 6 Secret Mission in Capri: How to Find and Complete the Hidden Mission",
-      "summary": "A walkthrough of a hidden Capri mission that starts when you get arrested and ends with you escaping a police holding facility and getting the CPD Moreland 850 shotgun.",
-      "source": "Video Games Chronicle",
-      "category": "Community",
-      "url": "https://www.videogameschronicle.com/guide/gta-6-secret-mission-in-capri-how-to-find-and-complete-the-hidden-mission/",
-      "publishedAt": 1795700046181,
-      "firstSeen": 1795728846181
     }
   ],
   "model": "claude-sonnet-5-5",
   "usage": {
-    "inputTokens": 89983,
-    "outputTokens": 1588,
-    "searches": 4
+    "inputTokens": 56747,
+    "outputTokens": 885,
+    "searches": 2
   },
-  "added": 3
+  "added": 2
 }
