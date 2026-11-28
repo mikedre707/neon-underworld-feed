@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "fetchedAt": 1795852270053,
+  "fetchedAt": 1795884851592,
   "items": [
+    {
+      "id": "n2g8w7i6r00o",
+      "title": "Gamer Gets Hate for Playing GTA 6 While Their Wife is Giving Birth",
+      "summary": "A viral TikTok of a new dad playing GTA 6 in the delivery room drew heavy backlash, though he says his wife suggested he bring the console.",
+      "source": "Game Rant",
+      "category": "Community",
+      "url": "https://gamerant.com/gta-6-playing-hospital-wife-giving-birth",
+      "publishedAt": 1795866851592,
+      "firstSeen": 1795884851592
+    },
+    {
+      "id": "n2bs5pyqlhd8",
+      "title": "5 ways to make sure your console isn't holding back your GTA 6 performance",
+      "summary": "Engadget notes that update 01.002.002 doesn't mention performance and that rumors of a Nov 25 stuttering fix came to nothing, then lists console tweaks.",
+      "source": "Engadget",
+      "category": "Patch",
+      "url": "https://engadget.com/2329878/gta-6-performance-ways-make-sure-console-not-holding-back",
+      "publishedAt": 1795863251592,
+      "firstSeen": 1795884851592
+    },
     {
       "id": "n1qpfq5gogz2",
       "title": "Black Friday GTA 6 deals LIVE",
@@ -21,6 +41,16 @@
       "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-sales-estimates-place-it-above-cyberpunk-2077-the-sims-and-the-first-pokemon-games-as-the-13th-best-selling-game-ever/",
       "publishedAt": 1795801417869,
       "firstSeen": 1795819417869
+    },
+    {
+      "id": "n2d16xzhzfb1",
+      "title": "GTA 6 President's Bunker questline walkthrough: All Locations, Codes, Puzzles and Rewards",
+      "summary": "A guide to the hidden President's Bunker questline, covering the codes, puzzles and the secret tank reward.",
+      "source": "Video Games Chronicle",
+      "category": "Update",
+      "url": "https://www.videogameschronicle.com/guide/gta-6-presidents-bunker-questline-walkthrough-all-locations-codes-puzzles-and-rewards/",
+      "publishedAt": 1795798451592,
+      "firstSeen": 1795884851592
     },
     {
       "id": "n0xx8jq0asv9",
@@ -63,51 +93,21 @@
       "firstSeen": 1795752955112
     },
     {
-      "id": "n130l125104p",
-      "title": "GTA 6 Softlock Bug Keeps You From Finishing the Main Story",
-      "summary": "Some players get stuck at roughly 72% story completion when Raul never calls Lucia in the mission Raul's Plan, and the article describes a workaround that involves Valentina's call.",
-      "source": "Game Rant",
-      "category": "Community",
-      "url": "https://gamerant.com/gta-6-raul-plan-glitch-not-calling-lucia-fix-how-ps5-xbox",
-      "publishedAt": 1795710846181,
-      "firstSeen": 1795728846181
-    },
-    {
-      "id": "n28jaxorabai",
-      "title": "Union Vote Fails In Landslide At GTA 6 Studio Rockstar Games As 75 Percent Of Devs Vote No",
-      "summary": "UK Rockstar developers voted about 75% against a union recognition deal with the IWGB, and Rockstar's head of publishing said the result reflects staff support for direct collaboration.",
-      "source": "Kotaku",
-      "category": "Update",
-      "url": "https://kotaku.com/rockstar-games-union-vote-fails-as-75-percent-of-devs-vote-no-2001000621",
-      "publishedAt": 1795707246181,
-      "firstSeen": 1795728846181
-    },
-    {
-      "id": "n298atdmbu3f",
-      "title": "GTA 6 appears to be running on Windows PCs, but malware, takedowns, and legal risks make it a dangerous temptation",
-      "summary": "Unofficial recompilation builds are now reportedly running GTA 6 on PC at 60+ FPS, but Take-Two takedowns and malware risks surround them.",
-      "source": "Windows Central",
-      "category": "Leak",
-      "url": "https://www.windowscentral.com/gaming/pc-gaming/gta-6-windows-pc-recompilation-explained",
-      "publishedAt": 1795706155112,
-      "firstSeen": 1795752955112
-    },
-    {
-      "id": "n2ekai1hi7mg",
-      "title": "GTA 6: All Secret Radio Stations and how to unlock them",
-      "summary": "A guide to unlocking The Vault and Kodak Black's The Sniper of LaPerle radio stations by scanning posters around Vice City.",
+      "id": "n1tqzfh3at0t",
+      "title": "GTA 6 Secret Mission in Capri: How to Find and Complete the Hidden Mission",
+      "summary": "A walkthrough of a hidden Capri mission that starts when you surrender to police and ends with the CPD Moreland 850 shotgun.",
       "source": "Video Games Chronicle",
-      "category": "Community",
-      "url": "https://www.videogameschronicle.com/guide/gta-6-secret-radio-stations-unlock/",
-      "publishedAt": 1795703646181,
-      "firstSeen": 1795728846181
+      "category": "Update",
+      "url": "https://www.videogameschronicle.com/guide/gta-6-secret-mission-in-capri-how-to-find-and-complete-the-hidden-mission/",
+      "publishedAt": 1795712051592,
+      "firstSeen": 1795884851592
     }
   ],
   "model": "claude-sonnet-5-5",
   "usage": {
-    "inputTokens": 87471,
-    "outputTokens": 1081,
+    "inputTokens": 85604,
+    "outputTokens": 1343,
     "searches": 3
   },
-  "added": 1
+  "added": 4
 }
