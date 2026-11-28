@@ -1,150 +1,144 @@
 {
   "version": 1,
-  "fetchedAt": 1795823052329,
+  "fetchedAt": 1795868621230,
   "items": [
     {
       "topic": "story",
-      "fact": "The campaign has five chapters and 91 story missions, following Jason and Lucia through Leonida's criminal underworld.",
+      "fact": "The campaign is split into five chapters with 91 story missions in total, following the duo Jason and Lucia through Leonida's criminal underworld.",
       "source": "pcgamer.com",
       "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-mission-list/"
     },
     {
       "topic": "story",
-      "fact": "The chapters are Just Like Paradise (Leonida Keys), Paradise Lost (Port Gellhorn), Tits, Ass, Drug Money (Vice City), Vice City, Baby, and Top of the World, Ma.",
+      "fact": "Story missions per chapter are 22, 11, 26, 25 and 7. Chapter 2 also has three optional missions and Chapter 3 has one.",
+      "source": "gamerant.com",
+      "url": "https://gamerant.com/gta-6-main-story-missions-chapters-list/"
+    },
+    {
+      "topic": "story",
+      "fact": "The chapters are named Just Like Paradise, Paradise Lost, Tits Ass Drug Money, Vice City Baby, and Top of the World, Ma. They are set mainly in the Leonida Keys, Port Gellhorn, and then Vice City.",
       "source": "gamesradar.com",
       "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-mission-list/"
     },
     {
       "topic": "story",
-      "fact": "Chapter 1 has 22 main missions and Chapter 5 is the shortest with 7, while some Chapter 2 and 3 missions are optional (Thrillbillies, Twist Wrist Smash Grab, Kitty Litter Labs).",
+      "fact": "Each chapter has a point of no return. For example, Chapter 1 locks once you start Tourist Trap, and Chapter 3 ends after the Cartel Heist, where you pick Hang Out or Go Now. After the finale you return to the Chapter 5 point of no return to finish side content.",
       "source": "gamerant.com",
-      "url": "https://gamerant.com/gta-6-main-story-missions-chapters-list/"
+      "url": "https://gamerant.com/gta-6-missables-points-of-no-return-grand-theft-auto-6/"
     },
     {
       "topic": "characters",
-      "fact": "Chapter 1 centers on Jason, Lucia, Cal, Donnie and Brian, and the opening has Lucia meeting a prison counselor before she is released from Hamlet Correctional.",
-      "source": "insider-gaming.com",
-      "url": "https://insider-gaming.com/gta-6-chapter-1-mission-list-in-order/"
-    },
-    {
-      "topic": "characters",
-      "fact": "Chapter 5 involves Giorgio and the ORCAs, Kat and Mattia's baby, a lawyer-arranged deal with Abe, and a raid on Giorgio's penthouse as the final mission.",
-      "source": "insider-gaming.com",
-      "url": "https://insider-gaming.com/gta-6-chapter-5-mission-list-every-mission-in-gta-6-chapter-5-in-order/"
+      "fact": "The two playable leads are Jason and Lucia. Chapter 1 starts with Jason, and Lucia joins in after her prologue and the Coming Home mission. Supporting names include Donnie, Cal, Dre'Quan, Raul, Tyrone, and Boobie.",
+      "source": "pcgamer.com",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-mission-list/"
     },
     {
       "topic": "map",
-      "fact": "Leonida is divided into five counties, and collectible cards are spread across all of them.",
-      "source": "gamerant.com",
-      "url": "https://gamerant.com/gta-6-what-do-collectible-cards-how-sell-where/"
+      "fact": "Leonida has six regions: Vice City, Leonida Keys, Grassrivers, Port Gellhorn, Ambrosia, and Mount Kalaga National Park. Rockstar says the map is about twice the size of GTA 5's.",
+      "source": "videogameschronicle.com",
+      "url": "https://www.videogameschronicle.com/news/gta-6-map-is-officially-twice-as-large-as-gta-5-features-hurricanes-and-tropical-storms/"
     },
     {
       "topic": "map",
-      "fact": "An interactive map of the game lists 1,075 marked places in nine categories, including robbery targets and hidden packages.",
+      "fact": "One interactive map lists 1,075 marked places across Leonida, sorted into nine categories. Those include robbery targets, safehouses, and hidden packages.",
       "source": "thegamer.com",
       "url": "https://www.thegamer.com/gta-6-interactive-map-every-location-in-leonida/"
     },
     {
       "topic": "collectibles",
-      "fact": "There are 18 collectible card sets (baseball, basketball, football, soccer, dancers, comics and novelty), and collecting three cards in each of the 5 counties unlocks the cards achievement.",
-      "source": "gamerant.com",
-      "url": "https://gamerant.com/gta-6-what-do-collectible-cards-how-sell-where/"
+      "fact": "There are 18 collectible card sets. Cards can be sold at pawn shops, and you can view your collection in a wooden box in your apartment.",
+      "source": "pushsquare.com",
+      "url": "https://www.pushsquare.com/guides/gta-6-collectible-card-locations"
     },
     {
       "topic": "collectibles",
-      "fact": "Dexerto has pinned 103 collectible cards on its interactive map so far.",
+      "fact": "Dexerto has pinned 103 collectible cards on its map so far, spread across places like Hamlet, Key Lento, Port Gellhorn, and Grassrivers.",
       "source": "dexerto.com",
       "url": "https://www.dexerto.com/wikis/gta-6/collectible-card-locations/"
     },
     {
       "topic": "collectibles",
-      "fact": "There are 33 Underwater Discovery locations, and Kenton's 8 treasure sites (six of which count toward that total) are found with a metal detector and sold to Kenton.",
-      "source": "pushsquare.com",
-      "url": "https://www.pushsquare.com/guides/gta-6-underwater-discoveries-locations-and-kentons-treasures"
-    },
-    {
-      "topic": "collectibles",
-      "fact": "There are 35 WAiNK Curiosities to find, which are small oddities or pieces of infrastructure around Leonida.",
-      "source": "pushsquare.com",
-      "url": "https://www.pushsquare.com/guides/gta-6-waink-curiosities-locations"
-    },
-    {
-      "topic": "collectibles",
-      "fact": "There are 27 magazines, books and comics to find (counted separately from Book Swaps), though Dexerto's map lists 30.",
-      "source": "pushsquare.com",
-      "url": "https://www.pushsquare.com/guides/gta-6-magazines-books-and-comics-locations"
+      "fact": "Cards, books and magazines found in safehouses like the Chapter 2 motel move elsewhere after a chapter's point of no return. You can still find them, but not in the original spot.",
+      "source": "gamerant.com",
+      "url": "https://gamerant.com/gta-6-missables-points-of-no-return-grand-theft-auto-6/"
     },
     {
       "topic": "activities",
-      "fact": "Demolition races at Ambrosia Raceway pay over $3,000 on the oval, roughly double on the figure-eight, and can be repeated.",
-      "source": "pcgamer.com",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-how-to-make-money/"
+      "fact": "Optional Chapter 2 activities include Thrillbillies, Twist Wrist Smash Grab, Hit Kingpin Bowling, Hit Avery Pawn, and Veteran Hunted, which is Jason only. You can do them before leaving the motel area.",
+      "source": "gamespot.com",
+      "url": "https://www.gamespot.com/articles/gta-6-dont-finish-chapter-2-before-doing-these-things/"
     },
     {
       "topic": "activities",
-      "fact": "Hunting jobs for Bret in Lummox County start in Chapter 2 (Jason only), and Pilot Pete's timed cocaine air drops open up in Chapter 4.",
+      "fact": "The side content includes Strangers & Freaks missions, such as Kirk's skunk ape hunt, plus robbery missions like Moses vehicle drop-offs and Kitty Litter Labs. There is also a house repair exploration task.",
+      "source": "pushsquare.com",
+      "url": "https://www.pushsquare.com/guides/gta-6-guide"
+    },
+    {
+      "topic": "money",
+      "fact": "Money is tight early on, and robbery loot is sold in stash bags to fences, Tyrone in Vice City, or earlier contacts like Donnie and Dunk. Tyrone pays the best prices.",
       "source": "pcgamer.com",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-how-to-make-money/"
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-infinite-money-glitch/"
     },
     {
       "topic": "money",
-      "fact": "Large bank vault robberies pay up to $200,000 but only unlock near the end of Chapter 4, after the 'That's Where The Money Is...' side quest and two Payday Loan jobs.",
-      "source": "dexerto.com",
-      "url": "https://www.dexerto.com/wikis/gta-6/how-to-make-money-fast/"
-    },
-    {
-      "topic": "money",
-      "fact": "Moses buys untracked stolen cars from Chapter 2 for roughly $1,000 to $5,000 each, while Randy pays $30,000 or more for high-end cars from Chapter 3.",
-      "source": "videogameschronicle.com",
-      "url": "https://www.videogameschronicle.com/guide/how-to-make-money-in-gta-6/"
+      "fact": "Chapter 4's Bad Driver mission lets you kill Felipe for an immediate $20,000. Sparing him instead unlocks his car later.",
+      "source": "comicbook.com",
+      "url": "https://comicbook.com/gaming/feature/gta-6-every-major-missable-mission-reward-in-each-chapter-of-the-game/"
     },
     {
       "topic": "vehicles",
-      "fact": "Randy's wish list covers 18 high-end sports cars, and standard-tracker cars can be sold at any Pay 'n' Spray for around $4,000.",
-      "source": "insider-gaming.com",
-      "url": "https://insider-gaming.com/gta-6-money-making/"
+      "fact": "Vans have 10 slots for stash bags, which is why they suit loot runs. Pest control vans are parked outside the Hamlet warehouse.",
+      "source": "pcgamer.com",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-infinite-money-glitch/"
+    },
+    {
+      "topic": "vehicles",
+      "fact": "A Chapter 3 Snapmatic post leads to a free garage and a unique 1010 Cheetah. The post disappears after a while, so check your phone often.",
+      "source": "gamerant.com",
+      "url": "https://gamerant.com/gta-6-missables-points-of-no-return-grand-theft-auto-6/"
     },
     {
       "topic": "tips",
-      "fact": "Check the WAiNK app for vehicle trackers before boosting a car, since tracked cars can't be sold to Moses.",
-      "source": "thegamer.com",
-      "url": "https://www.thegamer.com/grand-theft-auto-6-make-money-fast/"
+      "fact": "Make manual saves often and rotate save slots. Missions can't be replayed, and old manual saves are the only way to redo story sections without restarting.",
+      "source": "gamerant.com",
+      "url": "https://gamerant.com/gta-6-patch-jason-grayed-out-cant-switch-bug"
     },
     {
       "topic": "tips",
-      "fact": "Cheaper fast travel is available via buses and trains on a schedule, and medium or high-security robberies are much easier with both Jason and Lucia.",
-      "source": "gamespot.com",
-      "url": "https://www.gamespot.com/articles/gta-6-tips-everything-i-wish-i-knew-before-i-started-playing/"
-    },
-    {
-      "topic": "tips",
-      "fact": "In Chapter 4's 'Bad Driver!', killing Felipe pays $20,000 immediately while sparing him unlocks a car later, so save manually first and finish it before 'Power Play'.",
+      "fact": "Before ditching Donnie's car in Chapter 1, take the unique H&L .38 Revolver from its trunk. You can't get it once the car is gone.",
       "source": "comicbook.com",
       "url": "https://comicbook.com/gaming/feature/gta-6-every-major-missable-mission-reward-in-each-chapter-of-the-game/"
     },
     {
       "topic": "patches",
-      "fact": "Update 01.002.002 (Nov 23, 2026) fixed autosaving, story-blocking phone calls, crashes, weather not changing, and being unable to lose a Wanted level.",
-      "source": "videogameschronicle.com",
-      "url": "https://www.videogameschronicle.com/news/grand-theft-auto-6-has-received-a-new-patch-which-fixes-autosaving/"
+      "fact": "Update 1.002.002 came out on November 23. It fixes crashes, autosave failures, weather that wouldn't change, phone calls that failed to trigger, and the inability to lose a Wanted level.",
+      "source": "kotaku.com",
+      "url": "https://kotaku.com/gta-6s-first-post-launch-update-fixes-7-bugs-2000759480"
     },
     {
       "topic": "patches",
-      "fact": "Players report a Chapter 3 softlock after the Missing Persons side quest, where Jason is greyed out, and the patch didn't fix it. Loading an older manual save or calling Dunk has worked for some.",
+      "fact": "The patch also fixed a stuck gym deadlift bar and partners not handing over bags to sell to fences.",
+      "source": "techradar.com",
+      "url": "https://www.techradar.com/gaming/gta-6s-first-update-delivers-3-key-fixes-for-ps5-and-xbox-gamers-cures-autosave-and-mission-failing-woes-and-makes-dynamic-weather-actually-work"
+    },
+    {
+      "topic": "patches",
+      "fact": "A Chapter 3 softlock is still reported after the patch. After the Missing Persons side quest, Jason is greyed out and can't be selected. Reported workarounds are loading an older manual save or calling Dunk.",
       "source": "gamerant.com",
-      "url": "https://gamerant.com/gta-6-patch-jason-grayed-out-cant-switch-bug/"
+      "url": "https://gamerant.com/gta-6-patch-jason-grayed-out-cant-switch-bug"
     },
     {
       "topic": "patches",
-      "fact": "The weather-stuck bug persists for many players after the patch, and clearing the PS5 system cache has fixed it for some but not all.",
-      "source": "gamesradar.com",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-players-fix-the-weather-system-themselves-after-rockstars-latest-patch-left-them-hanging-its-super-easy-and-takes-like-two-minutes/"
+      "fact": "The base game is 212GB, and PS5 players were still reporting error CE-108255-1 as of November 25. Free space of about twice the install size may be needed to install patches.",
+      "source": "engadget.com",
+      "url": "https://engadget.com/2329878/gta-6-performance-ways-make-sure-console-not-holding-back"
     }
   ],
   "model": "claude-sonnet-5-5",
   "usage": {
-    "inputTokens": 132013,
-    "outputTokens": 3432,
-    "searches": 4
+    "inputTokens": 74949,
+    "outputTokens": 3138,
+    "searches": 3
   }
 }
