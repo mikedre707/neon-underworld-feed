@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "fetchedAt": 1795819417869,
+  "fetchedAt": 1795852270053,
   "items": [
     {
       "id": "n1qpfq5gogz2",
@@ -31,6 +31,16 @@
       "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-multiplayer-reportedly-running-on-pc-as-unofficial-ports-near-completion-but-its-certainly-no-grand-theft-auto-online/",
       "publishedAt": 1795769909759,
       "firstSeen": 1795787909759
+    },
+    {
+      "id": "n1wzvlcothif",
+      "title": "Former Rockstar artist says GTA 6 looks \"almost flawless\" but loses to Red Dead Redemption 2 in a few areas",
+      "summary": "Ex-Rockstar environment artist David O'Reilly explored Mount Kalaga and said GTA 6's rivers and wilderness detail are slightly behind RDR2's, while its urban detail is stronger.",
+      "source": "GamesRadar",
+      "category": "Community",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/former-rockstar-artist-says-gta-6-looks-almost-flawless-but-loses-to-red-dead-redemption-2-in-a-few-areas/",
+      "publishedAt": 1795765870053,
+      "firstSeen": 1795852270053
     },
     {
       "id": "n1p2gs4ddsdu",
@@ -91,23 +101,13 @@
       "url": "https://www.videogameschronicle.com/guide/gta-6-secret-radio-stations-unlock/",
       "publishedAt": 1795703646181,
       "firstSeen": 1795728846181
-    },
-    {
-      "id": "n0ghghti6grv",
-      "title": "Popular GTA 6 PC project \"is not dead,\" 15-year-old lead clarifies",
-      "summary": "The teenage lead of the Leonida unofficial PC port project says it is back after the Discord takedown and will show new progress in the coming days.",
-      "source": "GamesRadar",
-      "category": "Community",
-      "url": "https://gamesradar.com/games/grand-theft-auto/popular-gta-6-pc-project-is-not-dead-15-year-old-lead-clarifies-days-after-quitting-over-rockstars-apparent-discord-takedown-and-angry-middle-aged-men",
-      "publishedAt": 1795701509759,
-      "firstSeen": 1795787909759
     }
   ],
   "model": "claude-sonnet-5-5",
   "usage": {
-    "inputTokens": 56747,
-    "outputTokens": 885,
-    "searches": 2
+    "inputTokens": 87471,
+    "outputTokens": 1081,
+    "searches": 3
   },
-  "added": 2
+  "added": 1
 }
